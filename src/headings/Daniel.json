@@ -1,0 +1,284 @@
+{
+  "name": "Daniel",
+  "chapters": [
+    21,
+    49,
+    33,
+    34,
+    30,
+    29,
+    28,
+    27,
+    27,
+    21,
+    45,
+    13
+  ],
+  "headings": [
+    {
+      "heading": "Daniel und seine Gefährten am babylonischen Königshof",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Nebukadnezars beunruhigender Traum",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Daniel bittet Gott um Weisheit und empfängt die Offenbarung des Traums",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Deutung des Traumesvom großen Standbild",
+      "start": {
+        "chapter": 2,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Das große goldene Standbild Nebukadnezars",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die drei Gefährten Daniels beten das Standbild nicht an und werden in den Feuerofen geworfen",
+      "start": {
+        "chapter": 3,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die wunderbare Errettung der drei Glaubenszeugen",
+      "start": {
+        "chapter": 3,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Der Traum Nebukadnezars von dem großen Baum",
+      "start": {
+        "chapter": 3,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Daniel deutet den Traum",
+      "start": {
+        "chapter": 4,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die Erniedrigung und Wiederherstellung Nebukadnezars",
+      "start": {
+        "chapter": 4,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "König Belsazars Vermessenheit und das göttliche Gericht",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Daniels Errettung aus der Löwengrube",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Das Gesicht von den vier Tieren und dem Menschensohn",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Deutung des Gesichtes von den vier Tieren",
+      "start": {
+        "chapter": 7,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Das Gesicht vom Widder und vom Ziegenbock",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Deutung des Gesichtes vom Widder und vom Ziegenbock",
+      "start": {
+        "chapter": 8,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Daniels Gebet für sein Volk",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Antwort Gottes: Die Ankündigung des Messias und die 70 Jahrwochen",
+      "start": {
+        "chapter": 9,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Daniel fastet und sieht eine himmlische Erscheinung",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Ein Engel stärkt Daniel. Der Kampf der Engelmächte",
+      "start": {
+        "chapter": 10,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Botschaft des Engels über die künftigen Geschichtsereignisse",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Entweihung des Heiligtums durch den verachteten Herrscher des Nordens",
+      "start": {
+        "chapter": 11,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Der vermessene König zur Zeit des Endes",
+      "start": {
+        "chapter": 11,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 45
+      }
+    },
+    {
+      "heading": "Die große Drangsal zur Zeit des Endes und die Rettung Israels",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 13
+      }
+    }
+  ],
+  "selected": false
+}

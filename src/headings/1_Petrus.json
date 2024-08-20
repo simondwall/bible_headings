@@ -1,0 +1,35 @@
+{
+  "name": "1. Petrus",
+  "chapters": [
+    25,
+    25,
+    22,
+    19,
+    14
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Schlusswort und Gruß",
+      "start": {
+        "chapter": 5,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    }
+  ],
+  "selected": false
+}

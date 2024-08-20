@@ -1,0 +1,472 @@
+{
+  "name": "2. Samuel",
+  "chapters": [
+    27,
+    32,
+    39,
+    12,
+    25,
+    23,
+    29,
+    18,
+    13,
+    19,
+    27,
+    31,
+    39,
+    33,
+    37,
+    23,
+    29,
+    32,
+    44,
+    26,
+    22,
+    51,
+    39,
+    25
+  ],
+  "headings": [
+    {
+      "heading": "David erfährt vom Tod Sauls und Jonathans",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Davids Klage um Saul und Jonathan",
+      "start": {
+        "chapter": 1,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "David wird König von Juda in Hebron. Ischboseth wird König von Israel",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Streit zwischen Juda und Israel",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "David gewinnt an Stärke. Abner geht zu David über",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Joab tötet Abner",
+      "start": {
+        "chapter": 3,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Ischboseth wird ermordet",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "David wird König von ganz Israelund zieht nach Jerusalem",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Doppelter Sieg Davids über die Philister",
+      "start": {
+        "chapter": 5,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die Überführung der Bundesladenach Jerusalem",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Davids Wunsch, dem Herrn einen Tempel zu bauen. Gottes Verheißung für David und sein Königtum",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Davids Dankgebet",
+      "start": {
+        "chapter": 7,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Davids siegreiche Feldzüge",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "David erweist Gnade an Mephiboseth",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Krieg gegen die Ammoniter und Aramäer",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Belagerung von Rabba. Davids Ehebruch und Mord an Urija",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Strafrede Nathans und Davids Buße",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Amnons Schandtat",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Absaloms Rache an Amnon; seine Flucht",
+      "start": {
+        "chapter": 13,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Joabs Ränkespiel und Absaloms Rückkehr",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Absaloms Aufruhr",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Davids Flucht. Seine Freunde und Feinde",
+      "start": {
+        "chapter": 15,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "David auf der Flucht. Simeis Fluchen",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Absaloms Einzug in Jerusalem",
+      "start": {
+        "chapter": 16,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Ahitophels Rat wird durch Husai vereitelt",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "David in Mahanajim",
+      "start": {
+        "chapter": 17,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Absaloms Niederlage und Tod",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Davids Trauer um Absalom",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Davids Rückkehr nach Jerusalem",
+      "start": {
+        "chapter": 19,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "David begnadigt Simei",
+      "start": {
+        "chapter": 19,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "David und Mephiboseth",
+      "start": {
+        "chapter": 19,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "David und Barsillai",
+      "start": {
+        "chapter": 19,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Schebas Aufruhr gegen David",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Gibeoniter rächen sich am Haus Sauls",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Letzte Kämpfe mit den Philistern",
+      "start": {
+        "chapter": 21,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Davids Danklied",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "Davids letzte Worte",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Helden Davids",
+      "start": {
+        "chapter": 23,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Davids Volkszählung und das Gericht Gottes",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Davids Schuldbekenntnis und Brandopfer",
+      "start": {
+        "chapter": 24,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 25
+      }
+    }
+  ],
+  "selected": false
+}

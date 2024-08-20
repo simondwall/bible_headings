@@ -1,0 +1,666 @@
+{
+  "name": "Hiob",
+  "chapters": [
+    22,
+    13,
+    26,
+    21,
+    27,
+    30,
+    21,
+    22,
+    35,
+    22,
+    20,
+    25,
+    28,
+    22,
+    35,
+    22,
+    16,
+    21,
+    29,
+    29,
+    34,
+    30,
+    17,
+    25,
+    6,
+    14,
+    23,
+    28,
+    25,
+    31,
+    40,
+    22,
+    33,
+    37,
+    16,
+    33,
+    24,
+    41,
+    30,
+    32,
+    26,
+    17
+  ],
+  "headings": [
+    {
+      "heading": "Hiobs Rechtschaffenheit",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Hiob wird von Satan angeklagt. Gott lässt zu, dass er geprüft wird",
+      "start": {
+        "chapter": 1,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Hiob verliert seine Güter und seine Familie",
+      "start": {
+        "chapter": 1,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Hiob wird durch schwere Krankheit geprüft",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Besuch der drei Freunde Hiobs",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Hiob verflucht den Tag seiner Geburt",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die erste Rede des Eliphas",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Eliphas ermahnt Hiob, die Züchtigung anzunehmen",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Hiobs Unmut und Schmerz",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Hiob wehrt sich gegen die Zurechtweisungen seiner Freunde",
+      "start": {
+        "chapter": 6,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Hiobs Leiden und Auflehnung",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die erste Rede des Bildad",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Hiobs Antwort auf Bildad: Er anerkennt Gottes Allmacht",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Hiob bezichtigt Gott der Ungerechtigkeit",
+      "start": {
+        "chapter": 9,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Hiob fühlt sich von Gott grundlos bedrängt",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die erste Rede des Zophar",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Hiobs Antwort auf Zophar",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Hiob bezeugt die Macht Gottes",
+      "start": {
+        "chapter": 12,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Hiob will sich vor Gott rechtfertigen und verteidigen",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Hiob beschreibt das Elend des Menschen",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die zweite Rede des Eliphas",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Hiobs Antwort auf Eliphas",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Hiob klagt über sein Geschick",
+      "start": {
+        "chapter": 16,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Hiob schildert seine Leiden",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die zweite Rede des Bildad",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Hiobs Antwort auf Bildad. Klage über Gottes Züchtigungen",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Hiobs Glaube: »Ich weiß, dass mein Erlöser lebt«",
+      "start": {
+        "chapter": 19,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die zweite Rede des Zophar",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Hiobs Antwort: Das Wohlergehen der Gottlosen",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Die dritte Rede des Eliphas",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Hiobs Antwort auf Eliphas: Er will seine Rechtssache vor Gott bringen",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Hiob klagt, dass Gott das Treiben der Bösen gewähren lasse",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die dritte Rede des Bildad",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Letzte Erwiderung Hiobs an seine drei Freunde",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Hiob hält an seiner Unschuld fest",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Hiob auf der Suche nach der Weisheit",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Hiob blickt zurück auf sein einstiges Glück",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Hiobs Elend und Demütigung",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Hiob hält an seiner Unschuld fest",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Elihu tadelt Hiobs Freunde und redet zu Hiob",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Elihu verkündet das Heilswerk Gottes",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Elihu verkündet die souveräne Gerechtigkeit Gottes",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Elihu rät Hiob, Gott und seine Belehrung zu suchen",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Elihu beschreibt das Schicksal der Gerechten und der Gottlosen",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die unerforschlichen Wege Gottes",
+      "start": {
+        "chapter": 36,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Schluss der Rede Elihus: Der Gewittersturm bezeugt die Größe Gottes",
+      "start": {
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Herr selbst antwortet Hiob und stellt ihm prüfende Fragen",
+      "start": {
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Die Schöpfung bezeugt Gottes Macht und die Ohnmacht des Menschen",
+      "start": {
+        "chapter": 38,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Tierwelt weist auf die Größe und Weisheit Gottes hin",
+      "start": {
+        "chapter": 38,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Hiob demütigt sich vor Gott",
+      "start": {
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Der Herr verweist Hiob auf seine Herrlichkeit und Macht",
+      "start": {
+        "chapter": 40,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der Behemoth und seine Kraft",
+      "start": {
+        "chapter": 40,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Leviathan ist für den Menschen unbezwingbar — »Wer aber kann vor mir bestehen?«",
+      "start": {
+        "chapter": 40,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Hiobs Demütigung und Reue",
+      "start": {
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Hiob bittet für seine Freunde",
+      "start": {
+        "chapter": 42,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das gesegnete Ende Hiobs",
+      "start": {
+        "chapter": 42,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 17
+      }
+    }
+  ],
+  "selected": false
+}

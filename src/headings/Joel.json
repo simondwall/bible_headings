@@ -1,0 +1,100 @@
+{
+  "name": "Joel",
+  "chapters": [
+    20,
+    27,
+    5,
+    21
+  ],
+  "headings": [
+    {
+      "heading": "Die Heuschreckenplage – Sinnbild des assyrischen Einfalles",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Aufruf zur Buße angesichts des kommenden Tages des Herrn",
+      "start": {
+        "chapter": 1,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Das Verwüsterheer am Tag des Herrn",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Aufruf an das Volk zur Herzensumkehr",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Verheißung der Wiederherstellung für Israel nach dem Endgericht",
+      "start": {
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Ausgießung des Geistes Gottes auf das Volk",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Der Tag des Herrn bringt Gericht über die Heidenvölker",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Segensverheißungen für Israel",
+      "start": {
+        "chapter": 4,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 21
+      }
+    }
+  ],
+  "selected": false
+}

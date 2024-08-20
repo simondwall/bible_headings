@@ -1,0 +1,145 @@
+{
+  "name": "Jakobus",
+  "chapters": [
+    27,
+    26,
+    18,
+    17,
+    20
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Standhaftigkeit in Anfechtungen und Versuchungen",
+      "start": {
+        "chapter": 1,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Nicht nur Hörer, sondern Täter des Wortes sein",
+      "start": {
+        "chapter": 1,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Warnung vor der Bevorzugung bestimmter Personen",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Glauben und Werke",
+      "start": {
+        "chapter": 2,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Warnung vor dem Missbrauch der Zunge",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Weisheit von oben und die irdische Weisheit",
+      "start": {
+        "chapter": 3,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Gegen Begehrlichkeit und Freundschaft mit der Welt",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Aufruf zu Buße und Demütigung vor Gott",
+      "start": {
+        "chapter": 4,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Warnung vor Selbstsicherheit",
+      "start": {
+        "chapter": 4,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Warnung an die gottlosen Reichen",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Verschiedene Ermahnungen",
+      "start": {
+        "chapter": 5,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 20
+      }
+    }
+  ],
+  "selected": false
+}

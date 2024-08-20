@@ -1,0 +1,144 @@
+{
+  "name": "Philipper",
+  "chapters": [
+    30,
+    30,
+    21,
+    23
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Das Gebet des Apostels für die Gemeinde",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Zuversicht des Apostels in Gefangenschaft und Leiden",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Ermahnung zu Standhaftigkeit und Eintracht",
+      "start": {
+        "chapter": 1,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Gesinnung des Christus als Vorbild für die Gläubigen",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ermahnung zu einem heiligen Wandel",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Timotheus und Epaphroditus — zwei vorbildliche Diener Jesu Christi",
+      "start": {
+        "chapter": 2,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Das Vorbild des Paulus: Christus ist alles",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Warnung vor Feinden des Kreuzes des Christus",
+      "start": {
+        "chapter": 3,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Ansporn zu geistlichem Wandel",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Paulus dankt für die Gaben der Philipper",
+      "start": {
+        "chapter": 4,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Gruß und Segenswunsch",
+      "start": {
+        "chapter": 4,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 23
+      }
+    }
+  ],
+  "selected": false
+}

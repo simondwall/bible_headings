@@ -1,0 +1,1246 @@
+{
+  "name": "1. Mose",
+  "chapters": [
+    31,
+    25,
+    24,
+    26,
+    32,
+    22,
+    24,
+    22,
+    29,
+    32,
+    32,
+    20,
+    18,
+    24,
+    21,
+    16,
+    27,
+    33,
+    38,
+    18,
+    34,
+    24,
+    20,
+    67,
+    34,
+    35,
+    46,
+    22,
+    35,
+    43,
+    54,
+    33,
+    20,
+    31,
+    29,
+    43,
+    36,
+    30,
+    23,
+    23,
+    57,
+    38,
+    34,
+    34,
+    28,
+    34,
+    31,
+    22,
+    33,
+    26
+  ],
+  "headings": [
+    {
+      "heading": "Der Anfang der Welt: Gott erschafft Himmel und Erde",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Der erste Tag",
+      "start": {
+        "chapter": 1,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Der zweite Tag",
+      "start": {
+        "chapter": 1,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Der dritte Tag",
+      "start": {
+        "chapter": 1,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der vierte Tag",
+      "start": {
+        "chapter": 1,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Der fünfte Tag",
+      "start": {
+        "chapter": 1,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Der sechste Tag",
+      "start": {
+        "chapter": 1,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die Erschaffung des Menschen",
+      "start": {
+        "chapter": 1,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Der siebte Tag",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Gott bildet den Menschen und setzt ihn in den Garten Eden",
+      "start": {
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Erschaffung der Frau und die Einsetzung der Ehe",
+      "start": {
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der Sündenfall des Menschen",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Die Folgen des Sündenfalls",
+      "start": {
+        "chapter": 3,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Kain und Abel",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Nachkommen Kains",
+      "start": {
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Seth — der Ersatz für Abel",
+      "start": {
+        "chapter": 4,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Nachkommen Adams von Seth bis Noah",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die Bosheit der Menschen und Gottes Gericht",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Gottes Gnade für Noah. Der Bau der Arche",
+      "start": {
+        "chapter": 6,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Noah geht in die Arche",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Gericht der Sintflut",
+      "start": {
+        "chapter": 7,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das Versiegen der Wasserfluten",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Noah verlässt die Arche. Noahs Opfer und Gottes Verheißung",
+      "start": {
+        "chapter": 8,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Gottes Bund mit Noah",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Noahs Fluch und Segen über seine Söhne",
+      "start": {
+        "chapter": 9,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die Nachkommenschaft der drei Söhne Noahs",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Der Turmbau von Babel",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Vorfahren Abrams",
+      "start": {
+        "chapter": 11,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Gott beruft Abram und sendet ihn nach Kanaan",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Abram in Ägypten",
+      "start": {
+        "chapter": 12,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Abrams Rückkehr nach Kanaan. Trennung von Lot",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Gott erneuert seine Verheißungen an Abram",
+      "start": {
+        "chapter": 13,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Abram rettet Lot",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Melchisedek segnet Abram",
+      "start": {
+        "chapter": 14,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Gott verheißt Abram einen Sohn und schließt einen Bund mit ihm",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Hagar und Ismael",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Gottes Bund mit Abraham. Beschneidung und Verheißung Isaaks",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Der Herr erscheint Abraham bei Mamre",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Abrahams Fürbitte für Sodom",
+      "start": {
+        "chapter": 18,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Rettung Lots vor dem kommenden Gericht",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Gottes Gericht über Sodom und Gomorra",
+      "start": {
+        "chapter": 19,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Lot und seine Töchter. Die Entstehung der Moabiter und Ammoniter",
+      "start": {
+        "chapter": 19,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Abraham und Sarah bei Abimelech",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Geburt Isaaks",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Austreibung Hagars und Ismaels",
+      "start": {
+        "chapter": 21,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der Bund Abrahams mit Abimelech in Beerscheba",
+      "start": {
+        "chapter": 21,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Abrahams Gehorsamsprüfung: Die Opferung Isaaks",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Nachkommen Nahors",
+      "start": {
+        "chapter": 22,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Sarahs Tod und Bestattung in der Höhle Machpelah",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Rebekka wird Isaaks Frau",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 67
+      }
+    },
+    {
+      "heading": "Abrahams zweite Ehe. Sein Tod und Begräbnis",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Nachkommen Ismaels",
+      "start": {
+        "chapter": 25,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die beiden Söhne Isaaks: Esau und Jakob",
+      "start": {
+        "chapter": 25,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Esau verkauft sein Erstgeburtsrecht",
+      "start": {
+        "chapter": 25,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Gottes Verheißung an Isaak. Isaak im Land der Philister",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Widerstand der Philister gegen Isaak",
+      "start": {
+        "chapter": 26,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Isaaks Bund mit Abimelech",
+      "start": {
+        "chapter": 26,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Esau nimmt zwei hetitische Frauen",
+      "start": {
+        "chapter": 26,
+        "verse": 34
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Jakob empfängt durch Betrug den Erstgeburtssegen",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Esaus Reue über den verlorenen Segen",
+      "start": {
+        "chapter": 27,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Jakobs Flucht zu Laban",
+      "start": {
+        "chapter": 27,
+        "verse": 41
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Jakob flieht nach Paddan-Aram",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Esaus dritte Frau",
+      "start": {
+        "chapter": 28,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Jakobs Traum von der Himmelsleiter",
+      "start": {
+        "chapter": 28,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Jakob bei Laban",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Lea und Rahel werden Jakob zu Frauen gegeben",
+      "start": {
+        "chapter": 29,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Jakobs Söhne",
+      "start": {
+        "chapter": 29,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Jakobs Familie wächst",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Jakobs Reichtum nimmt zu",
+      "start": {
+        "chapter": 30,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Jakob kehrt in das verheißene Land zurück",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Labans Streit mit Jakob",
+      "start": {
+        "chapter": 31,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Jakobs Bund mit Laban",
+      "start": {
+        "chapter": 31,
+        "verse": 45
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 54
+      }
+    },
+    {
+      "heading": "Jakob bereitet sich auf die Begegnung mit Esau vor",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Jakobs Ringen mit Gott. Jakobs neuer Name",
+      "start": {
+        "chapter": 32,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Jakobs Aussöhnung mit Esau",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Ankunft Jakobs in Kanaan",
+      "start": {
+        "chapter": 33,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Dina und der Kanaaniter Sichem",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Betrug und Rache der Söhne Jakobs",
+      "start": {
+        "chapter": 34,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Gott segnet Jakob in Bethel",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Geburt Benjamins. Der Tod Rahels",
+      "start": {
+        "chapter": 35,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Jakobs Heimkehr zu seinem Vater. Tod Isaaks",
+      "start": {
+        "chapter": 35,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die Nachkommen Esaus",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Joseph, der Bevorzugte unter seinen Brüdern",
+      "start": {
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Joseph wird von seinen Brüdern verkauft",
+      "start": {
+        "chapter": 37,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Juda und seine Nachkommen von der Tamar",
+      "start": {
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Joseph in Ägypten als Sklave des Potiphar",
+      "start": {
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Joseph und die Frau des Potiphar",
+      "start": {
+        "chapter": 39,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Joseph im Gefängnis",
+      "start": {
+        "chapter": 39,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Träume der beiden Hofbeamten des Pharao",
+      "start": {
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Träume des Pharao",
+      "start": {
+        "chapter": 41,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Joseph deutet die Träume des Pharao",
+      "start": {
+        "chapter": 41,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Josephs Erhöhung zum Regenten über Ägypten",
+      "start": {
+        "chapter": 41,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 57
+      }
+    },
+    {
+      "heading": "Die erste Reise der Söhne Jakobs nach Ägypten",
+      "start": {
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die zweite Reise der Söhne Jakobs nach Ägypten",
+      "start": {
+        "chapter": 43,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Joseph stellt seine Brüder auf die Probe",
+      "start": {
+        "chapter": 44,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Joseph gibt sich seinen Brüdern zu erkennen",
+      "start": {
+        "chapter": 45,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Jakob und seine Familie ziehen nach Ägypten",
+      "start": {
+        "chapter": 46,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Nachkommen Israels",
+      "start": {
+        "chapter": 46,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Jakobs Wiedersehen mit Joseph",
+      "start": {
+        "chapter": 46,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Jakob vor dem Pharao",
+      "start": {
+        "chapter": 47,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 47,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Joseph erwirbt ganz Ägypten für den Pharao",
+      "start": {
+        "chapter": 47,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 47,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Jakobs letzte Verfügung",
+      "start": {
+        "chapter": 48,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 48,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Jakob segnet Ephraim und Manasse",
+      "start": {
+        "chapter": 48,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 48,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Prophetische Segensworte für Jakobs Söhne",
+      "start": {
+        "chapter": 49,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Jakobs Tod",
+      "start": {
+        "chapter": 49,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Jakobs Beerdigung im Land Kanaan",
+      "start": {
+        "chapter": 50,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Josephs Bruderliebe. Gottes Plan",
+      "start": {
+        "chapter": 50,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Josephs letzte Tage. Sein Tod",
+      "start": {
+        "chapter": 50,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 26
+      }
+    }
+  ],
+  "selected": false
+}

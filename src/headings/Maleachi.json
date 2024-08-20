@@ -1,0 +1,110 @@
+{
+  "name": "Maleachi",
+  "chapters": [
+    14,
+    17,
+    24
+  ],
+  "headings": [
+    {
+      "heading": "Israel missachtet die Liebe seines Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Das Volk und die Priester missachten den Herrn bei ihren Opfern",
+      "start": {
+        "chapter": 1,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Ermahnung an die treulosen Priester",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Scharfer Tadel wegen Mischehen und Ehescheidung",
+      "start": {
+        "chapter": 2,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Wegbereiter des Herrn und der kommende Gerichtstag",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das Volk hat Gott beraubt und den Fluch auf sich gebracht",
+      "start": {
+        "chapter": 3,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Gott macht einen Unterschied zwischen dem Gerechten und dem Gesetzlosen",
+      "start": {
+        "chapter": 3,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der kommende Tag des Herrn",
+      "start": {
+        "chapter": 3,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Sendung des Propheten Elia",
+      "start": {
+        "chapter": 3,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 24
+      }
+    }
+  ],
+  "selected": false
+}

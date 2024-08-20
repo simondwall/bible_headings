@@ -1,0 +1,230 @@
+{
+  "name": "Nehemia",
+  "chapters": [
+    11,
+    20,
+    38,
+    17,
+    19,
+    19,
+    73,
+    18,
+    37,
+    40,
+    36,
+    47,
+    31
+  ],
+  "headings": [
+    {
+      "heading": "Nehemias Trauer um Jerusalem und sein Bußgebet",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Nehemia erhält den Auftrag zum Wiederaufbau von Jerusalem",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Nehemia untersucht den Zustand der Mauern und ermutigt die Obersten von Jerusalem",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Mauern und Tore Jerusalems werden wieder aufgebaut",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Fortgang der Arbeiten trotz feindlichem Widerstand",
+      "start": {
+        "chapter": 3,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Nehemia behebt Missstände unter dem Volk",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Nehemias Uneigennützigkeit",
+      "start": {
+        "chapter": 5,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Nehemia begegnet den Intrigen der Feinde und vollendet die Mauer",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Schutz der Stadt vor den Feinden",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Verzeichnis der mit Serubbabel zurückgekehrten Israeliten",
+      "start": {
+        "chapter": 7,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 73
+      }
+    },
+    {
+      "heading": "Die Vorlesung und Auslegung des Gesetzes vor dem Volk",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Laubhüttenfest wird gefeiert",
+      "start": {
+        "chapter": 8,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Buße des Volkes. Das Gebet der Leviten",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Die Erneuerung des Bundes",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Verzeichnis der Ansiedler in Jerusalem und Judäa",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Die Zählung der Priester und Leviten",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Einweihung der Mauern Jerusalems",
+      "start": {
+        "chapter": 12,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Die Versorgung der Priester und Leviten",
+      "start": {
+        "chapter": 12,
+        "verse": 44
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Nehemia sorgt für die Absonderung von den Heiden und beseitigt Missstände",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 31
+      }
+    }
+  ],
+  "selected": false
+}

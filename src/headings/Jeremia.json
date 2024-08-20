@@ -1,0 +1,1039 @@
+{
+  "name": "Jeremia",
+  "chapters": [
+    19,
+    37,
+    25,
+    31,
+    31,
+    30,
+    34,
+    23,
+    25,
+    25,
+    23,
+    17,
+    27,
+    22,
+    21,
+    21,
+    27,
+    23,
+    15,
+    18,
+    14,
+    30,
+    40,
+    10,
+    38,
+    24,
+    22,
+    17,
+    32,
+    24,
+    40,
+    44,
+    26,
+    22,
+    19,
+    32,
+    21,
+    28,
+    18,
+    16,
+    18,
+    22,
+    13,
+    30,
+    5,
+    28,
+    7,
+    47,
+    39,
+    46,
+    64,
+    34
+  ],
+  "headings": [
+    {
+      "heading": "Der Herr beruft Jeremia und gibt ihm seinen Auftrag",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Der Herr tadelt sein untreues Volk Israel",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Ruf zur Buße. Verheißung des messianischen Reiches",
+      "start": {
+        "chapter": 3,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Gottes Ruf zur Umkehr und zum Neuanfang",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Ankündigung einer verheerenden Invasion aus dem Norden",
+      "start": {
+        "chapter": 4,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Bosheit des verstockten Volkes und das kommende Gericht",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Der Herr warnt Jerusalem vor einer drohenden Belagerung",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Jeremias Botschaft vor dem Tempel",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die kommende Verwüstung Jerusalems",
+      "start": {
+        "chapter": 7,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Der Herr hält Jerusalem seine Verstocktheit vor",
+      "start": {
+        "chapter": 8,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Klage über den Zusammenbruch Jerusalems",
+      "start": {
+        "chapter": 8,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die toten Götzen und der lebendige Gott",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Klage und Bußgebet inmitten des Gerichts",
+      "start": {
+        "chapter": 10,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Das Volk hat den Bund mit dem Herrn gebrochen",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Mordanschläge gegen Jeremia",
+      "start": {
+        "chapter": 11,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Fragen Jeremias und die Antwort Gottes",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Weissagung gegen die feindseligen Nachbarvölker und Heilsankündigung für Israel",
+      "start": {
+        "chapter": 12,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Zeichen des verdorbenen Gürtels",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Weinkrüge",
+      "start": {
+        "chapter": 13,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Ankündigung der Gefangenschaft für Juda",
+      "start": {
+        "chapter": 13,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Dürre und das kommende Schwert",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Gericht lässt sich auch durch Fürbitte nicht mehr abwenden",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Jeremias Leiden und Klagen",
+      "start": {
+        "chapter": 15,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Jeremias Ehelosigkeit als Hinweis auf die kommende Not",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die künftige Wiederherstellung Israels wird verheißen",
+      "start": {
+        "chapter": 16,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Sünde Judas bringt den Zorn Gottes über sie",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Fluch und Segen hängen davon ab, auf was der Mensch vertraut",
+      "start": {
+        "chapter": 17,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Menschenherz ist trügerisch und bösartig",
+      "start": {
+        "chapter": 17,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Jeremias Gebet in der Anfechtung",
+      "start": {
+        "chapter": 17,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der Herr mahnt Juda zur Sabbatheiligung",
+      "start": {
+        "chapter": 17,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Das Zeichen des misslungenen Töpfergefäßes",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Ein Anschlag gegen Jeremia",
+      "start": {
+        "chapter": 18,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Der zerbrochene Krug und die Zerstörung Jerusalems",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Der Tempelaufseher misshandelt Jeremia wegen seiner Botschaft",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Jeremia klagt über die Last seines Prophetendienstes",
+      "start": {
+        "chapter": 20,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Jeremia kündigt die Eroberung Jerusalems durch Nebukadnezar an",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Warnung an das Königshaus Juda",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die falschen Hirten Israels und der künftige Messias-König",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Gottes Gericht über die Lügenpropheten",
+      "start": {
+        "chapter": 23,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Zwei Körbe mit Feigen – Sinnbild für die Zukunft des Volkes",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die siebzigjährige Gefangenschaft in Babel",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gericht über Babel und alle Heidenvölker",
+      "start": {
+        "chapter": 25,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Das Volk will Jeremia wegen seiner Botschaft umbringen",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das Zeichen des Joches: Jeremia ruft zur Unterwerfung unter den König von Babel auf",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der falsche Prophet Hananja und sein Ende",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Jeremias Brief an die Weggeführten in Babel",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Künftige Rückkehr aus der Gefangenschaft und Erneuerung Israels",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das künftige Heil Israels und der neue Bund",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Der neue Bund",
+      "start": {
+        "chapter": 31,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Jeremia kauft einen Acker",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Jeremias Gebet und die Verheißung der Wiederherstellung für Israel",
+      "start": {
+        "chapter": 32,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Die Rückkehr des Volkes und der Wiederaufbau des Landes wird verheißen",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Warnung an Zedekia",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die rückgängig gemachte Freilassung der Sklaven",
+      "start": {
+        "chapter": 34,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Treue der Rechabiter und die Untreue Judas",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "König Jojakim verbrennt das Weissagungsbuch Jeremias",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Nach dem Abzug der Chaldäer sagt Jeremia ihre Rückkehr und ihren Sieg voraus",
+      "start": {
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Jeremia im Gefängnis",
+      "start": {
+        "chapter": 37,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Jeremia wird in die Zisterne geworfen und später befreit",
+      "start": {
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "König Zedekia spricht mit Jeremia",
+      "start": {
+        "chapter": 38,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Jerusalem wird eingenommen und Zedekia nach Babel weggeführt",
+      "start": {
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Jeremia wird befreit. Das Wort des Herrn für Ebed-Melech",
+      "start": {
+        "chapter": 39,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Jeremia bleibt im Land Juda",
+      "start": {
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Gedalja, der Statthalter von Judäa",
+      "start": {
+        "chapter": 40,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der Mord an dem Statthalter Gedalja",
+      "start": {
+        "chapter": 41,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Obersten der Judäer erbitten sich Führung vom Herrn",
+      "start": {
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Jeremias Warnung vor dem Zug nach Ägypten",
+      "start": {
+        "chapter": 42,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Obersten der Judäer missachten das Wort des Herrn und ziehen nach Ägypten",
+      "start": {
+        "chapter": 43,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Jeremia sagt die Eroberung Ägyptens durch Nebukadnezar voraus",
+      "start": {
+        "chapter": 43,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Herr kündigt sein Gericht gegen die nach Ägypten ausgewanderten Juden an",
+      "start": {
+        "chapter": 44,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Volk beharrt auf seinen Götzendienst",
+      "start": {
+        "chapter": 44,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Mahn- und Trostwort an Baruch",
+      "start": {
+        "chapter": 45,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Ägypten",
+      "start": {
+        "chapter": 46,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über die Philister",
+      "start": {
+        "chapter": 47,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 47,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Moab",
+      "start": {
+        "chapter": 48,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 48,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Ammon",
+      "start": {
+        "chapter": 49,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Edom",
+      "start": {
+        "chapter": 49,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Damaskus",
+      "start": {
+        "chapter": 49,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Kedar und Hazor",
+      "start": {
+        "chapter": 49,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Elam",
+      "start": {
+        "chapter": 49,
+        "verse": 34
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Das Wort des Herrn über Babel",
+      "start": {
+        "chapter": 50,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Der Herr verheißt den gefangenen Judäern den Auszug aus Babel",
+      "start": {
+        "chapter": 50,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Herr wird Babel seine Bosheit gegen Juda vergelten",
+      "start": {
+        "chapter": 50,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der Zusammenbruch Babels wird angekündigt",
+      "start": {
+        "chapter": 50,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Der Herr wird Gericht an Babel üben und Israel befreien",
+      "start": {
+        "chapter": 51,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 51,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Klage der Judäer. Gottes Abrechnung mit Babel und seinen Götzen",
+      "start": {
+        "chapter": 51,
+        "verse": 34
+      },
+      "end": {
+        "chapter": 51,
+        "verse": 64
+      }
+    },
+    {
+      "heading": "Die Einnahme Jerusalems und das Gericht über Zedekia",
+      "start": {
+        "chapter": 52,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 52,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Plünderung und Zerstörung des Tempels",
+      "start": {
+        "chapter": 52,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 52,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Begnadigung des Königs Jojachin",
+      "start": {
+        "chapter": 52,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 52,
+        "verse": 34
+      }
+    }
+  ],
+  "selected": false
+}

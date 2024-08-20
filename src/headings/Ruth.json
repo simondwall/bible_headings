@@ -1,0 +1,67 @@
+{
+  "name": "Ruth",
+  "chapters": [
+    22,
+    23,
+    18,
+    22
+  ],
+  "headings": [
+    {
+      "heading": "Ruth kommt mit Naemi nach Bethlehem",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Ruth liest Ähren auf bei Boas",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Ruth auf der Tenne des Boas",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Ruth wird Boas’ Frau und Stammmutterdes Hauses David",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Geburt Obeds. Die Ahnentafel Davids",
+      "start": {
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "selected": false
+}

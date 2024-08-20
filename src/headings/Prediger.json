@@ -1,0 +1,240 @@
+{
+  "name": "Prediger",
+  "chapters": [
+    18,
+    26,
+    22,
+    17,
+    19,
+    12,
+    29,
+    17,
+    18,
+    20,
+    10,
+    14
+  ],
+  "headings": [
+    {
+      "heading": "Der Kreislauf des Lebens unter der Sonne",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Nichtigkeit der menschlichen Weisheit",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Nichtigkeit der irdischen Freuden",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Tod rafft den Weisen und den Toren dahin",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Arbeit und Erfolg sind nichtig",
+      "start": {
+        "chapter": 2,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Alles hat seine Zeit",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Gott erinnert den Menschen an seine Vergänglichkeit",
+      "start": {
+        "chapter": 3,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Nichtigkeit des menschlichen Mühens",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Furcht Gottes im Alltagsleben",
+      "start": {
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Reichtum bringt keine Sicherheit",
+      "start": {
+        "chapter": 5,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Unbeständigkeit und Leere des menschlichen Daseins unter der Sonne",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Lob der Weisheit und der Besonnenheit",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die wahre Weisheit ist auf Erden nicht zu finden",
+      "start": {
+        "chapter": 7,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Demut und Gottesfurcht in der Lebensführung",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Mensch hat sein Geschick nicht in der Hand",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Warnung vor der menschlichen Torheit",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Fleiß und Umsicht in der Arbeit",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Weise Lebensfreude in Gottesfurcht",
+      "start": {
+        "chapter": 11,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die richtige Zeit, an den Schöpfer zu denken",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Summe der Weisheit: Gottesfurcht und Gehorsam",
+      "start": {
+        "chapter": 12,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 14
+      }
+    }
+  ],
+  "selected": false
+}

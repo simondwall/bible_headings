@@ -1,0 +1,286 @@
+{
+  "name": "Sacharja",
+  "chapters": [
+    17,
+    17,
+    10,
+    14,
+    11,
+    15,
+    14,
+    23,
+    17,
+    12,
+    17,
+    14,
+    9,
+    21
+  ],
+  "headings": [
+    {
+      "heading": "Aufruf zur Umkehr",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das erste Nachtgesicht: Der Mann zwischen den Myrten",
+      "start": {
+        "chapter": 1,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Verheißungen für Jerusalem",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das zweite Nachtgesicht: Die vier Hörner und die vier Schmiede",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Das dritte Nachtgesicht: Der Mann mit der Messschnur – Jerusalem im messianischen Reich",
+      "start": {
+        "chapter": 2,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das vierte Nachtgesicht: Jeschua, der Hohepriester",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das fünfte Nachtgesicht: Der goldene Leuchter und die zwei Ölbäume",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das sechste Nachtgesicht: Die fliegende Buchrolle",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Das siebte Nachtgesicht: Das Epha der Gesetzlosigkeit",
+      "start": {
+        "chapter": 5,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Das achte Nachtgesicht: Die vier Streitwagen",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Krönung Jeschuas und der kommende Messias mit dem Namen »Spross«",
+      "start": {
+        "chapter": 6,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Recht und Erbarmen statt Fasten",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der Herr verheißt Segen und Wiederherstellung für Jerusalem",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Gericht über Israels Feinde",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Der kommende König Zions",
+      "start": {
+        "chapter": 9,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Der Herr wird erscheinen undsein Volk retten",
+      "start": {
+        "chapter": 9,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Herr gibt Juda Sieg und lässt Israel zurückkehren",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Das Gericht über Israel – die untreuen Hirten und der gute Hirte",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Jerusalem wird zum Laststein für alle Völker; seine Feinde werden vertilgt",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das Volk von Jerusalem wird über den trauern, den sie durchstochen haben",
+      "start": {
+        "chapter": 12,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die falschen Propheten müssen sich schämen",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Der geschlagene Hirte, die Läuterung und Begnadigung Israels",
+      "start": {
+        "chapter": 13,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Ankunft des Herrn auf dem Ölberg zur Rettung seines Volkes",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Übriggebliebenen der Heidenvölker werden in Jerusalem den Herrn anbeten",
+      "start": {
+        "chapter": 14,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 21
+      }
+    }
+  ],
+  "selected": false
+}

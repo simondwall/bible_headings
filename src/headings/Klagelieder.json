@@ -1,0 +1,68 @@
+{
+  "name": "Klagelieder",
+  "chapters": [
+    22,
+    22,
+    66,
+    22,
+    22
+  ],
+  "headings": [
+    {
+      "heading": "Erstes Klagelied Jerusalems Verwüstung und Schmach",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Zweites Klagelied Trauer über Gottes Zorngericht gegen die Tochter Zion",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Drittes Klagelied Die Leiden des Propheten und sein Trost in der Barmherzigkeit des Herrn",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 66
+      }
+    },
+    {
+      "heading": "Viertes Klagelied Die schrecklichen Geschehnisse beim Untergang Jerusalems",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Fünftes Klagelied Das Gebet des elenden Volkes um Erbarmen und Wiederherstellung",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 22
+      }
+    }
+  ],
+  "selected": false
+}

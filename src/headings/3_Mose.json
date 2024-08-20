@@ -1,0 +1,563 @@
+{
+  "name": "3. Mose",
+  "chapters": [
+    17,
+    16,
+    17,
+    35,
+    26,
+    23,
+    38,
+    36,
+    24,
+    20,
+    47,
+    8,
+    59,
+    57,
+    33,
+    34,
+    16,
+    30,
+    37,
+    27,
+    24,
+    33,
+    44,
+    23,
+    55,
+    46,
+    34
+  ],
+  "headings": [
+    {
+      "heading": "Bestimmungen über die Brandopfer",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Speisopfer",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Friedensopfer",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Sündopfer",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die Schuldopfer",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Vorschriften über die Ausführung der Brand-, Speis- und Sündopfer",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Vorschriften über die Ausführung der Schuld- und Friedensopfer",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Friedensopfer",
+      "start": {
+        "chapter": 7,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Verbot des Genusses von Fett und Blut",
+      "start": {
+        "chapter": 7,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Opferanteile der Priester",
+      "start": {
+        "chapter": 7,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Weihe Aarons und seiner Söhne",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Das erste Opfer Aarons und seiner Söhne",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Tod Nadabs und Abihus",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Anordnungen zur rechten Ausführung des Priesterdienstes",
+      "start": {
+        "chapter": 10,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Das Gesetz über die reinen und unreinen Tiere",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Verordnungen für Wöchnerinnen",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Gesetz über den Aussatz",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Über den Aussatz von Kleidern",
+      "start": {
+        "chapter": 13,
+        "verse": 47
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 59
+      }
+    },
+    {
+      "heading": "Das Gesetz über die Reinigung vom Aussatz",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die Reinigung eines aussätzigen Hauses",
+      "start": {
+        "chapter": 14,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 57
+      }
+    },
+    {
+      "heading": "Verordnungen über Unreinheiten bei Männern und Frauen",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Der große Versöhnungstag",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Bestimmungen über die Stätte des Opferdienstes",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Verbot des Genusses von Blut",
+      "start": {
+        "chapter": 17,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Verordnungen zum Schutz der Ehe und gegen Unzuchtssünden",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Heiligung des Lebenswandels",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Strafen für Götzendienst und Unzucht",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Bestimmungen für die Priester",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Bestimmungen über das Essen der Opfergaben",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Opfertiere müssen makellos sein",
+      "start": {
+        "chapter": 22,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Feste des Herrn",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Der Sabbat",
+      "start": {
+        "chapter": 23,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Das Passah; das Fest der ungesäuerten Brote",
+      "start": {
+        "chapter": 23,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Darbringung der Erstlingsgarbe",
+      "start": {
+        "chapter": 23,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Fest der Wochen (Pfingstfest)",
+      "start": {
+        "chapter": 23,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Fest des Hörnerschalls (Posaunenfest)",
+      "start": {
+        "chapter": 23,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der Versöhnungstag",
+      "start": {
+        "chapter": 23,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Das Laubhüttenfest",
+      "start": {
+        "chapter": 23,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Das Öl für den Leuchter. Zurichtung der Lampen",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Schaubrote",
+      "start": {
+        "chapter": 24,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Bestrafung des Gotteslästerers. Vergeltung für Totschlag und Körperverletzung",
+      "start": {
+        "chapter": 24,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Das Sabbatjahr",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Halljahr (Jubeljahr)",
+      "start": {
+        "chapter": 25,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das Lösungsrecht für Landbesitz und für Knechte und Mägde",
+      "start": {
+        "chapter": 25,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 55
+      }
+    },
+    {
+      "heading": "Gehorsam bringt Segen",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Ungehorsam bringt Fluch",
+      "start": {
+        "chapter": 26,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Verheißung von Gnade und Wiederherstellung für Israel",
+      "start": {
+        "chapter": 26,
+        "verse": 40
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Über Gelübde und über den Zehnten",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 34
+      }
+    }
+  ],
+  "selected": false
+}

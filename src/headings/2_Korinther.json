@@ -1,0 +1,263 @@
+{
+  "name": "2. Korinther",
+  "chapters": [
+    24,
+    17,
+    18,
+    18,
+    21,
+    18,
+    16,
+    24,
+    15,
+    18,
+    33,
+    21,
+    13
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Bedrängnis und Trost im Dienst des Apostels",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Verteidigung gegen Vorwürfe. Die Lauterkeit des Apostels und die Verheißungen Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Vergebung für den Schuldigen",
+      "start": {
+        "chapter": 2,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Dienst des Apostels in der Verkündigung des Evangeliums",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des Neuen Bundes. Der Dienst der Gerechtigkeit",
+      "start": {
+        "chapter": 3,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Lauterkeit und Kraft der Evangeliumsverkündigung",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Ein Schatz in irdenen Gefäßen",
+      "start": {
+        "chapter": 4,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Vorübergehende Bedrängnis und ewige Herrlichkeit",
+      "start": {
+        "chapter": 4,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Dienst der Versöhnung",
+      "start": {
+        "chapter": 5,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Hingabe und Treue des Apostels",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Gottes Ruf zur Absonderung",
+      "start": {
+        "chapter": 6,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Freude des Apostels über die Reue in der Gemeinde",
+      "start": {
+        "chapter": 7,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Geldsammlung für die Gemeinde in Jerusalem",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Sendung des Titus und anderer Brüder",
+      "start": {
+        "chapter": 8,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Wer im Segen sät, wird auch im Segen ernten",
+      "start": {
+        "chapter": 9,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Paulus verteidigt seinen Aposteldienstgegen böse Nachreden",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der Dienst von Paulus und die Verführung durch falsche Apostel",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Leiden im Aposteldienst",
+      "start": {
+        "chapter": 11,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Gottes Kraft wirkt in der Schwachheit seines Knechtes",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das geistliche Ringen des Apostels um die Gemeinde",
+      "start": {
+        "chapter": 12,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Letzte Ermahnungen und Grüße",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 13
+      }
+    }
+  ],
+  "selected": false
+}

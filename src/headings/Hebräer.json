@@ -1,0 +1,362 @@
+{
+  "name": "Hebräerbrief",
+  "chapters": [
+    14,
+    18,
+    19,
+    16,
+    14,
+    20,
+    28,
+    13,
+    28,
+    39,
+    40,
+    29,
+    25
+  ],
+  "headings": [
+    {
+      "heading": "Gott hat durch seinen Sohn gesprochen",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Der Sohn Gottes ist erhabener als die Engel",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Ermahnung, auf die von Gott bestätigte Heilsverkündigung zu hören",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die freiwillige Erniedrigung Jesu Christi",
+      "start": {
+        "chapter": 2,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Christus ist größer als Mose",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Warnung vor dem Unglauben, der die verheißene Ruhe in Christus verfehlt",
+      "start": {
+        "chapter": 3,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Nur durch den Glauben an das Evangelium kann Israel in die Sabbatruhe eingehen",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Kraft des Wortes Gottes",
+      "start": {
+        "chapter": 4,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Jesus Christus, unser großer Hohepriester",
+      "start": {
+        "chapter": 4,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Geistliche Unreife als Hindernis für tiefere Erkenntnis",
+      "start": {
+        "chapter": 5,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Ermahnung zum gläubigen Festhalten der Verheißungen in Christus",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Melchisedek als Vorbild für das Priestertum Jesu Christi",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Jesus Christus als der vollkommene Hohepriester setzt das levitische Priestertum und das Gesetz beiseite",
+      "start": {
+        "chapter": 7,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Jesus Christus als Hohepriester des wahrhaftigen, himmlischen Heiligtums",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Jesus Christus — der Mittler eines neuen, besseren Bundes",
+      "start": {
+        "chapter": 8,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der levitische Priester- und Opferdienst ist vorläufig und unvollkommen",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Blut des Hohepriesters Jesus Christus als Grundlage des neuen Bundes und der ewigen Erlösung",
+      "start": {
+        "chapter": 9,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Das einmalige, vollkommene Sühnopfer Jesu Christi bewirkt ein vollkommenes Heil",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Ermunterung zum freimütigen Eintreten ins Heiligtum und zum gläubigen Festhalten am Bekenntnis",
+      "start": {
+        "chapter": 10,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Das Wesen des Glaubens und die Glaubenszeugen des alten Bundes",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Abel, Henoch und Noah",
+      "start": {
+        "chapter": 11,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Der Glaubensweg Abrahams",
+      "start": {
+        "chapter": 11,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Glaubenden sind Fremdlinge auf Erden",
+      "start": {
+        "chapter": 11,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der Glaube von Abraham, Isaak, Jakob und Joseph",
+      "start": {
+        "chapter": 11,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Glaubensweg des Mose",
+      "start": {
+        "chapter": 11,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die gläubigen Israeliten",
+      "start": {
+        "chapter": 11,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Ermunterung zum Glaubenswandel im Aufblick auf Jesus Christus",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Gottes Züchtigungen dienen denen zum Besten, die echte Söhne in Christus sind",
+      "start": {
+        "chapter": 12,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ermahnung zur Heiligung. Warnung davor, Jesus Christus abzuweisen",
+      "start": {
+        "chapter": 12,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Verschiedene Weisungen und Ermahnungen zum Wandel der Gläubigen",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Segenswünsche und Grüße",
+      "start": {
+        "chapter": 13,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 25
+      }
+    }
+  ],
+  "selected": false
+}

@@ -1,0 +1,99 @@
+{
+  "name": "2. Petrus",
+  "chapters": [
+    21,
+    22,
+    18
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Ermahnung zum Ausleben der christlichen Tugenden",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Gewissheit des von Gott geoffenbarten prophetischen Wortes der Heiligen Schrift",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Warnung vor falschen Lehrernund verderblichen Sekten",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Vorbilder des göttlichen Strafgerichts über Gottlose und Frevler",
+      "start": {
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das vermessene, frevlerische Verhalten der Verführer",
+      "start": {
+        "chapter": 2,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das kommende Gericht und die Heilsabsichten Gottes in der Gnadenzeit",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die Hoffnung der Gläubigen und ihr heiliger Wandel",
+      "start": {
+        "chapter": 3,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 18
+      }
+    }
+  ],
+  "selected": false
+}

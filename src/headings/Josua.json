@@ -1,0 +1,472 @@
+{
+  "name": "Josua",
+  "chapters": [
+    18,
+    24,
+    17,
+    24,
+    15,
+    27,
+    26,
+    35,
+    27,
+    43,
+    23,
+    24,
+    33,
+    15,
+    63,
+    10,
+    18,
+    28,
+    51,
+    9,
+    45,
+    34,
+    16,
+    33
+  ],
+  "headings": [
+    {
+      "heading": "Gott beauftragt und ermutigt Josuaals Führer des Volkes",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Josua trifft Vorbereitungen fürden Einzug in Kanaan",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Kundschafter in Jericho und Rahab",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Israel geht trockenen Fußes über den Jordan",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Zwei Denkmäler zum ewigen Gedenken",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die Beschneidung Israels in Gilgal",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Passahfeier. Der Fürst über das Heer des Herrn",
+      "start": {
+        "chapter": 5,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Einnahme Jerichos",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Achans Sünde und die Niederlage bei Ai",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Einnahme von Ai",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Der Altar auf dem Berg Ebal. Die Verlesung des Gesetzes",
+      "start": {
+        "chapter": 8,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die List der Gibeoniter",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Josuas Sieg bei Gibeon.Das wunderbare Eingreifen Gottes",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die Eroberung der südlichen Landeshälfte",
+      "start": {
+        "chapter": 10,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Josua erobert den nördlichen Teil des Landes",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die besiegten Könige",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Gott ordnet die Verteilung an",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Erbe der zweieinhalb Stämmeim Ostjordanland",
+      "start": {
+        "chapter": 13,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Verteilung des Landes westlich des Jordan",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Hebron wird Kaleb als Erbteil zugesprochen",
+      "start": {
+        "chapter": 14,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das Erbteil des Stammes Juda",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 63
+      }
+    },
+    {
+      "heading": "Das Erbteil des Stammes Ephraim",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Erbteil des halben Stammes Manasse",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Aufteilung des restlichen Landes",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Erbteil des Stammes Benjamin",
+      "start": {
+        "chapter": 18,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Erbteile der sechs weiteren Stämme: Simeons Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Sebulons Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Issaschars Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Assers Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Naphtalis Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Dans Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 40
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 48
+      }
+    },
+    {
+      "heading": "Die Stadt Timnat-Serach wird Josuas Erbteil",
+      "start": {
+        "chapter": 19,
+        "verse": 49
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "Die sechs Zufluchtsstädte",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die 48 Städte der Leviten",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Gottes Verheißungen in allem erfüllt",
+      "start": {
+        "chapter": 21,
+        "verse": 43
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 45
+      }
+    },
+    {
+      "heading": "Ruben, Gad und der halbe Stamm Manassekehren in ihr Gebiet zurück",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Der Altar am Jordan",
+      "start": {
+        "chapter": 22,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Ermahnende Worte Josuasan die Vorsteher des Volkes",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Josuas Rede an Israel in Sichem",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Josuas Tod",
+      "start": {
+        "chapter": 24,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 33
+      }
+    }
+  ],
+  "selected": false
+}

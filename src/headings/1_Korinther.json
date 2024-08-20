@@ -1,0 +1,464 @@
+{
+  "name": "1. Korinther",
+  "chapters": [
+    31,
+    16,
+    23,
+    21,
+    13,
+    20,
+    40,
+    13,
+    27,
+    33,
+    34,
+    31,
+    13,
+    40,
+    58,
+    24
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Dank für die Gnade Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Ermahnung wegen Spaltungen in der Gemeinde",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Wort vom Kreuz und die Weisheit der Menschen",
+      "start": {
+        "chapter": 1,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Zentrum und Ziel der apostolischen Verkündigung",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Die Weisheit der Welt und die Weisheit Gottes",
+      "start": {
+        "chapter": 2,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Geistliche Unmündigkeit und Zwietracht in der Gemeinde",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Verkündiger sind Diener Gottes",
+      "start": {
+        "chapter": 3,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Aufbauarbeit am Haus Gottes",
+      "start": {
+        "chapter": 3,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Paulus als Verwalter göttlicher Geheimnisse",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Die Überheblichkeit der Korinther und das Vorbild des Apostels",
+      "start": {
+        "chapter": 4,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Sünde in der Gemeinde und die Notwendigkeit von Gemeindezucht",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Rechtsstreit unter Christen",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Warnung vor der Sünde. Der Leib als Tempel des Heiligen Geistes",
+      "start": {
+        "chapter": 6,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Antwort auf Fragen der Korinther zu Ehe und Ehelosigkeit",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Verbot der Ehescheidung",
+      "start": {
+        "chapter": 7,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Jeder soll in seinem von Gott gegebenen Stand bleiben",
+      "start": {
+        "chapter": 7,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Ratschläge des Apostels an die Unverheirateten",
+      "start": {
+        "chapter": 7,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Ehe besteht bis zum Tod des einen Ehepartners",
+      "start": {
+        "chapter": 7,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Das Essen von Götzenopferfleisch und die Grenzen der Freiheit des Gläubigen",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Paulus verteidigt seinen Aposteldienst",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Haltung des Paulus bei der Verkündigung des Evangeliums",
+      "start": {
+        "chapter": 9,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Der Kampf und der Lohn eines Dieners des Herrn",
+      "start": {
+        "chapter": 9,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Das warnende Beispiel von Israel in der Wüste",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Gemeinschaft beim Mahl des Herrn ist unvereinbar mit Götzendienst",
+      "start": {
+        "chapter": 10,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Zur Ehre Gottes leben",
+      "start": {
+        "chapter": 10,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Stellung des Mannes als Haupt und die Bedeckung des Hauptes der Frau",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Das Mahl des Herrn soll würdig gefeiert werden",
+      "start": {
+        "chapter": 11,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Die Geisteswirkungen und Gnadengaben in der Gemeinde",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ein Leib, viele Glieder",
+      "start": {
+        "chapter": 12,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Das Hohelied der Liebe",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Vorläufige und das Vollkommene",
+      "start": {
+        "chapter": 13,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Geisteswirkungen sollen zur Erbauung der Gemeinde dienen",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Geistliche Ordnung in den Gemeindezusammenkünften",
+      "start": {
+        "chapter": 14,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Das Zeugnis von der Auferstehung des Christus",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Auferstehung der Toten",
+      "start": {
+        "chapter": 15,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Der geistliche Leib in der Auferstehung",
+      "start": {
+        "chapter": 15,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Die Verwandlung der Gläubigen. Der Sieg über den Tod",
+      "start": {
+        "chapter": 15,
+        "verse": 50
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 58
+      }
+    },
+    {
+      "heading": "Die Liebesgabe für die Gläubigen in Jerusalem",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Persönliche Anliegen und abschließender Zuspruch",
+      "start": {
+        "chapter": 16,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 24
+      }
+    }
+  ],
+  "selected": false
+}

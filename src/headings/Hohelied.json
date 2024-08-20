@@ -1,0 +1,104 @@
+{
+  "name": "Hohelied",
+  "chapters": [
+    17,
+    17,
+    11,
+    16,
+    16,
+    12,
+    14,
+    14
+  ],
+  "headings": [
+    {
+      "heading": "Die innige Liebe des Geliebten zu seiner Braut",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Sehnsucht der Braut nach dem Geliebten",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Suche der Braut – die Herrlichkeit des Geliebten Sulamit:",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Vorzüge der Braut Salomo:",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Braut auf der Suche nach dem Geliebten Salomo:",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Freude der Wiedervereinigung Die Töchter Jerusalems:",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Schönheit der Braut und ihre Zuneigung zu dem Geliebten Die Töchter Jerusalems:",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Macht der Liebe Sulamit:",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 14
+      }
+    }
+  ],
+  "selected": false
+}

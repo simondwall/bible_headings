@@ -1,0 +1,223 @@
+{
+  "name": "1. Timotheus",
+  "chapters": [
+    20,
+    15,
+    16,
+    16,
+    25,
+    21
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Abwehr falscher Lehren",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Gottes Erbarmen im Leben des Paulus",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Ermutigung zum guten Kampf des Glaubens",
+      "start": {
+        "chapter": 1,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Anweisungen für das Gebet. Gottes Heil in Christus",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Verhalten der gläubigen Frauen",
+      "start": {
+        "chapter": 2,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Voraussetzungen für den Dienst der Aufseher (Ältesten) in der Gemeinde",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Voraussetzung für den Dienst der Diakone",
+      "start": {
+        "chapter": 3,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Wandel im Haus Gottes und das Geheimnis der Gottesfurcht",
+      "start": {
+        "chapter": 3,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Verführung und Abfall vom Glauben in der letzten Zeit",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Anweisungen für treue Diener Gottes",
+      "start": {
+        "chapter": 4,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Von den Witwen in der Gemeinde",
+      "start": {
+        "chapter": 5,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die richtige Haltung gegenüber den Ältesten",
+      "start": {
+        "chapter": 5,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Persönliche Ratschläge an Timotheus",
+      "start": {
+        "chapter": 5,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Vom richtigen Verhalten der Knechte",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Warnung vor Irrlehrern und Habgier",
+      "start": {
+        "chapter": 6,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Ermahnung an Timotheus, den geistlichen Gütern nachzujagen und das Wort Gottes treu zu bewahren",
+      "start": {
+        "chapter": 6,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Ermahnung für wohlhabende Gläubige",
+      "start": {
+        "chapter": 6,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Abschließende Warnung vor den Irrlehren der »Gnosis«",
+      "start": {
+        "chapter": 6,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 21
+      }
+    }
+  ],
+  "selected": false
+}

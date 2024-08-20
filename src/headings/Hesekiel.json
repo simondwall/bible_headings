@@ -1,0 +1,903 @@
+{
+  "name": "Hesekiel",
+  "chapters": [
+    28,
+    10,
+    27,
+    17,
+    17,
+    14,
+    27,
+    18,
+    11,
+    22,
+    25,
+    28,
+    23,
+    23,
+    8,
+    63,
+    24,
+    32,
+    14,
+    44,
+    37,
+    31,
+    49,
+    27,
+    17,
+    21,
+    36,
+    26,
+    21,
+    26,
+    18,
+    32,
+    33,
+    31,
+    15,
+    38,
+    28,
+    23,
+    29,
+    49,
+    26,
+    20,
+    27,
+    31,
+    25,
+    24,
+    23,
+    35
+  ],
+  "headings": [
+    {
+      "heading": "Die Erscheinung der Herrlichkeit des Herrn",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Der Herr sendet Hesekiel zu dem widerspenstigen Volk Israel",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Hesekiel wird zum Boten Gottes und zum Wächter über Israel bestimmt",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Zeichenhafte Darstellung des kommenden Gerichts",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Land wird verwüstet wegen Israels Götzendienst",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Unheil kommt rasch herbei",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Gräuel und Götzendienst im Heiligtum Gottes",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Zorngericht kommt über Jerusalem",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des Herrn verlässt den Tempel",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Gericht über die Obersten des Volkes",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Verheißung der Rückkehr Israels aus der Zerstreuung",
+      "start": {
+        "chapter": 11,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des Herrn weicht von Jerusalem",
+      "start": {
+        "chapter": 11,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Hesekiel kündigt die Wegführung des Volkes an",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Der Herr tadelt die Spötter, die nicht an die Erfüllung der Weissagung glauben",
+      "start": {
+        "chapter": 12,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Gottes Urteil über die falschen Propheten",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Gottes Antwort an die Götzendiener",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Gottes unerbittliches Gericht – ein Überrest Israels soll verschont werden",
+      "start": {
+        "chapter": 14,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Jerusalem, das unnütze Rebholz",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Jerusalem, die treulose Ehefrau",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Gottes Gericht über die Hurerei Jerusalems",
+      "start": {
+        "chapter": 16,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 63
+      }
+    },
+    {
+      "heading": "Der Weinstock und die Adler: Zedekias Treuebruch bringt Gericht über ihn",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Gott verheißt eine Wiederherstellung des Königtums Davids",
+      "start": {
+        "chapter": 17,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Gott richtet jeden nach seinem Werk",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Gott wünscht die Umkehr des Sünders",
+      "start": {
+        "chapter": 18,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Klage über die Fürsten Israels",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der Herr blickt zurück auf die verkehrten Wege Israels",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Der Herr tadelt die jetzige Generation der Israeliten",
+      "start": {
+        "chapter": 20,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Wiederherstellung Israels wird verheißen",
+      "start": {
+        "chapter": 20,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Warnung vor dem Schwert über Jerusalem",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Gott lenkt den König von Babel nach Jerusalem",
+      "start": {
+        "chapter": 21,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Die Sünden Jerusalems",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Das Gleichnis von Ohola (Israel) und Oholiba (Juda)",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das Gericht Gottes über Oholiba",
+      "start": {
+        "chapter": 23,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Letzte Gerichtsworte über Jerusalem. Das Gleichnis vom rostigen Topf",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Hesekiels zeichenhaftes Verhalten beim Tod seiner Ehefrau",
+      "start": {
+        "chapter": 24,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Über die Ammoniter",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Über die Moabiter",
+      "start": {
+        "chapter": 25,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Über die Edomiter",
+      "start": {
+        "chapter": 25,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Über die Philister",
+      "start": {
+        "chapter": 25,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Weissagung gegen Tyrus",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Klagelied über Tyrus",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Weissagung über den Fürsten von Tyrus",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Weissagung gegen Zidon",
+      "start": {
+        "chapter": 28,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Weissagung gegen Ägypten und den Pharao",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Klagelied über Ägypten",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Zeder auf dem Libanon. Ägypten und Assyrien",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Klagelied über den Pharao",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der Pharao und sein Heer fahren ins Totenreich",
+      "start": {
+        "chapter": 32,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Der Wächterdienst des Propheten",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Hesekiel erhält die Nachricht von der Einnahme Jerusalems",
+      "start": {
+        "chapter": 33,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Weissagung gegen die untreuen Hirten des Volkes Gottes",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der gute Hirte Israels",
+      "start": {
+        "chapter": 34,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Weissagung gegen das Gebirge Seir (Edom)",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Israel wird in sein Land zurückkehren",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Wiederherstellung Israels: Das Gesicht von den Totengebeinen",
+      "start": {
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die künftige Wiedervereinigung des Volkes und die Wiederherstellung des Königtums Davids",
+      "start": {
+        "chapter": 37,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Weissagung gegen Gog",
+      "start": {
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Das Gericht über Gog",
+      "start": {
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Herr wird sich über Israel erbarmen",
+      "start": {
+        "chapter": 39,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Prophetisches Gesicht vom neuen Tempel in Jerusalem",
+      "start": {
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Das Osttor zum Vorhof",
+      "start": {
+        "chapter": 40,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der äußere Vorhof und seine Tore",
+      "start": {
+        "chapter": 40,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Der innere Vorhof und seine Tore",
+      "start": {
+        "chapter": 40,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Räume für den Priesterdienst",
+      "start": {
+        "chapter": 40,
+        "verse": 38
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Das Tempelhaus und seine Innenräume",
+      "start": {
+        "chapter": 41,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Kammern der Priester. Die Maße des Tempelbezirks",
+      "start": {
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des Herrn erfüllt den Tempel",
+      "start": {
+        "chapter": 43,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Der Brandopferaltar",
+      "start": {
+        "chapter": 43,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Ordnungendes erneuerten Heiligtums",
+      "start": {
+        "chapter": 44,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Ordnungen für die Priester",
+      "start": {
+        "chapter": 44,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Aufteilung des Landes und der heilige Bezirk für den Herrn",
+      "start": {
+        "chapter": 45,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Anordnungen für den Opferdienst",
+      "start": {
+        "chapter": 45,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Opferordnungen für die Feste",
+      "start": {
+        "chapter": 45,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Anordnungen für den Tempeldienst und die Aufgaben des Fürsten",
+      "start": {
+        "chapter": 46,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Wasserstrom aus dem Tempel",
+      "start": {
+        "chapter": 47,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 47,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Grenzen des Landes",
+      "start": {
+        "chapter": 47,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 47,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Aufteilung des Landes. Die heilige Weihegabe",
+      "start": {
+        "chapter": 48,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 48,
+        "verse": 35
+      }
+    }
+  ],
+  "selected": false
+}

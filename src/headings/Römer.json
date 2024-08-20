@@ -1,0 +1,486 @@
+{
+  "name": "Römerbrief",
+  "chapters": [
+    32,
+    29,
+    31,
+    25,
+    21,
+    23,
+    25,
+    39,
+    33,
+    21,
+    36,
+    21,
+    14,
+    23,
+    33,
+    27
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß: Paulus, der Apostel der Heiden",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Verlangen des Paulus, die Christen in Rom zu besuchen",
+      "start": {
+        "chapter": 1,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das Evangelium von Christus als Gottes Kraft zur Errettung",
+      "start": {
+        "chapter": 1,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Gottes Zorn über die Gottlosigkeit der Menschen",
+      "start": {
+        "chapter": 1,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Das gerechte Gericht Gottes über alle Menschen",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Juden werden durch das Gesetz als Sünder verurteilt",
+      "start": {
+        "chapter": 2,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die Gerechtigkeit Gottes in seinem Gericht",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Kein Mensch ist vor Gott gerecht",
+      "start": {
+        "chapter": 3,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die von Gott geschenkte Gerechtigkeit durch den Glauben an Jesus Christus",
+      "start": {
+        "chapter": 3,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Abraham als Vater derer, die durch Glauben gerecht werden",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die Früchte der Gerechtigkeit aus Glauben",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Sünde durch Adam – die Gerechtigkeit durch Christus",
+      "start": {
+        "chapter": 5,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der Gläubige ist einsgemacht mit Christus: der Sünde gestorben – Gott lebend in Christus",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Gläubigen sind berufen, der Gerechtigkeit zu dienen",
+      "start": {
+        "chapter": 6,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Vom Gesetz befreit, dient der Gläubige Gott im Geist",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das Gesetz macht das Wesen der Sünde offenbar",
+      "start": {
+        "chapter": 7,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Das Fleisch und die innewohnende Sünde",
+      "start": {
+        "chapter": 7,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Das neue Leben im Geist",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Hoffnung der kommenden Herrlichkeit",
+      "start": {
+        "chapter": 8,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Zuversicht der Auserwählten Gottes",
+      "start": {
+        "chapter": 8,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Die Verheißungen Gottes und das Volk Israel",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Souveränität Gottes",
+      "start": {
+        "chapter": 9,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Israel und die Heidenvölker – die Gerechtigkeit aus dem Gesetz und die Gerechtigkeit aus dem Glauben",
+      "start": {
+        "chapter": 9,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Wichtigkeit der Verkündigung des Evangeliums",
+      "start": {
+        "chapter": 10,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Gott hat sein Volk nicht endgültig verworfen. Ein Überrest erlangt das Heil",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Gläubigen aus den Heidenvölkern sollen sich nicht überheben",
+      "start": {
+        "chapter": 11,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der herrliche Heilsratschluss Gottes und die Rettung Israels",
+      "start": {
+        "chapter": 11,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Die Antwort auf Gottes Gnade: Hingabe und Tun des Willens Gottes",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Demut und Dienst in der Gemeinde",
+      "start": {
+        "chapter": 12,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Liebe im praktischen Leben",
+      "start": {
+        "chapter": 12,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Unterordnung unter die Obrigkeit",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Liebe ist die Erfüllung des Gesetzes",
+      "start": {
+        "chapter": 13,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Leben in Wachsamkeit und Reinheit",
+      "start": {
+        "chapter": 13,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gegenseitige Duldsamkeit in Gewissensfragen",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Pflicht zur Rücksichtnahme gegenüber dem schwächeren Bruder",
+      "start": {
+        "chapter": 14,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Dem Nächsten gefallen zum Guten",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Gläubigen sollen Gott loben wegen seiner Barmherzigkeit",
+      "start": {
+        "chapter": 15,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Dienst des Apostels Paulus",
+      "start": {
+        "chapter": 15,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Reisepläne des Apostels. Ermahnung zur Fürbitte",
+      "start": {
+        "chapter": 15,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Empfehlungen, Grüße und Segenswünsche",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Warnung vor falschen Lehrern und Verführern",
+      "start": {
+        "chapter": 16,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Briefschluss. Die Offenbarung des Geheimnisses Gottes",
+      "start": {
+        "chapter": 16,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 27
+      }
+    }
+  ],
+  "selected": false
+}

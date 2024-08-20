@@ -1,0 +1,55 @@
+{
+  "name": "Nahum",
+  "chapters": [
+    14,
+    14,
+    19
+  ],
+  "headings": [
+    {
+      "heading": "Gott ist furchtgebietend in seinem Gericht",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Warnung an Ninive",
+      "start": {
+        "chapter": 1,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der Untergang von Ninive",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Schuld Ninives und die Vergeltung Gottes",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 19
+      }
+    }
+  ],
+  "selected": false
+}

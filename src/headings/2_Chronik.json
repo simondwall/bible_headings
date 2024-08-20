@@ -1,0 +1,726 @@
+{
+  "name": "2. Chronik",
+  "chapters": [
+    17,
+    18,
+    17,
+    22,
+    14,
+    42,
+    22,
+    18,
+    31,
+    19,
+    23,
+    16,
+    23,
+    14,
+    19,
+    14,
+    19,
+    34,
+    11,
+    37,
+    20,
+    12,
+    21,
+    27,
+    28,
+    23,
+    9,
+    27,
+    36,
+    27,
+    21,
+    33,
+    25,
+    33,
+    27,
+    23
+  ],
+  "headings": [
+    {
+      "heading": "Gott erscheint Salomo und verleiht ihm Reichtum und Weisheit",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Salomos Vorbereitungen für den Tempelbau",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der Bau des Tempels und seine Ausstattung",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Geräte des Tempels",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Bundeslade wird in den Tempel gebracht",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Salomos Rede an das Volk bei der Tempeleinweihung",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Salomos Gebet bei der Tempeleinweihung",
+      "start": {
+        "chapter": 6,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des Herrn erfüllt den Tempel. Die Opfer Salomos und das Fest",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Herr erscheint Salomo zum zweiten Mal",
+      "start": {
+        "chapter": 7,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Salomos Unternehmungen und sein Gottesdienst",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der Besuch der Königin von Saba",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Salomos großer Reichtum und sein Tod",
+      "start": {
+        "chapter": 9,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Das Reich wird geteilt. König Rehabeam von Juda und König Jerobeam von Israel",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Rehabeam festigt seine Königsherrschaft in Juda",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Rehabeams Untreue. Der Einfall Sisaks, des Königs von Ägypten",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "König Abija von Juda. Sein Krieg mit Jerobeam",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Gott gibt Juda den Sieg",
+      "start": {
+        "chapter": 13,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "König Asa von Juda. Sein Sieg über Serach",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Wort des Propheten Asarja und Asas Eifer für den Herrn",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Asas Bündnis mit Aram. Seine Krankheit und sein Tod",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "König Josaphat von Juda. Seine Treue und seine wachsende Macht",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Josaphats Bündnis mit Ahab. Die falschen Propheten und der echte Prophet Micha",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Micha weissagt den Tod Ahabs",
+      "start": {
+        "chapter": 18,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Ahabs Niederlage und Tod",
+      "start": {
+        "chapter": 18,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Josaphat wird getadelt und ordnet die Rechtspflege in Juda",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Bedrohung durch die Moabiter und Ammoniter und Josaphats Gebet",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Der Herr gibt einen großen Sieg",
+      "start": {
+        "chapter": 20,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Josaphats Regierungszeit und Ende",
+      "start": {
+        "chapter": 20,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "König Joram von Juda. Seine Gottlosigkeit und sein Ende",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "König Ahasja von Juda",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die blutige Herrschaft Athaljas über Juda",
+      "start": {
+        "chapter": 22,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Joas wird vom Priester Jojada als König von Juda eingesetzt",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Wiederherstellung des Tempels durch Joas",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Joas weicht vom Herrn und kommt um",
+      "start": {
+        "chapter": 24,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "König Amazja von Juda und sein Sieg über die Edomiter",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Amazjas Götzendienst und Niederlage gegen Israel",
+      "start": {
+        "chapter": 25,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "König Ussija von Juda",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Ussijas Anmaßung gegenüber dem Herrn und seine Strafe",
+      "start": {
+        "chapter": 26,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "König Jotam von Juda und seine gute Regierung",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "König Ahas von Juda. Sein Götzendienst und die Niederlage Judas gegen Israel",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Ein Prophet mahnt Israel zur Barmherzigkeit mit den besiegten Judäern",
+      "start": {
+        "chapter": 28,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Ahas sucht Hilfe bei den Assyrern. Seine Gottlosigkeit und sein Ende",
+      "start": {
+        "chapter": 28,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "König Hiskia von Juda. Seine Gottesfurcht und die Wiederherstellung des Tempels",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Wiederherstellung des Priesterdienstes",
+      "start": {
+        "chapter": 29,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Hiskia feiert das Passah",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Neuordnung des Tempeldienstes durch Hiskia",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der Einfall des Königs von Assyrien",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Sanherib verhöhnt den Herrn",
+      "start": {
+        "chapter": 32,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Gottes wunderbare Rettung",
+      "start": {
+        "chapter": 32,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Hiskias Krankheit und Genesung. Sein Ende",
+      "start": {
+        "chapter": 32,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "König Manasse von Juda und seine gottlose Regierung",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Manasse wird gefangen genommen und tut Buße",
+      "start": {
+        "chapter": 33,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "König Amon von Juda",
+      "start": {
+        "chapter": 33,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "König Josia von Juda und sein Eifer für den Herrn",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Das Buch des Gesetzes wird wiedergefunden. Josias Demütigung vor Gott",
+      "start": {
+        "chapter": 34,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Botschaft des Herrn an Josia",
+      "start": {
+        "chapter": 34,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Josias Bund vor dem Herrn",
+      "start": {
+        "chapter": 34,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Josia feiert das Passah",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Josia wird im Kampf gegen den Pharao tödlich verletzt",
+      "start": {
+        "chapter": 35,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Joahas, Jojakim und Jojachin werden Könige von Juda",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Zedekia, der letzte König von Juda. Die Zerstörung Jerusalems und die Wegführung Judas in die Gefangenschaft",
+      "start": {
+        "chapter": 36,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das Edikt des Königs Kyrus (Kores)",
+      "start": {
+        "chapter": 36,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 23
+      }
+    }
+  ],
+  "selected": false
+}

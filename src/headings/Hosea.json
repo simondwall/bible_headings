@@ -1,0 +1,209 @@
+{
+  "name": "Hosea",
+  "chapters": [
+    9,
+    25,
+    5,
+    19,
+    15,
+    11,
+    16,
+    14,
+    17,
+    15,
+    11,
+    15,
+    15,
+    10
+  ],
+  "headings": [
+    {
+      "heading": "Israels Untreue führt zu seiner zeitweiligen Verwerfung",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Gottes Züchtigung für Israel und seine Wiederannahme",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Gottes Erziehungswege mit Israel",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Gott geht mit dem abtrünnigen Volk ins Gericht",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Israels Weigerung, Buße zu tun, bringt es zu Fall",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Aufruf zur Umkehr",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Gottes Klage über sein Volk",
+      "start": {
+        "chapter": 6,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Herr deckt Israels Schuld und Bosheit auf",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Israel sät Wind und wird Sturm ernten",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Hosea kündigt die Vertreibung Israels aus seinem Land an",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Gott muss sein Volk züchtigen",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Ruf, den Herrn zu suchen: Pflügt einen Neubruch!",
+      "start": {
+        "chapter": 10,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Gott liebt Israel trotz dessen Undankbarkeit",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Israel hat sich in Lügen und Selbstbetrug verstrickt",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Der Götzendienst als Ursache für Israels Verderben",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Schuld Ephraims und die Verheißung der zukünftigen Erlösung",
+      "start": {
+        "chapter": 13,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Aufruf zur Umkehr – Zukunftsverheißungen",
+      "start": {
+        "chapter": 14,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 10
+      }
+    }
+  ],
+  "selected": false
+}

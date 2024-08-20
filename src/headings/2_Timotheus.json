@@ -1,0 +1,155 @@
+{
+  "name": "2. Timotheus",
+  "chapters": [
+    18,
+    26,
+    17,
+    22
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Ermahnung zum furchtlosen Zeugnis für den Herrn",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ermahnung zur Bewahrung des Wortes Gottes angesichts der Untreue mancher Christen",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Ermunterung zum Kampf und Erdulden von Widrigkeiten im Dienst",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Dienst am Wort der Wahrheit und der Kampf gegen Irrlehren",
+      "start": {
+        "chapter": 2,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Aufforderung zur persönlichen Treue und Heiligung inmitten des Abfalls",
+      "start": {
+        "chapter": 2,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die richtige Haltung eines Knechtes des Herrn gegenüber Irrenden",
+      "start": {
+        "chapter": 2,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Der geistliche Niedergang in den letzten Tagen",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das Vorbild des Apostels im Erdulden von Verfolgungen",
+      "start": {
+        "chapter": 3,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Schutz vor Verführung: Festhalten an der von Gott eingegebenen Heiligen Schrift",
+      "start": {
+        "chapter": 3,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Auftrag zur treuen Verkündigung des Wortes",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Persönliche Verfügungen und Nachrichten",
+      "start": {
+        "chapter": 4,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Grüße und Abschiedswort",
+      "start": {
+        "chapter": 4,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 22
+      }
+    }
+  ],
+  "selected": false
+}

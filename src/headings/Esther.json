@@ -1,0 +1,172 @@
+{
+  "name": "Esther",
+  "chapters": [
+    22,
+    23,
+    15,
+    17,
+    14,
+    14,
+    10,
+    17,
+    32,
+    3
+  ],
+  "headings": [
+    {
+      "heading": "Das Festmahl des Ahasveros",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Ungehorsam und Verstoßung der Königin Vasti",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Esther wird zur Königin ausersehen",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Mordechai vereitelt einen Anschlag auf den König",
+      "start": {
+        "chapter": 2,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Der Aufstieg Hamans und sein Mordplan gegen die Juden",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Mordechai fordert Esther auf, sich für die Rettung der Juden einzusetzen",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Esther erscheint vor dem König",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Haman plant die Ermordung Mordechais",
+      "start": {
+        "chapter": 5,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Mordechai kommt zu Ehren – Haman wird gedemütigt",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Haman wird entlarvt und hingerichtet",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Mordechai und Esther erwirken einen Erlass zugunsten der Juden",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Feinde der Juden werden getötet",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Purimfest wird eingesetzt",
+      "start": {
+        "chapter": 9,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Mordechais Ansehen und Tugend",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 3
+      }
+    }
+  ],
+  "selected": false
+}

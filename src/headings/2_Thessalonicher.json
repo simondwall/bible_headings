@@ -1,0 +1,77 @@
+{
+  "name": "2. Thessalonicherbrief",
+  "chapters": [
+    12,
+    17,
+    18
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Glaubenstreue in Bedrängnis. Das gerechte Gericht Gottes über seine Feinde",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Wiederkunft des Herrn und die Offenbarung des Menschen der Sünde",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Ermutigung zur Standhaftigkeit",
+      "start": {
+        "chapter": 2,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Das richtige Verhalten der Gemeinde gegenüber Müßiggängern",
+      "start": {
+        "chapter": 3,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Segenswunsch und Abschiedsgruß",
+      "start": {
+        "chapter": 3,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 18
+      }
+    }
+  ],
+  "selected": false
+}

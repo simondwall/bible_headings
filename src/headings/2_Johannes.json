@@ -1,0 +1,53 @@
+{
+  "name": "2. Johannes",
+  "chapters": [
+    13
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Wandel in der Wahrheit. Das Gebot der Liebe",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Warnung vor verführerischen Irrlehrern",
+      "start": {
+        "chapter": 1,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Schlussworte",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 13
+      }
+    }
+  ],
+  "selected": false
+}

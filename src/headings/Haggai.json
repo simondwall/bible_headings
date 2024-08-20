@@ -1,0 +1,65 @@
+{
+  "name": "Haggai",
+  "chapters": [
+    15,
+    23
+  ],
+  "headings": [
+    {
+      "heading": "Aufruf zum Wiederaufbau des Tempels",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des künftigen Tempels",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Unreinheit des bisherigen Opferdienstes und des Volkes",
+      "start": {
+        "chapter": 2,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Ermunterung zur Aufbauarbeit: Gott will segnen",
+      "start": {
+        "chapter": 2,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Verheißung an Serubbabel",
+      "start": {
+        "chapter": 2,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 23
+      }
+    }
+  ],
+  "selected": false
+}

@@ -1,0 +1,759 @@
+{
+  "name": "2. Könige",
+  "chapters": [
+    18,
+    25,
+    27,
+    44,
+    27,
+    33,
+    20,
+    29,
+    37,
+    36,
+    20,
+    22,
+    25,
+    29,
+    38,
+    20,
+    41,
+    37,
+    37,
+    21,
+    26,
+    20,
+    37,
+    20,
+    30
+  ],
+  "headings": [
+    {
+      "heading": "Elia kündigt König Ahasja von Israel den Tod an",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Elia wird in den Himmel hinweggenommen",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Anfang des Wirkens von Elisa",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Elisa macht schlechtes Wasser gesund",
+      "start": {
+        "chapter": 2,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Knaben von Bethel",
+      "start": {
+        "chapter": 2,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "König Joram von Israel und sein Sieg über die Moabiter",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Elisas Dienst. Die Prophetenwitwe und die Vermehrung des Öls",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Schunamitin und ihr Sohn",
+      "start": {
+        "chapter": 4,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Der Tod im Topf",
+      "start": {
+        "chapter": 4,
+        "verse": 38
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Die Speisung der Einhundert",
+      "start": {
+        "chapter": 4,
+        "verse": 42
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Der Aramäer Naeman wird vom Aussatz geheilt",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Untreue des Gehasi",
+      "start": {
+        "chapter": 5,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Das schwimmende Eisen",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Aramäer werden mit Blindheit geschlagen",
+      "start": {
+        "chapter": 6,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Belagerung Samarias",
+      "start": {
+        "chapter": 6,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Befreiung Samarias",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Schunamitin erhält ihr Land zurück",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Hasael wird König von Aram",
+      "start": {
+        "chapter": 8,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Joram wird König von Juda",
+      "start": {
+        "chapter": 8,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Ahasja wird König von Juda",
+      "start": {
+        "chapter": 8,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Jehu wird zum König von Israel gesalbt",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Jehu bringt Joram und Ahasja um",
+      "start": {
+        "chapter": 9,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Der Tod Isebels",
+      "start": {
+        "chapter": 9,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Das Haus Ahabs wird ausgerottet",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Jehu macht dem Baalsdienst ein Ende",
+      "start": {
+        "chapter": 10,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Jehus Verdienste und sein Versagen",
+      "start": {
+        "chapter": 10,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Athaljas Mord an den Königssöhnen von Juda",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Joas wird König von Juda",
+      "start": {
+        "chapter": 11,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "König Joas von Juda und die Ausbesserung des Tempels",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "König Joahas von Israel",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "König Joas von Israel",
+      "start": {
+        "chapter": 13,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Tod des Propheten Elisa",
+      "start": {
+        "chapter": 13,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "König Amazja von Juda",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "König Jerobeam II. von Israel",
+      "start": {
+        "chapter": 14,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "König Asarja (Ussija) von Juda",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "König Sacharja von Israel",
+      "start": {
+        "chapter": 15,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Könige Schallum, Menachem, Pekachja und Pekach von Israel",
+      "start": {
+        "chapter": 15,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "König Jotam von Juda",
+      "start": {
+        "chapter": 15,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "König Ahas von Juda",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Hosea, der letzte König von Israel",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Israel wird wegen seiner Sünde weggeführt",
+      "start": {
+        "chapter": 17,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Heidenvölker werden in Samaria angesiedelt",
+      "start": {
+        "chapter": 17,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "König Hiskia von Juda",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Sanheribs Feldzug gegen Juda",
+      "start": {
+        "chapter": 18,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Sanherib bedroht Jerusalem und verhöhnt den Herrn",
+      "start": {
+        "chapter": 18,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Hiskia wendet sich an Jesaja",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Drohungen Sanheribs",
+      "start": {
+        "chapter": 19,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Hiskias Gebet und die Antwort des Herrn",
+      "start": {
+        "chapter": 19,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Hiskias Krankheit und Genesung",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Botschafter aus Babel bei Hiskia. Jesaja kündigt die Wegführung an",
+      "start": {
+        "chapter": 20,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "König Manasse von Juda",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "König Amon von Juda",
+      "start": {
+        "chapter": 21,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "König Josia von Juda und die Ausbesserung des Tempels",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Buch des Gesetzes wird wiedergefunden. Josias Demütigung",
+      "start": {
+        "chapter": 22,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Botschaft des Herrn an Josia",
+      "start": {
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Josia macht einen Bund mit dem Herrn und bekämpft den Götzendienst",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Gericht über den Altar von Bethel",
+      "start": {
+        "chapter": 23,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Josia feiert das Passah",
+      "start": {
+        "chapter": 23,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Das Ende Josias",
+      "start": {
+        "chapter": 23,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "König Joahas von Juda",
+      "start": {
+        "chapter": 23,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "König Jojakim von Juda. Feldzug Nebukadnezars gegen Jerusalem",
+      "start": {
+        "chapter": 23,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "König Jojachin von Juda. Die Wegführung Judas nach Babylon",
+      "start": {
+        "chapter": 24,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Zedekia, der letzte König von Juda, und der Fall Jerusalems",
+      "start": {
+        "chapter": 24,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Zerstörung Jerusalems und des Tempels. Die letzte Wegführung Judas",
+      "start": {
+        "chapter": 25,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Gedalja wird Statthalter von Juda",
+      "start": {
+        "chapter": 25,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Jehojachin wird begnadigt",
+      "start": {
+        "chapter": 25,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 30
+      }
+    }
+  ],
+  "selected": false
+}

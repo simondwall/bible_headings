@@ -1,0 +1,77 @@
+{
+  "name": "Zephanja",
+  "chapters": [
+    18,
+    15,
+    20
+  ],
+  "headings": [
+    {
+      "heading": "Ankündigung des nahenden Gerichtes über Juda",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der große Tag des Herrn",
+      "start": {
+        "chapter": 1,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Letzter Bußruf an Juda",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Das Gericht über die Nachbarvölker Israels",
+      "start": {
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das Gericht über Jerusalem",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Wiederannahme Israels am Ende",
+      "start": {
+        "chapter": 3,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 20
+      }
+    }
+  ],
+  "selected": false
+}

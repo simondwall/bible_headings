@@ -1,0 +1,479 @@
+{
+  "name": "Sprüche",
+  "chapters": [
+    33,
+    22,
+    35,
+    27,
+    23,
+    35,
+    27,
+    36,
+    18,
+    32,
+    31,
+    28,
+    25,
+    35,
+    33,
+    33,
+    28,
+    24,
+    29,
+    30,
+    31,
+    29,
+    35,
+    34,
+    28,
+    28,
+    27,
+    28,
+    27,
+    33,
+    31
+  ],
+  "headings": [
+    {
+      "heading": "Sinn und Zweck der Sprüche",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Warnung vor Verführung zur Sünde",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Weisheit ruft zur Umkehr auf",
+      "start": {
+        "chapter": 1,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Weisheit bewahrt vor bösen Wegen",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Weisheit wird belohnt",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die Weisheit muss erworben werden",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Warnung vor Unzucht",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Warnung vor einer Bürgschaft",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Warnung vor Faulheit",
+      "start": {
+        "chapter": 6,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Warnung vor Falschheit",
+      "start": {
+        "chapter": 6,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Warnung vor Ehebruch",
+      "start": {
+        "chapter": 6,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Der unverständige junge Mann wird Opfer der Ehebrecherin",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Weisheit Gottes redet",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Selbstoffenbarung der Weisheit",
+      "start": {
+        "chapter": 8,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Ruf der Weisheit – Ruf der Torheit",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der Segen der Gerechtigkeit – der Fluch der Gottlosigkeit",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die Frucht der Redlichkeit und die Frucht der Gottlosigkeit",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Wurzel der Gerechten trägt Frucht",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Wo man sich raten lässt, da wohnt Weisheit",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Wahre Weisheit im menschlichen Leben",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Heilsame Wege – unheilvolle Wege",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Gott achtet auf das Tun der Menschen",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Warnung vor gottlosen Reden und ungerechtem Tun",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Freundschaft und zwischenmenschliche Beziehungen",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die bösen Folgen von Torheit, Faulheit und Spott",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Warnung vor unordentlichem Wandel",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Der Herr wägt die Herzen",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Der Lohn der Demut – die Rute für den Übermut",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Worte der Weisen – Unterweisung zur Gottesfurcht",
+      "start": {
+        "chapter": 22,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Kluger Wandel und weise Erziehung",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Mahnungen zu Weisheit und Besonnenheit im Lebenswandel",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Weitere Sprüche der Weisen",
+      "start": {
+        "chapter": 24,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Weitere Sprüche Salomos, in der Zeit Hiskias zusammengetragen",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Von Narrheit, Faulheit und Streitsucht",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Von guter Freundschaft und besonnenem Arbeiten",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Über Gerechte und Gottlose, Arme und Reiche",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Warnung vor Hochmut und Bosheit – Erziehungsratschläge",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Worte Agurs",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Worte Lemuels",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das Lob der tugendhaften Frau",
+      "start": {
+        "chapter": 31,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 31
+      }
+    }
+  ],
+  "selected": false
+}

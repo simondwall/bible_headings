@@ -1,0 +1,136 @@
+{
+  "name": "Micha",
+  "chapters": [
+    16,
+    13,
+    12,
+    14,
+    14,
+    16,
+    20
+  ],
+  "headings": [
+    {
+      "heading": "Der Herr wird Samaria und Jerusalem verwüsten",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Jammer und Wehklage des Propheten",
+      "start": {
+        "chapter": 1,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Weheruf über die Gottlosen in Israel",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Das Volk will das Reden der Propheten nicht hören",
+      "start": {
+        "chapter": 2,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Verheißung für den Überrest Israels",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Micha tadelt die Fürsten und die falschen Propheten",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Ausblick auf das messianische Friedensreich in den letzten Tagen",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Verheißung des Messias aus Bethlehem",
+      "start": {
+        "chapter": 4,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gottes Rechtsstreit mit seinem Volk",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Klage über die Verderbnis im Volk Gottes",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Die Hoffnung der Gottesfürchtigen auf die Gnade und die Rettung des Herrn",
+      "start": {
+        "chapter": 7,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 20
+      }
+    }
+  ],
+  "selected": false
+}

@@ -1,0 +1,536 @@
+{
+  "name": "Offenbarung",
+  "chapters": [
+    20,
+    29,
+    22,
+    11,
+    14,
+    17,
+    17,
+    13,
+    21,
+    11,
+    19,
+    18,
+    18,
+    20,
+    8,
+    21,
+    18,
+    24,
+    21,
+    15,
+    27,
+    21
+  ],
+  "headings": [
+    {
+      "heading": "Inhalt und Zweck des Buches",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Gruß an die sieben Gemeinden in der Provinz Asia. Lobpreis Jesu Christi",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Der Auftrag, das Buch der Offenbarung zu schreiben",
+      "start": {
+        "chapter": 1,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der erhöhte Herr Jesus Christus",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Ephesus",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Smyrna",
+      "start": {
+        "chapter": 2,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Pergamus",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Thyatira",
+      "start": {
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Sardes",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Philadelphia",
+      "start": {
+        "chapter": 3,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Sendschreiben an die Gemeinde von Laodizea",
+      "start": {
+        "chapter": 3,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Thron der göttlichen Majestät und die Anbetung Gottes im Himmel",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Das Lamm ist würdig, das versiegelte Buch zu öffnen",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Anbetung des Lammes",
+      "start": {
+        "chapter": 5,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Öffnung der sechs ersten Siegel",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Versiegelung der 144 000 Auserwählten aus Israel",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die große Schar aus allen Völkern vor dem Thron",
+      "start": {
+        "chapter": 7,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das siebte Siegel und die sieben Engel mit den sieben Posaunen",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Die vier ersten Posaunen",
+      "start": {
+        "chapter": 8,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die fünfte Posaune",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die sechste Posaune",
+      "start": {
+        "chapter": 9,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der Engel mit dem offenen Büchlein",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die heilige Stadt Jerusalem und die zwei Zeugen",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die siebte Posaune",
+      "start": {
+        "chapter": 11,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Frau und der Drache",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Satan wird auf die Erde hinabgeworfen",
+      "start": {
+        "chapter": 12,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Der Drache verfolgt die Frau",
+      "start": {
+        "chapter": 12,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Tier aus dem Meer",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Tier aus der Erde",
+      "start": {
+        "chapter": 13,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Lamm und seine Erkauften",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Drei Engel künden Gericht an",
+      "start": {
+        "chapter": 14,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Ernte und die Weinlese des Gerichts",
+      "start": {
+        "chapter": 14,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die sieben Engel und die sieben letzten Plagen",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die sieben Zornschalen Gottes",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Frau auf dem Tier: Die große Hure Babylon",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Gericht über Babylon",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Jubel im Himmel. Die Hochzeit des Lammes",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Herr Jesus Christus als König und Richter",
+      "start": {
+        "chapter": 19,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der Sieg über das Tier und den falschen Propheten",
+      "start": {
+        "chapter": 19,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Satan für tausend Jahre gebunden. Erste Auferstehung. Das Friedensreich des Messias",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Satan wird losgelassen und mit den abtrünnigen Völkern endgültig gerichtet",
+      "start": {
+        "chapter": 20,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Endgericht vor dem großen weißen Thron",
+      "start": {
+        "chapter": 20,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Der neue Himmel und die neue Erde",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das neue Jerusalem",
+      "start": {
+        "chapter": 21,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Der Strom vom Wasser des Lebens",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Abschließende Ermahnungen — »Siehe, ich komme bald!«",
+      "start": {
+        "chapter": 22,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 21
+      }
+    }
+  ],
+  "selected": false
+}

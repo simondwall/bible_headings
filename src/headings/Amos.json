@@ -1,0 +1,160 @@
+{
+  "name": "Amos",
+  "chapters": [
+    15,
+    16,
+    15,
+    13,
+    27,
+    14,
+    17,
+    14,
+    15
+  ],
+  "headings": [
+    {
+      "heading": "Das unabwendbare Gericht Gottes über Israels Nachbarvölker",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Das unabwendbare Gericht trifft auch Juda und Israel",
+      "start": {
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Gottes Züchtigung für sein auserwähltes Volk",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Israel verweigert die Umkehr zu Gott",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Das Klagelied des Amos. Aufruf, den Herrn zu suchen",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Tag des Herrn – Gott verwirft den bloß äußerlichen Gottesdienst",
+      "start": {
+        "chapter": 5,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Sorglosigkeit und trügerische Sicherheit der Vornehmen",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Der Herr verabscheut den Hochmut Jakobs",
+      "start": {
+        "chapter": 6,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gesichte vom Gericht – Fürbitte des Propheten für Israel",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Amos und der Priester Amazja",
+      "start": {
+        "chapter": 7,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Korb mit reifen Früchten – Israels Ende wird vorausgesagt",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Israel kann dem Strafgericht Gottesnicht entfliehen",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die künftige Wiederherstellung Israels",
+      "start": {
+        "chapter": 9,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 15
+      }
+    }
+  ],
+  "selected": false
+}

@@ -1,0 +1,777 @@
+{
+  "name": "Johannes",
+  "chapters": [
+    51,
+    25,
+    36,
+    54,
+    47,
+    71,
+    53,
+    59,
+    41,
+    42,
+    57,
+    50,
+    38,
+    31,
+    27,
+    33,
+    26,
+    40,
+    42,
+    31,
+    25
+  ],
+  "headings": [
+    {
+      "heading": "Das Wort wurde Fleisch",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Zeugnis Johannes des Täufers von Jesus Christus",
+      "start": {
+        "chapter": 1,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Das Lamm Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Die ersten Jünger",
+      "start": {
+        "chapter": 1,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "Die Hochzeit von Kana",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die erste Tempelreinigung",
+      "start": {
+        "chapter": 2,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Jesus und Nikodemus. Die Notwendigkeit der Wiedergeburt",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Sohn Gottes ist als Retter in die Welt gekommen",
+      "start": {
+        "chapter": 3,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Johannes der Täufer und sein Zeugnis von Christus",
+      "start": {
+        "chapter": 3,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Jesus und die Frau aus Samaria. Das Wasser des Lebens. Die wahren Anbeter Gottes",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Das weiße Erntefeld",
+      "start": {
+        "chapter": 4,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Der Glaube der Samariter",
+      "start": {
+        "chapter": 4,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Jesus heilt den Sohn eines königlichen Beamten",
+      "start": {
+        "chapter": 4,
+        "verse": 43
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 54
+      }
+    },
+    {
+      "heading": "Jesus heilt am Sabbat einen Kranken beim Teich Bethesda",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Jesus offenbart sich als der Sohn Gottes",
+      "start": {
+        "chapter": 5,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Der Vater legt Zeugnis ab von seinem Sohn",
+      "start": {
+        "chapter": 5,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Die Speisung der Fünftausend",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Jesus geht auf dem See",
+      "start": {
+        "chapter": 6,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das Volk sucht nach Äußerlichem, nicht nach dem wahren Heil",
+      "start": {
+        "chapter": 6,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Jesus Christus – das Brot des Lebens",
+      "start": {
+        "chapter": 6,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 59
+      }
+    },
+    {
+      "heading": "Jesu Worte erzeugen eine Scheidung unter den Jüngern",
+      "start": {
+        "chapter": 6,
+        "verse": 60
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 71
+      }
+    },
+    {
+      "heading": "Die ungläubigen Brüder Jesu",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Jesus lehrt am Laubhüttenfest. Der Unglaube der Juden",
+      "start": {
+        "chapter": 7,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Ist Jesus der Christus?",
+      "start": {
+        "chapter": 7,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Ströme lebendigen Wassers",
+      "start": {
+        "chapter": 7,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Spaltung unter den Juden",
+      "start": {
+        "chapter": 7,
+        "verse": 40
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 53
+      }
+    },
+    {
+      "heading": "Jesus und die Ehebrecherin",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Jesus Christus – das Licht der Welt",
+      "start": {
+        "chapter": 8,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Allein die göttliche Wahrheit macht frei. Die Ursache für den Widerstand gegen die Wahrheit",
+      "start": {
+        "chapter": 8,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Entehrung und Ablehnung des Sohnes Gottes",
+      "start": {
+        "chapter": 8,
+        "verse": 48
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 59
+      }
+    },
+    {
+      "heading": "Die Heilung eines Blindgeborenen",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Verhör des Geheilten durch die Pharisäer",
+      "start": {
+        "chapter": 9,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Blinde sehen und Sehende werden blind",
+      "start": {
+        "chapter": 9,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Der gute Hirte",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Unglaube und Widerstand gegen den Sohn Gottes",
+      "start": {
+        "chapter": 10,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Die Auferweckung des Lazarus",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Der Mordplan des Hohen Rates",
+      "start": {
+        "chapter": 11,
+        "verse": 47
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 57
+      }
+    },
+    {
+      "heading": "Maria salbt die Füße Jesu",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Einzug des Messias Jesus in Jerusalem",
+      "start": {
+        "chapter": 12,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Messias kündigt seinen Opfertod und seine Verherrlichung an",
+      "start": {
+        "chapter": 12,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Das Volk verharrt im Unglauben",
+      "start": {
+        "chapter": 12,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 50
+      }
+    },
+    {
+      "heading": "Das letzte Passahmahl und die Fußwaschung",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Jesus und der Verräter",
+      "start": {
+        "chapter": 13,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Verherrlichung Jesu und das neue Gebot",
+      "start": {
+        "chapter": 13,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die Ankündigung der Verleugnung durch Petrus",
+      "start": {
+        "chapter": 13,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Der Herr tröstet seine Jünger. Jesus Christus, der einzige Weg zum Vater",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Verheißung des Heiligen Geistes. Gehorsam und Liebe",
+      "start": {
+        "chapter": 14,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Der Friede Jesu Christi",
+      "start": {
+        "chapter": 14,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Der Weinstock und die Reben",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Das Gebot der Liebe",
+      "start": {
+        "chapter": 15,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Hass der Welt gegen die Jünger. Ankündigung von Verfolgungen",
+      "start": {
+        "chapter": 15,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Das Wirken des Heiligen Geistes",
+      "start": {
+        "chapter": 16,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Künftige Trauer und Freude der Jünger",
+      "start": {
+        "chapter": 16,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Das Gebet Jesu Christi für seine Jünger",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Die Gefangennahme Jesu",
+      "start": {
+        "chapter": 18,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Jesus vor Hannas und Kajaphas. Die Verleugnung des Petrus",
+      "start": {
+        "chapter": 18,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Jesus vor Pilatus",
+      "start": {
+        "chapter": 18,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Die Geißelung, Verspottung und Verurteilung Jesu Christi",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Kreuzigung Jesu Christi",
+      "start": {
+        "chapter": 19,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Geschehnisse nach Jesu Tod",
+      "start": {
+        "chapter": 19,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Die Grablegung Jesu",
+      "start": {
+        "chapter": 19,
+        "verse": 38
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Die Auferstehung Jesu Christi",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Jesus erscheint der Maria Magdalena",
+      "start": {
+        "chapter": 20,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Jesus erscheint den Jüngern",
+      "start": {
+        "chapter": 20,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die Zielsetzung des Johannes-Evangeliums",
+      "start": {
+        "chapter": 20,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Jesus offenbart sich am See von Tiberias",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der Herr redet mit seinem Diener Petrus",
+      "start": {
+        "chapter": 21,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Schlusswort",
+      "start": {
+        "chapter": 21,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 25
+      }
+    }
+  ],
+  "selected": false
+}

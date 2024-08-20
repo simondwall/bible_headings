@@ -1,0 +1,1247 @@
+{
+  "name": "2. Mose",
+  "chapters": [
+    22,
+    25,
+    22,
+    31,
+    23,
+    30,
+    29,
+    28,
+    35,
+    29,
+    10,
+    51,
+    22,
+    31,
+    27,
+    36,
+    16,
+    27,
+    25,
+    26,
+    37,
+    30,
+    33,
+    18,
+    40,
+    37,
+    21,
+    43,
+    46,
+    38,
+    18,
+    35,
+    23,
+    35,
+    35,
+    38,
+    29,
+    31,
+    43,
+    38
+  ],
+  "headings": [
+    {
+      "heading": "Der Sklavendienst Israels in Ägypten",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Moses Geburt und Bewahrung",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Moses Flucht nach Midian",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der brennende Busch. Moses Berufung",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Gottes Selbstoffenbarung und Auftrag an Mose",
+      "start": {
+        "chapter": 3,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Moses Widerstreben gegen Gottes Auftrag",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Mose kehrt nach Ägypten zurück",
+      "start": {
+        "chapter": 4,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Mose und Aaron vor dem Pharao",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Gott ermutigt Mose",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Das Geschlechtsregister Moses und Aarons",
+      "start": {
+        "chapter": 6,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Gott sendet Mose und Aaron zum Pharao",
+      "start": {
+        "chapter": 6,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die erste Plage: Wasser wird zu Blut",
+      "start": {
+        "chapter": 7,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die zweite Plage: Frösche",
+      "start": {
+        "chapter": 7,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die dritte Plage: Mücken",
+      "start": {
+        "chapter": 8,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die vierte Plage: Hundsfliegen",
+      "start": {
+        "chapter": 8,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die fünfte Plage: Viehseuche",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die sechste Plage: Geschwüre",
+      "start": {
+        "chapter": 9,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die siebte Plage: Hagel",
+      "start": {
+        "chapter": 9,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die achte Plage: Heuschrecken",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die neunte Plage: Finsternis",
+      "start": {
+        "chapter": 10,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Ankündigung der letzten Plage",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Passah — Die Verschonung Israels vor dem Gericht",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Einsetzung des Passahfestes",
+      "start": {
+        "chapter": 12,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die zehnte Plage: Der Tod aller Erstgeburt in Ägypten. Der Auszug Israels",
+      "start": {
+        "chapter": 12,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Verordnungen zum Passah",
+      "start": {
+        "chapter": 12,
+        "verse": 43
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "Heiligung der Erstgeburt Israels. Das Fest der ungesäuerten Brote",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Israels Zug zum Schilfmeer",
+      "start": {
+        "chapter": 13,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Israel vor dem Schilfmeer — der Pharao rückt heran",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Israel zieht durchs Schilfmeer — die Ägypter kommen darin um",
+      "start": {
+        "chapter": 14,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Der Lobgesang Moses und Israels",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Israel in Mara und Elim",
+      "start": {
+        "chapter": 15,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Das Murren des Volkes",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Manna — die wunderbare Nahrung des Volkes Gottes",
+      "start": {
+        "chapter": 16,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Streit und Murren in Massa und Meriba. Wasser aus dem Felsen",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Israels Kampf gegen Amalek",
+      "start": {
+        "chapter": 17,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Jethros Besuch bei Mose",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Einsetzung von Vorstehern über das Volk",
+      "start": {
+        "chapter": 18,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Berufung und Vorbereitung des Volkes",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Erscheinung des Herrn auf dem Sinai",
+      "start": {
+        "chapter": 19,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Gott gibt die zehn Gebote",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Gott gibt Rechtsbestimmungen für das Leben des Volkes",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Das Recht des hebräischen Sklaven",
+      "start": {
+        "chapter": 21,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Bestimmungen über Totschlag und Körperverletzung",
+      "start": {
+        "chapter": 21,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Schaden und Schadenersatz",
+      "start": {
+        "chapter": 21,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Sittengesetze",
+      "start": {
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Zauberei, Götzendienst und Gräuel werden mit dem Tod bestraft",
+      "start": {
+        "chapter": 22,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Schutz der Schwachen",
+      "start": {
+        "chapter": 22,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Gebote der Gottesfurcht",
+      "start": {
+        "chapter": 22,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Gerechtigkeit und Nächstenliebe",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Sabbatjahr und Sabbat",
+      "start": {
+        "chapter": 23,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die drei großen Jahresfeste",
+      "start": {
+        "chapter": 23,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Mahnungen für die Besitznahme von Kanaan. Warnung vor dem Götzendienst",
+      "start": {
+        "chapter": 23,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Der Bundesschluss am Sinai",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die freiwilligen Gaben für die Stiftshütte",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Bundeslade",
+      "start": {
+        "chapter": 25,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Schaubrottisch",
+      "start": {
+        "chapter": 25,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Der goldene Leuchter",
+      "start": {
+        "chapter": 25,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Die Zeltbahnen für die Stiftshütte",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Bretter für die Wände der Stiftshütte",
+      "start": {
+        "chapter": 26,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Vorhänge der Stiftshütte",
+      "start": {
+        "chapter": 26,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Der Brandopferaltar",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Der Vorhof und der Eingang",
+      "start": {
+        "chapter": 27,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Das Öl für den Leuchter",
+      "start": {
+        "chapter": 27,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Kleidung des Hohen Priesters",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Das Ephod",
+      "start": {
+        "chapter": 28,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Brustschild",
+      "start": {
+        "chapter": 28,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Das Obergewand zum Ephod",
+      "start": {
+        "chapter": 28,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Das goldene Stirnblatt",
+      "start": {
+        "chapter": 28,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Kleidung der Priester",
+      "start": {
+        "chapter": 28,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Die Einsetzung der Priester",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Das ständige Brandopfer",
+      "start": {
+        "chapter": 29,
+        "verse": 38
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Der Räucheraltar",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Lösegeld für die Israeliten",
+      "start": {
+        "chapter": 30,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Das eherne Becken",
+      "start": {
+        "chapter": 30,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das heilige Salböl und das Räucherwerk",
+      "start": {
+        "chapter": 30,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Berufung der Werkmeister",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Erinnerung an das Sabbatgebot. Die Tafeln des Zeugnisses",
+      "start": {
+        "chapter": 31,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Volk macht sich ein goldenes Kalb",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Gottes Zorn und Moses Fürbitte",
+      "start": {
+        "chapter": 32,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Mose zerbricht die Bundestafeln",
+      "start": {
+        "chapter": 32,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die Leviten üben Gericht an den Übertretern",
+      "start": {
+        "chapter": 32,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Mose verwendet sich vor Gott für das Volk",
+      "start": {
+        "chapter": 32,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Das Volk bereut sein Tun",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das Zelt der Zusammenkunft außerhalb des Lagers",
+      "start": {
+        "chapter": 33,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Mose schaut die Herrlichkeit des Herrn",
+      "start": {
+        "chapter": 33,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Neue Gesetzestafeln. Offenbarung Gottes auf dem Sinai",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Erneuerung des Bundes vom Sinai. Wichtige Bundesverpflichtungen",
+      "start": {
+        "chapter": 34,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Moses Angesicht strahlt",
+      "start": {
+        "chapter": 34,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Freiwillige Gaben für das Heiligtum",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die von Gottes Geist begabten Werkleute",
+      "start": {
+        "chapter": 35,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Der Bau der Stiftshütte beginnt",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Zeltbahnen für die Stiftshütte",
+      "start": {
+        "chapter": 36,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Bretter für die Wände der Stiftshütte",
+      "start": {
+        "chapter": 36,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Die Vorhänge der Stiftshütte",
+      "start": {
+        "chapter": 36,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Bundeslade",
+      "start": {
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Der Schaubrottisch",
+      "start": {
+        "chapter": 37,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der goldene Leuchter",
+      "start": {
+        "chapter": 37,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Räucheraltar",
+      "start": {
+        "chapter": 37,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Der Brandopferaltar und das eherne Becken",
+      "start": {
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Der Vorhof mit seinem Eingang",
+      "start": {
+        "chapter": 38,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Kostenberechnung für die Stiftshütte",
+      "start": {
+        "chapter": 38,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Anfertigung der priesterlichen Kleider",
+      "start": {
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Das Ephod",
+      "start": {
+        "chapter": 39,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Brustschild",
+      "start": {
+        "chapter": 39,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das Obergewand zum Ephod",
+      "start": {
+        "chapter": 39,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Kleidung der Priester. Das goldene Stirnblatt",
+      "start": {
+        "chapter": 39,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Übergabe der gefertigten Gegenstände",
+      "start": {
+        "chapter": 39,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Die Aufrichtung und Einweihung der Stiftshütte",
+      "start": {
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit des Herrn erfüllt die Stiftshütte",
+      "start": {
+        "chapter": 40,
+        "verse": 34
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 38
+      }
+    }
+  ],
+  "selected": false
+}

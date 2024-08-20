@@ -1,0 +1,145 @@
+{
+  "name": "1. Thessalonicherbrief",
+  "chapters": [
+    10,
+    20,
+    13,
+    18,
+    28
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Der Glaube der Thessalonicher und seine Ausstrahlung",
+      "start": {
+        "chapter": 1,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Dienst des Apostels unter den Thessalonichern",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Der echte Glaube und die Standhaftigkeitangesichts von Verfolgungen",
+      "start": {
+        "chapter": 2,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Sehnsucht des Paulus nach den Thessalonichern",
+      "start": {
+        "chapter": 2,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die fürsorgliche Liebe des Paulusfür die angefochtenen Gläubigen",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Ermahnung zu einem Leben in Heiligung",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Ermahnung zur Bruderliebe und zur ehrlichen Arbeit",
+      "start": {
+        "chapter": 4,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Auferstehung der Toten und die Wiederkunft des Herrn",
+      "start": {
+        "chapter": 4,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Aufforderung zu Wachsamkeit und Nüchternheit",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ermahnungen für das Gemeindeleben",
+      "start": {
+        "chapter": 5,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Segenswünsche und Grüße",
+      "start": {
+        "chapter": 5,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 28
+      }
+    }
+  ],
+  "selected": false
+}

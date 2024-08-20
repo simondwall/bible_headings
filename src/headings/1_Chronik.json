@@ -1,0 +1,587 @@
+{
+  "name": "1. Chronik",
+  "chapters": [
+    54,
+    55,
+    24,
+    43,
+    41,
+    66,
+    40,
+    40,
+    44,
+    14,
+    47,
+    41,
+    14,
+    17,
+    29,
+    43,
+    27,
+    17,
+    19,
+    8,
+    30,
+    19,
+    32,
+    31,
+    31,
+    32,
+    34,
+    21,
+    30
+  ],
+  "headings": [
+    {
+      "heading": "Von Adam bis zu Abraham",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die Nachkommen Abrahams",
+      "start": {
+        "chapter": 1,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Esau und die Edomiter",
+      "start": {
+        "chapter": 1,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 54
+      }
+    },
+    {
+      "heading": "Die zwölf Söhne Israels",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Die Söhne Judas und ihre Nachkommen",
+      "start": {
+        "chapter": 2,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 55
+      }
+    },
+    {
+      "heading": "Die Nachkommen Davids",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Könige von Juda",
+      "start": {
+        "chapter": 3,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die königliche Linie nach der Wegführung",
+      "start": {
+        "chapter": 3,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Weitere Nachkommen Judas",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Nachkommen Simeons",
+      "start": {
+        "chapter": 4,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Die Nachkommen von Ruben, Gad und Manasse",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Der Stamm Levi",
+      "start": {
+        "chapter": 5,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die von David bestimmten Sängerfamilien",
+      "start": {
+        "chapter": 6,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Levitenstädte",
+      "start": {
+        "chapter": 6,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 66
+      }
+    },
+    {
+      "heading": "Die Stämme Issaschar, Benjamin und Naphtali",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Stämme Manasse, Ephraim und Asser",
+      "start": {
+        "chapter": 7,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Die Nachkommen Benjamins mit Wohnsitz in Jerusalem",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Erste Einwohner Jerusalems nach der Rückkehr der Juden aus dem babylonischen Exil",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Diener im Tempel des Herrn",
+      "start": {
+        "chapter": 9,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Geschlechtsregister von Saul und Jonathan",
+      "start": {
+        "chapter": 9,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Tod des Königs Saul",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "David wird König über Israel und erobert Jerusalem",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Helden Davids",
+      "start": {
+        "chapter": 11,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Krieger, die unter Sauls Herrschaft zu David stießen",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Das Heer der zwölf Stämme krönt David in Hebron",
+      "start": {
+        "chapter": 12,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Die gescheiterte Überführung der Bundeslade. Ussas Tod.",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Davids Königtum wird bestätigt",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Bundeslade wird nach Jerusalem gebracht",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Davids Lob- und Danklied",
+      "start": {
+        "chapter": 16,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Davids Wunsch, dem Herrn einen Tempel zu bauen. Gottes Verheißung für David und sein Königtum",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Davids Dankgebet",
+      "start": {
+        "chapter": 17,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Siege des Königs David",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Krieg gegen die Ammoniter und deren Verbündete",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Eroberung Rabbas. Sieg über die Philister",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Davids Volkszählung und das Gericht Gottes",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Davids Vorbereitungen für den Tempelbau",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Leviten und ihre Dienstordnung",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die 24 Priesterklassen",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Häupter der Levitenklassen",
+      "start": {
+        "chapter": 24,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Sänger werden in 24 Klassen eingeteilt",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Torhüter des Tempels und die Verwalter des Tempelschatzes",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Verwalter der Schätze im Haus Gottes",
+      "start": {
+        "chapter": 26,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "David bestimmt Leviten als Vorsteher und Richter",
+      "start": {
+        "chapter": 26,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die zwölf Heerführer Davids",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Oberhäupter der zwölf Stämme Israels",
+      "start": {
+        "chapter": 27,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die Gutsverwalter und Ratgeber Davids",
+      "start": {
+        "chapter": 27,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "David gibt den Auftrag zum Tempelbau an Salomo und die Obersten Israels",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Freiwillige Gaben für den Tempelbau",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Davids Dankgebet",
+      "start": {
+        "chapter": 29,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Salomo wird als König eingesetzt. Davids Lebensende",
+      "start": {
+        "chapter": 29,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 30
+      }
+    }
+  ],
+  "selected": false
+}

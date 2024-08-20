@@ -1,0 +1,646 @@
+{
+  "name": "1. Könige",
+  "chapters": [
+    53,
+    46,
+    28,
+    20,
+    32,
+    38,
+    51,
+    66,
+    28,
+    29,
+    43,
+    33,
+    34,
+    31,
+    34,
+    34,
+    24,
+    46,
+    21,
+    43,
+    29,
+    54
+  ],
+  "headings": [
+    {
+      "heading": "Davids Altersschwäche. Adonija greift nach der Herrschaft",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Bathseba und Nathan beim König",
+      "start": {
+        "chapter": 1,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Salomo wird zum König gesalbt",
+      "start": {
+        "chapter": 1,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 53
+      }
+    },
+    {
+      "heading": "Davids letzte Anweisungen und sein Tod",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Adonijas Intrige und Ende",
+      "start": {
+        "chapter": 2,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Salomos Vergeltung für die Gegner Davids",
+      "start": {
+        "chapter": 2,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Der Herr erscheint Salomo. Salomos Gebet um Weisheit",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Salomos weises Urteil",
+      "start": {
+        "chapter": 3,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Salomos oberste Beamte",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Salomos Ansehen und Hofhaltung",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Salomos Weisheit und Ruhm",
+      "start": {
+        "chapter": 5,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Vorbereitungen zum Bau des Tempels",
+      "start": {
+        "chapter": 5,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Der Bau des Tempels",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Salomos eigener Palast",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Ausstattung des Tempels und seine Geräte",
+      "start": {
+        "chapter": 7,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "Die Bundeslade wird in den Tempel gebracht",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Rede Salomos vor dem Volk",
+      "start": {
+        "chapter": 8,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das Gebet Salomos",
+      "start": {
+        "chapter": 8,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 61
+      }
+    },
+    {
+      "heading": "Die Opfer zur Einweihung des Tempels",
+      "start": {
+        "chapter": 8,
+        "verse": 62
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 66
+      }
+    },
+    {
+      "heading": "Der Herr erscheint Salomo zum zweiten Mal",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Salomos Unternehmungen",
+      "start": {
+        "chapter": 9,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die Königin von Saba besucht Salomo",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Salomos Glanz und Reichtum",
+      "start": {
+        "chapter": 10,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Salomos heidnische Frauen und sein Götzendienst. Gottes Gerichtsankündigung",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Herr erweckt Salomo Widersacher",
+      "start": {
+        "chapter": 11,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Jerobeams Auflehnung gegen Salomo. Salomos Tod",
+      "start": {
+        "chapter": 11,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Rehabeam wird König über Juda, Jerobeam über Israel",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Jerobeam führt einen falschen Gottesdienst ein und macht dem Volk goldene Kälber",
+      "start": {
+        "chapter": 12,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Gerichtsbotschaft des Propheten aus Juda",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Ungehorsam des Propheten wird bestraft",
+      "start": {
+        "chapter": 13,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Die Frau Jerobeams und der Prophet Achija",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Abgötterei Judas unter Rehabeam und Gottes Strafgericht",
+      "start": {
+        "chapter": 14,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "König Abija von Juda",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "König Asa von Juda",
+      "start": {
+        "chapter": 15,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "König Nadab von Israel",
+      "start": {
+        "chapter": 15,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "König Baesa von Israel",
+      "start": {
+        "chapter": 15,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "König Ela von Israel",
+      "start": {
+        "chapter": 16,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "König Simri von Israel",
+      "start": {
+        "chapter": 16,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "König Omri von Israel",
+      "start": {
+        "chapter": 16,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "König Ahab von Israel",
+      "start": {
+        "chapter": 16,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Der Prophet Elia am Bach Krit und bei der Witwe von Zarpat",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Elia und Obadja",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Elia und die Baalspropheten auf dem Berg Karmel",
+      "start": {
+        "chapter": 18,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Elia flieht vor Isebel",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Der Herr begegnet Elia am Berg Horeb",
+      "start": {
+        "chapter": 19,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Elisa wird zum Nachfolger Elias berufen",
+      "start": {
+        "chapter": 19,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Belagerung von Samaria",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Gott gibt Sieg über den Aramäer Benhadad",
+      "start": {
+        "chapter": 20,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Ahab verschont Benhadad und wird von Gott zurechtgewiesen",
+      "start": {
+        "chapter": 20,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Ahab raubt den Weinberg Nabots",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Gottes Gerichtsurteil über Ahab und Isebel. Ahabs Reue",
+      "start": {
+        "chapter": 21,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Ahab und Josaphat im Krieg mit den Aramäern. Der Prophet Micha und die falschen Propheten",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Micha weissagt den Tod Ahabs",
+      "start": {
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Ahabs Niederlage und Tod",
+      "start": {
+        "chapter": 22,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "König Josaphat von Juda",
+      "start": {
+        "chapter": 22,
+        "verse": 41
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "König Ahasja von Israel",
+      "start": {
+        "chapter": 22,
+        "verse": 52
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 54
+      }
+    }
+  ],
+  "selected": false
+}

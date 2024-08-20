@@ -1,0 +1,77 @@
+{
+  "name": "Habakuk",
+  "chapters": [
+    17,
+    20,
+    19
+  ],
+  "headings": [
+    {
+      "heading": "Die Klage des Propheten vor dem Herrn",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Antwort des Herrn: Ankündigung des Gerichts durch die Chaldäer",
+      "start": {
+        "chapter": 1,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Habakuk bittet den Herrn um Begrenzung des Gerichts",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Antwort des Herrn: Der Gerechte wird durch den Glauben leben",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Chaldäer werden ihrerseits gerichtet",
+      "start": {
+        "chapter": 2,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Das Gebet des Habakuk: Ausblick auf die Erscheinung des Herrn zum Gericht",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 19
+      }
+    }
+  ],
+  "selected": false
+}

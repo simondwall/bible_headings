@@ -1,0 +1,212 @@
+{
+  "name": "Epheserbrief",
+  "chapters": [
+    23,
+    22,
+    21,
+    32,
+    33,
+    24
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Gottes herrliche Gnade und die Segnungen der Gläubigen in Christus",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gebet um die Erkenntnis der Herrlichkeit des Herrn Jesus Christus",
+      "start": {
+        "chapter": 1,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Das neue Leben in Christus — eine Gabe der Gnade Gottes",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Juden und Heiden mit Gott versöhnt und eins gemacht durch das Kreuz des Christus",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Gemeinde als heiliger Tempel Gottes",
+      "start": {
+        "chapter": 2,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Geheimnis des Christus ist geoffenbart — ein Leib aus Juden und Heiden",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Gebet um Erkenntnis der Liebe des Christus",
+      "start": {
+        "chapter": 3,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Einheit des Geistes",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Die Gaben des erhöhten Christus und die Auferbauung des Leibes des Christus",
+      "start": {
+        "chapter": 4,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Abkehr vom sündigen Leben der Heiden — Ablegen des alten Menschen und Anziehen des neuen",
+      "start": {
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Anweisungen für das neue Leben",
+      "start": {
+        "chapter": 4,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Wandel in Liebe und Licht bedeutet, alles Böse zu meiden",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Mann und Frau in Gottes Lebensordnung. Christus und die Gemeinde",
+      "start": {
+        "chapter": 5,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Der Wille Gottes für Kinder und Eltern",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Der Wille Gottes für Knechte und Herren",
+      "start": {
+        "chapter": 6,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Der geistliche Kampf und die Waffenrüstung des Christen",
+      "start": {
+        "chapter": 6,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Schluss des Briefes. Grüße",
+      "start": {
+        "chapter": 6,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 24
+      }
+    }
+  ],
+  "selected": false
+}

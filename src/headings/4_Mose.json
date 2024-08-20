@@ -1,0 +1,825 @@
+{
+  "name": "4. Mose",
+  "chapters": [
+    54,
+    34,
+    51,
+    49,
+    31,
+    27,
+    89,
+    26,
+    23,
+    36,
+    35,
+    16,
+    33,
+    45,
+    41,
+    35,
+    28,
+    32,
+    22,
+    29,
+    35,
+    41,
+    30,
+    25,
+    18,
+    65,
+    23,
+    31,
+    39,
+    17,
+    54,
+    42,
+    56,
+    29,
+    34,
+    13
+  ],
+  "headings": [
+    {
+      "heading": "Zählung der für den Kriegsdienst tauglichen Israeliten",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Der Dienst der Leviten",
+      "start": {
+        "chapter": 1,
+        "verse": 47
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 54
+      }
+    },
+    {
+      "heading": "Die Ordnung des Lagers Israels",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Die Zählung der Leviten. Ihre Aufgaben im Dienst für den Herrn",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Die Auslösung der Erstgeborenen in Israel",
+      "start": {
+        "chapter": 3,
+        "verse": 40
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 51
+      }
+    },
+    {
+      "heading": "Der Dienst der Leviten beim Aufbruch des Lagers. Die Kahatiter",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Gersoniter",
+      "start": {
+        "chapter": 4,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die Merariter",
+      "start": {
+        "chapter": 4,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Die Musterung der dienstfähigen Leviten",
+      "start": {
+        "chapter": 4,
+        "verse": 34
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Entfernung der Unreinen aus dem Lager",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Bußgeld für Veruntreuung",
+      "start": {
+        "chapter": 5,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Gesetz des Eifersuchtsopfers",
+      "start": {
+        "chapter": 5,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Vorschriften für die Nasiräer (Gottgeweihten)",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der priesterliche Segen",
+      "start": {
+        "chapter": 6,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Opfergaben der Stammesfürsten zur Einweihung der Stiftshütte",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 89
+      }
+    },
+    {
+      "heading": "Die Lampen des Leuchters",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Weihe der Leviten",
+      "start": {
+        "chapter": 8,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Passahfeier in der Wüste Sinai",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Wolke des Herrn führt das Volk",
+      "start": {
+        "chapter": 9,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die zwei silbernen Trompeten",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Aufbruch vom Sinai",
+      "start": {
+        "chapter": 10,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Das Murren des Volkes. Die Last Moses",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Gott beruft 70 Älteste",
+      "start": {
+        "chapter": 11,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Wachteln und die Plage bei den »Lustgräbern«",
+      "start": {
+        "chapter": 11,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Mirjam und Aaron lehnen sich gegen Mose auf",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Kundschafter Israels in Kanaan",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Unglaube und Murren des Volkes. Der Zorn Gottes und Moses Fürbitte",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Gottes Gericht über die ungläubige Generation der Israeliten: Tod in der Wüste",
+      "start": {
+        "chapter": 14,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Israel versucht das Gericht Gottes zu umgehen und wird geschlagen",
+      "start": {
+        "chapter": 14,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 45
+      }
+    },
+    {
+      "heading": "Bestimmungen für Opfer im Land Kanaan",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Opfer für versehentliche Übertretungen",
+      "start": {
+        "chapter": 15,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Bestrafung des Sabbatschänders",
+      "start": {
+        "chapter": 15,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Gedenkquasten an den Kleidern",
+      "start": {
+        "chapter": 15,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Die Empörung Korahs",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Gericht des Herrn über die Aufrührer",
+      "start": {
+        "chapter": 16,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Gericht über das murrende Volk",
+      "start": {
+        "chapter": 17,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Aarons sprossender Stab",
+      "start": {
+        "chapter": 17,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Der Dienst der Leviten",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Opfer- und Erstlingsanteile der Priester",
+      "start": {
+        "chapter": 18,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Vom Zehnten",
+      "start": {
+        "chapter": 18,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die junge rote Kuh. Das Reinigungswasser",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Im vierzigsten Jahr der Wüstenwanderung: Mirjams Tod und Moses Versagen",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Edomiter verweigern den Durchzug Israels",
+      "start": {
+        "chapter": 20,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Aarons Tod",
+      "start": {
+        "chapter": 20,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Sieg über Arad",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Die eherne Schlange",
+      "start": {
+        "chapter": 21,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Israels Zug nach Moab",
+      "start": {
+        "chapter": 21,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Sieg über die Könige Sihon und Og",
+      "start": {
+        "chapter": 21,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Der Moabiterkönig Balak wirbt Bileam an",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Bileam reist zu Balak. Gottes Zorn über Bileam",
+      "start": {
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Bileams Segen über Israel — erster und zweiter Spruch",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die weiteren Weissagungen Bileams",
+      "start": {
+        "chapter": 23,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Bileams Weissagung",
+      "start": {
+        "chapter": 24,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Das Volk Israel betreibt Götzendienst. Pinehas eifert für Gott",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Neue Volkszählung in der Ebene von Moab",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 65
+      }
+    },
+    {
+      "heading": "Das Erbrecht der Töchter",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Josua wird zum Nachfolger Moses bestimmt",
+      "start": {
+        "chapter": 27,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Opferbestimmungen für die verschiedenen Festzeiten",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Opfer für das Passah und das Fest der Erstlinge",
+      "start": {
+        "chapter": 28,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Opfer für den Versöhnungstag und das Laubhüttenfest",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Das Gesetz über Gelübde",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Israels Sieg über die Midianiter",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Aufteilung der Kriegsbeute",
+      "start": {
+        "chapter": 31,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 54
+      }
+    },
+    {
+      "heading": "Die Stämme jenseits des Jordans",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Die Wanderzüge Israels bis zur Ebene Moabs",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Weisungen zur Besitznahme des Landes",
+      "start": {
+        "chapter": 33,
+        "verse": 50
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 56
+      }
+    },
+    {
+      "heading": "Über die Grenzen und die Austeilung des Landes",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die 48 Levitenstädte",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die sechs Zufluchtsstädte",
+      "start": {
+        "chapter": 35,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Blutrache",
+      "start": {
+        "chapter": 35,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Erbtöchter sollen nicht außerhalb ihres Stammes heiraten",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 13
+      }
+    }
+  ],
+  "selected": false
+}

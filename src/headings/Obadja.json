@@ -1,0 +1,42 @@
+{
+  "name": "Obadja",
+  "chapters": [
+    21
+  ],
+  "headings": [
+    {
+      "heading": "Gottes Gerichtüber das hochmütige Edom",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Edoms Schuld: die Grausamkeit gegen sein Brudervolk Israel",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Am Ende der Zeit wird Israel Edom überwinden",
+      "start": {
+        "chapter": 1,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 21
+      }
+    }
+  ],
+  "selected": false
+}

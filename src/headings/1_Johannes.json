@@ -1,0 +1,145 @@
+{
+  "name": "1. Johannes",
+  "chapters": [
+    10,
+    29,
+    24,
+    21,
+    21
+  ],
+  "headings": [
+    {
+      "heading": "Das Wort des Lebens",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Wandel im Licht und Sündenvergebung",
+      "start": {
+        "chapter": 1,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Wahre Gotteserkenntnis zeigt sich im Halten der Gebote Gottes und in der Bruderliebe",
+      "start": {
+        "chapter": 2,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Warnung vor der Liebe zur Welt",
+      "start": {
+        "chapter": 2,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Warnung vor der antichristlichen Verführung",
+      "start": {
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die wahren Kinder Gottes und ihre Kennzeichen",
+      "start": {
+        "chapter": 2,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Das Gebot der Liebe",
+      "start": {
+        "chapter": 3,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Notwendigkeit, die Geister zu prüfen",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Gottes Liebe zu uns und die Liebe zum Bruder",
+      "start": {
+        "chapter": 4,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der wahre Glaube und seine Früchte",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Das Zeugnis Gottes über seinen Sohn",
+      "start": {
+        "chapter": 5,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Das Gebet der Kinder Gottes und ihre Haltung zur Sünde",
+      "start": {
+        "chapter": 5,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 21
+      }
+    }
+  ],
+  "selected": false
+}

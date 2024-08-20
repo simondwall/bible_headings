@@ -1,0 +1,56 @@
+{
+  "name": "Jona",
+  "chapters": [
+    16,
+    11,
+    10,
+    11
+  ],
+  "headings": [
+    {
+      "heading": "Jonas Ungehorsam und Flucht vor Gott",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Jona im Bauch eines großen Fisches – sein Gebet und seine Rettung",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Jonas Verkündigung in Ninive und die Buße der Stadt",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Jonas Unmut und die Zurechtweisung des Herrn",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 11
+      }
+    }
+  ],
+  "selected": false
+}

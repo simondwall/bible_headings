@@ -1,0 +1,1010 @@
+{
+  "name": "5. Mose",
+  "chapters": [
+    46,
+    37,
+    29,
+    49,
+    33,
+    25,
+    26,
+    20,
+    29,
+    22,
+    32,
+    31,
+    19,
+    29,
+    23,
+    22,
+    20,
+    22,
+    21,
+    20,
+    23,
+    29,
+    26,
+    22,
+    19,
+    19,
+    26,
+    69,
+    28,
+    20,
+    30,
+    52,
+    29,
+    12
+  ],
+  "headings": [
+    {
+      "heading": "Mose erinnert das Volk an seinen zurückgelegten Weg",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Auflehnung des Volkes angesichts des verheißenen Landes",
+      "start": {
+        "chapter": 1,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Wanderung und Auseinandersetzungen in der Wüste",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die Eroberung des Landes von Sihon, dem König der Amoriter",
+      "start": {
+        "chapter": 2,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Die Niederlage von Og, dem König von Baschan",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Verteilung des Ostjordanlandes an Ruben, Gad und den halben Stamm Manasse",
+      "start": {
+        "chapter": 3,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Gott verwehrt Mose den Eintritt ins verheißene Land",
+      "start": {
+        "chapter": 3,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Israel soll das Gesetz Gottes bewahren und tun",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Warnung vor dem Götzendienst",
+      "start": {
+        "chapter": 4,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Der Herr ist der alleinige Gott",
+      "start": {
+        "chapter": 4,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Drei Zufluchtsstädte",
+      "start": {
+        "chapter": 4,
+        "verse": 41
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Einleitung zur Verkündigung des Gesetzes vor dem Einzug in Kanaan",
+      "start": {
+        "chapter": 4,
+        "verse": 44
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Die Wiederholung der zehn Gebote",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Mose als Mittler zwischen Gott und dem Volk",
+      "start": {
+        "chapter": 5,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Gottesfurcht und Gehorsam — die Voraussetzungen des Segens",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "»Höre, Israel«: Das Gebot, den Herrn zu lieben und sein Wort zu bewahren",
+      "start": {
+        "chapter": 6,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Warnung vor Untreue und Götzendienst im Land Kanaan",
+      "start": {
+        "chapter": 6,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Das Zeugnis der Erretteten vor ihren Kindern",
+      "start": {
+        "chapter": 6,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der Herr befiehlt die Ausrottung der Kanaaniter und ihres Götzendienstes",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Israel — das heilige Volk des Herrn",
+      "start": {
+        "chapter": 7,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ermutigung und Segensverheißung für die Einnahme des Landes",
+      "start": {
+        "chapter": 7,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Ermahnung zum Gehorsam und Erinnerung an Gottes Erziehungswege",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Ermahnung zur Dankbarkeit. Warnung vor Hochmut und Abkehr von Gott",
+      "start": {
+        "chapter": 8,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Mose warnt das Volk vor Selbstgerechtigkeit — Erinnerung an Israels Versagen und Moses Mittlerdienst",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Die neuen Gesetzestafeln",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Aufforderung zu Gottesfurcht und Gehorsam",
+      "start": {
+        "chapter": 10,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Verheißungen und Warnungen",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Bewahrung von Gottes Wort ist die Voraussetzung zum Sieg",
+      "start": {
+        "chapter": 11,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Gott legt dem Volk Segen und Fluch vor",
+      "start": {
+        "chapter": 11,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Ausrottung des Götzendienstes im Land. Der künftige Ort des Heiligtums und Gottesdienstes",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Warnung vor falschen Propheten",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Warnung vor Verführung zum Götzendienst",
+      "start": {
+        "chapter": 13,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Verbot heidnischer Trauerbräuche. Reine und unreine Tiere",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Der Zehnte",
+      "start": {
+        "chapter": 14,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Das Erlassjahr",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Über die Freilassung hebräischer Sklaven",
+      "start": {
+        "chapter": 15,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Erstgeburt der Tiere",
+      "start": {
+        "chapter": 15,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Gebote zum Passahfest",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Fest der Wochen",
+      "start": {
+        "chapter": 16,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Das Laubhüttenfest",
+      "start": {
+        "chapter": 16,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Einsetzung von Richtern. Bewahrung des Rechts",
+      "start": {
+        "chapter": 16,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Verbot des heidnischen Götzendienstes",
+      "start": {
+        "chapter": 16,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Schwierige Rechtsfälle",
+      "start": {
+        "chapter": 17,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Das Königsgesetz",
+      "start": {
+        "chapter": 17,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Rechte der Priester und Leviten",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Verbot von Wahrsagung und Zauberei",
+      "start": {
+        "chapter": 18,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der verheißene Prophet und die falschen Propheten",
+      "start": {
+        "chapter": 18,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Zufluchtsstädte",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Grenzverrückung. Falsche Zeugen. Bestrafung des Bösen",
+      "start": {
+        "chapter": 19,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Kriegsgesetze",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Sühnung von Blutvergießen",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Ehen mit kriegsgefangenen Frauen",
+      "start": {
+        "chapter": 21,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Recht des Erstgeborenen",
+      "start": {
+        "chapter": 21,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Widerspenstige Kinder",
+      "start": {
+        "chapter": 21,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Wer am Holz hängt, ist verflucht",
+      "start": {
+        "chapter": 21,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Rücksicht auf den Nächsten",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Gebote gegen ungöttliche Vermischung",
+      "start": {
+        "chapter": 22,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Sittlichkeitsgesetze. Rechtsschutz für eine verleumdete Frau",
+      "start": {
+        "chapter": 22,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Ausschluss von der Gemeinde des Herrn",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Reinhaltung des Heerlagers",
+      "start": {
+        "chapter": 23,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Verschiedene Verordnungen",
+      "start": {
+        "chapter": 23,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Ehescheidung",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Verordnungen für das Leben des Volkes",
+      "start": {
+        "chapter": 24,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Recht der Fremden, Witwen und Waisen",
+      "start": {
+        "chapter": 24,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Streitigkeiten",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Schwagerpflicht",
+      "start": {
+        "chapter": 25,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Volles Gewicht und rechtes Maß",
+      "start": {
+        "chapter": 25,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Vertilgung Amaleks",
+      "start": {
+        "chapter": 25,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Darbringung der Erstlingsfrüchte",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Zehnten des dritten Jahres",
+      "start": {
+        "chapter": 26,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Gebot über die Gedenksteine mit den Worten des Gesetzes",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Segen und Fluch sollen auf den Bergen Garizim und Ebal verkündet werden",
+      "start": {
+        "chapter": 27,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Segnungen für Gehorsam",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Fluch für Ungehorsam",
+      "start": {
+        "chapter": 28,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Bedrückung durch Heidenvölker",
+      "start": {
+        "chapter": 28,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 48
+      }
+    },
+    {
+      "heading": "Ankündigung der Vertreibung und Gefangenschaft",
+      "start": {
+        "chapter": 28,
+        "verse": 49
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 69
+      }
+    },
+    {
+      "heading": "Der Bund des Herrn mit Israel im Land Moab",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Folgen einer Abwendung von Gott",
+      "start": {
+        "chapter": 29,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Verheißung der Wiederherstellung Israels",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Wahl zwischen Leben und Tod, Segen und Fluch",
+      "start": {
+        "chapter": 30,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Josua wird Moses Nachfolger",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Gesetzeslesung alle sieben Jahre",
+      "start": {
+        "chapter": 31,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Herr sagt den Abfall Israels voraus",
+      "start": {
+        "chapter": 31,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Das Lied Moses",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Das Wort Gottes ist Leben",
+      "start": {
+        "chapter": 32,
+        "verse": 44
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Mose wird aufgefordert, den Berg Nebo zu besteigen",
+      "start": {
+        "chapter": 32,
+        "verse": 48
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 52
+      }
+    },
+    {
+      "heading": "Moses prophetischer Segen über die zwölf Stämme",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Moses Tod",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 12
+      }
+    }
+  ],
+  "selected": false
+}

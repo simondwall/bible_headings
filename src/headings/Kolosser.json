@@ -1,0 +1,144 @@
+{
+  "name": "Kolosserbrief",
+  "chapters": [
+    29,
+    23,
+    25,
+    18
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Das Gebet des Apostels für die Gemeinde.Das Evangelium und die Gnade Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Herrlichkeit und das Erlösungswerk des Sohnes Gottes.",
+      "start": {
+        "chapter": 1,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Der Dienst des Apostels zur Verkündigung des Wortes Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Warnung vor Menschenlehren und Philosophie. Der Wandel in Christus",
+      "start": {
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Fülle Gottes und das Heil in Christus",
+      "start": {
+        "chapter": 2,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Gefahr von falschen Lehrern, die von Christus ablenken",
+      "start": {
+        "chapter": 2,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Stellung des Gläubigen in Christus, sein Trachten und seine Hoffnung",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Ermahnung zu einem heiligen Wandel und zu gegenseitiger Liebe",
+      "start": {
+        "chapter": 3,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Gottes Ordnung für Familie und Arbeit",
+      "start": {
+        "chapter": 3,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Ermahnung zum Gebet und zum weisen Verhalten",
+      "start": {
+        "chapter": 4,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Abschließende Grüße",
+      "start": {
+        "chapter": 4,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 18
+      }
+    }
+  ],
+  "selected": false
+}

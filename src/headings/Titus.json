@@ -1,0 +1,88 @@
+{
+  "name": "Titusbrief",
+  "chapters": [
+    16,
+    15,
+    15
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Voraussetzungen für den Ältestendienst",
+      "start": {
+        "chapter": 1,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Der notwendige Kampf gegen Irrlehrer",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Anweisungen zu einem Gott wohlgefälligen Lebenswandel",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die Gnade Gottes in Jesus Christus und der Lebenswandel der Erlösten",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Abwehr von sektiererischen Menschen und unnützen Streitfragen",
+      "start": {
+        "chapter": 3,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Letzte Empfehlungen und Grüße",
+      "start": {
+        "chapter": 3,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    }
+  ],
+  "selected": false
+}

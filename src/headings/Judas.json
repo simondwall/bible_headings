@@ -1,0 +1,64 @@
+{
+  "name": "Judas",
+  "chapters": [
+    25
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Ermahnung, für den überlieferten Glauben zu kämpfen",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Das Eindringen von Verführern und das Gericht über sie",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das frevlerische Verhalten der Verführer",
+      "start": {
+        "chapter": 1,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Ermunterung der treuen Gläubigen und Lobpreis Gottes",
+      "start": {
+        "chapter": 1,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 25
+      }
+    }
+  ],
+  "selected": false
+}

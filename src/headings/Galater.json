@@ -1,0 +1,179 @@
+{
+  "name": "Galaterbrief",
+  "chapters": [
+    24,
+    21,
+    29,
+    31,
+    26,
+    18
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Grüße",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Warnung vor einem anderen Evangelium",
+      "start": {
+        "chapter": 1,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die göttliche Berufung des Apostels Paulus",
+      "start": {
+        "chapter": 1,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die Anerkennung des Aposteldienstes von Paulus durch Petrus, Jakobus und Johannes",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Paulus widersteht Petrus in Antiochia",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Durch Christus gerechtfertigt – mit Christus gekreuzigt",
+      "start": {
+        "chapter": 2,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Gerechtigkeit wird durch Glauben erlangt und nicht durchs Gesetz",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Heil ist aufgrund der Verheißung gegeben, nicht aufgrund des Gesetzes",
+      "start": {
+        "chapter": 3,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Knechtschaft des Gesetzes und die Sohnschaft in Christus",
+      "start": {
+        "chapter": 3,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Warnender Zuspruch des Apostels",
+      "start": {
+        "chapter": 4,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Kinder der Magdund die Kinder der Freien",
+      "start": {
+        "chapter": 4,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Freiheit in Christus und die Verführung der judaistischen Irrlehrer",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Ermahnung zum Wandel im Geist",
+      "start": {
+        "chapter": 5,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Geistlicher Wandel im Gemeindeleben",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Eigenhändiger Briefschluss. Das Kreuz Jesu Christi und die neue Schöpfung",
+      "start": {
+        "chapter": 6,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 18
+      }
+    }
+  ],
+  "selected": false
+}

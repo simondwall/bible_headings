@@ -1,0 +1,1037 @@
+{
+  "name": "Apostelgeschichte",
+  "chapters": [
+    26,
+    47,
+    26,
+    37,
+    42,
+    15,
+    60,
+    40,
+    43,
+    48,
+    30,
+    25,
+    52,
+    28,
+    41,
+    40,
+    34,
+    28,
+    41,
+    38,
+    40,
+    30,
+    35,
+    27,
+    27,
+    32,
+    44,
+    31
+  ],
+  "headings": [
+    {
+      "heading": "Einleitung",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Die Ankündigung des verheißenen Heiligen Geistes",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die Himmelfahrt Jesu Christi",
+      "start": {
+        "chapter": 1,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Apostel in Jerusalem",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Matthias wird durchs Los als zwölfter Apostel bestimmt",
+      "start": {
+        "chapter": 1,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Ausgießung des Heiligen Geistes",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Rede des Apostels Petrus",
+      "start": {
+        "chapter": 2,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Die Entstehung der Gemeinde",
+      "start": {
+        "chapter": 2,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Die Heilung eines Gelähmten",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Petrus verkündigt dem Volk Jesus als den Messias",
+      "start": {
+        "chapter": 3,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Petrus und Johannes vor dem Hohen Rat",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Gebet der Gemeinde",
+      "start": {
+        "chapter": 4,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Gemeinschaft und Freigebigkeit der Gläubigen",
+      "start": {
+        "chapter": 4,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Der Betrug von Ananias und Saphira",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Zeichen und Wunder geschehen durch die Apostel",
+      "start": {
+        "chapter": 5,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Festnahme der Apostel und ihre wunderbare Befreiung",
+      "start": {
+        "chapter": 5,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Erneutes Zeugnis vor dem Hohen Rat",
+      "start": {
+        "chapter": 5,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Gamaliels Rat",
+      "start": {
+        "chapter": 5,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Die Einsetzung der Diakone",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die falsche Anklage gegen Stephanus",
+      "start": {
+        "chapter": 6,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das Zeugnis des Stephanus vor dem Hohen Rat",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 53
+      }
+    },
+    {
+      "heading": "Die Steinigung des Stephanus",
+      "start": {
+        "chapter": 7,
+        "verse": 54
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 60
+      }
+    },
+    {
+      "heading": "Verfolgung in Jerusalem. Zerstreuung der Jünger",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Philippus in Samaria. Simon der Zauberer",
+      "start": {
+        "chapter": 8,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Petrus und Johannes in Samaria",
+      "start": {
+        "chapter": 8,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Philippus verkündigt dem Kämmerer aus Äthiopien das Evangelium",
+      "start": {
+        "chapter": 8,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Die Bekehrung des Saulus",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Saulus in Damaskus und Jerusalem",
+      "start": {
+        "chapter": 9,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Petrus in Lydda",
+      "start": {
+        "chapter": 9,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die Auferweckung der Tabitha",
+      "start": {
+        "chapter": 9,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Das Heil für die Heiden – Gott wirkt an Kornelius",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Heil für die Heiden – Gott redet zu Petrus",
+      "start": {
+        "chapter": 10,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Bekehrung des Kornelius",
+      "start": {
+        "chapter": 10,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 48
+      }
+    },
+    {
+      "heading": "Petrus rechtfertigt sein Verhalten vor jüdischen Gläubigen",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Antiochia, die erste Gemeinde aus Juden und Heiden. Barnabas und Saulus",
+      "start": {
+        "chapter": 11,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Hilfeleistung für die Gläubigen in Judäa",
+      "start": {
+        "chapter": 11,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Gefangenschaft und Befreiung des Petrus",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Das Gericht Gottes über Herodes Agrippa",
+      "start": {
+        "chapter": 12,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die erste Missionsreise: Aussendung von Barnabas und Saulus",
+      "start": {
+        "chapter": 12,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Barnabas und Saulus verkündigen das Evangelium auf Zypern",
+      "start": {
+        "chapter": 13,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Verkündigung des Paulus vor den Juden von Antiochia in Pisidien",
+      "start": {
+        "chapter": 13,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Die Juden widerstehen dem Evangelium – die Heiden nehmen es an",
+      "start": {
+        "chapter": 13,
+        "verse": 42
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 52
+      }
+    },
+    {
+      "heading": "Segen und Kämpfe in Ikonium",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Heilung eines Lahmen in Lystra",
+      "start": {
+        "chapter": 14,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Paulus wird in Lystra gesteinigt. Rückreise nach Antiochia",
+      "start": {
+        "chapter": 14,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die Beratung in Jerusalem über das Verhältnis zu den Heidenchristen",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Das Schreiben an die Gemeinden",
+      "start": {
+        "chapter": 15,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Trennung von Paulus und Barnabas. Aufbruch von Paulus zur zweiten Missionsreise",
+      "start": {
+        "chapter": 15,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Paulus nimmt Timotheus mit sich",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Der göttliche Ruf nach Mazedonien",
+      "start": {
+        "chapter": 16,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Paulus in Philippi. Lydia, die Purpurhändlerin",
+      "start": {
+        "chapter": 16,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Magd mit dem Wahrsagegeist",
+      "start": {
+        "chapter": 16,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Paulus und Silas im Gefängnis. Die Bekehrung des Kerkermeisters",
+      "start": {
+        "chapter": 16,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Die Freilassung von Paulus und Silas",
+      "start": {
+        "chapter": 16,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Paulus und Silas in Thessalonich",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Aufnahme des Evangeliums in Beröa",
+      "start": {
+        "chapter": 17,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Paulus in Athen",
+      "start": {
+        "chapter": 17,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Verkündigung des Paulus auf dem Areopag",
+      "start": {
+        "chapter": 17,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Paulus in Korinth",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Rückreise nach Antiochia",
+      "start": {
+        "chapter": 18,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die dritte Missionsreise. Apollos in Ephesus",
+      "start": {
+        "chapter": 18,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Paulus in Ephesus. Die Jünger des Johannes",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Verkündigung des Evangeliums und begleitende Zeichen und Wunder",
+      "start": {
+        "chapter": 19,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Aufruhr in Ephesus",
+      "start": {
+        "chapter": 19,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 41
+      }
+    },
+    {
+      "heading": "Paulus in Mazedonien und Griechenland",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "In Troas. Die Auferweckung des Eutychus",
+      "start": {
+        "chapter": 20,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Weiterreise nach Milet",
+      "start": {
+        "chapter": 20,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Abschiedsrede des Paulus an die Ältesten von Ephesus",
+      "start": {
+        "chapter": 20,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Weiterreise nach Tyrus",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Paulus in Ptolemais und Cäsarea",
+      "start": {
+        "chapter": 21,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Paulus in Jerusalem",
+      "start": {
+        "chapter": 21,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Paulus wird im Tempel gefangen genommen",
+      "start": {
+        "chapter": 21,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Die Rede des Paulus an das jüdische Volk",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Paulus vor dem römischen Befehlshaber",
+      "start": {
+        "chapter": 22,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Paulus vor dem Hohen Rat",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der geplante Mordanschlag der Juden",
+      "start": {
+        "chapter": 23,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Paulus wird nach Cäsarea gebracht",
+      "start": {
+        "chapter": 23,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Paulus wird vor dem Statthalter Felix angeklagt",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Verteidigungsrede des Paulus",
+      "start": {
+        "chapter": 24,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Das Gespräch des Apostels mit Felix und Drusilla. Haft in Cäsarea",
+      "start": {
+        "chapter": 24,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Paulus vor Festus",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Paulus beruft sich auf den Kaiser",
+      "start": {
+        "chapter": 25,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Statthalter Festus und König Agrippa besprechen sich",
+      "start": {
+        "chapter": 25,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Paulus verantwortet sich vor dem König Agrippa",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die Überfahrt des Apostels nach Italien",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Sturm",
+      "start": {
+        "chapter": 27,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Schiffbruch und Rettung",
+      "start": {
+        "chapter": 27,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Drei Monate Aufenthalt auf Melite",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Paulus kommt nach Rom und wird dort gefangen gehalten",
+      "start": {
+        "chapter": 28,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Das Zeugnis an die Juden in Rom",
+      "start": {
+        "chapter": 28,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Paulus als Zeuge Jesu Christi in Rom",
+      "start": {
+        "chapter": 28,
+        "verse": 30
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 31
+      }
+    }
+  ],
+  "selected": false
+}

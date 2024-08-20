@@ -1,0 +1,523 @@
+{
+  "name": "1. Samuel",
+  "chapters": [
+    28,
+    36,
+    21,
+    22,
+    12,
+    21,
+    17,
+    22,
+    27,
+    27,
+    15,
+    25,
+    23,
+    52,
+    35,
+    23,
+    58,
+    30,
+    24,
+    42,
+    16,
+    23,
+    28,
+    23,
+    44,
+    25,
+    12,
+    25,
+    11,
+    31,
+    13
+  ],
+  "headings": [
+    {
+      "heading": "Samuel, von Gott erbeten und ihm geweiht",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Hannas Gebet",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Gottlosigkeit der Söhne Elis",
+      "start": {
+        "chapter": 2,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Samuel wächst bei dem Herrn heran",
+      "start": {
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Gerichtsandrohung Gottes",
+      "start": {
+        "chapter": 2,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Der Herr offenbart sich Samuel",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Philister besiegen Israel und rauben die Bundeslade",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Die Bundeslade bei den Philistern",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Bundeslade wird von den Philistern zurückgesandt",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Israels Buße und die Hilfe des Herrngegen die Philister",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Israel begehrt einen König",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Saul trifft Samuel in Rama",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Saul wird von Samuel zum König gesalbtund dem Volk vorgestellt",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Saul schlägt die Ammoniter bei Jabes-Gilead",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Samuel legt sein Richteramt nieder",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Israel verzagt vor den Philistern. Sauls eigenmächtiges Opfer",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Jonathans Sieg über die Philister",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Sauls verkehrter Schwur schwächt das Volkund gefährdet Jonathan",
+      "start": {
+        "chapter": 14,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Sauls Kriegstaten und seine Familie",
+      "start": {
+        "chapter": 14,
+        "verse": 47
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 52
+      }
+    },
+    {
+      "heading": "Krieg gegen Amalek. Sauls Ungehorsam und Verwerfung",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "David wird von Samuel zum König gesalbt",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Ein böser Geist überfällt Saul. David im Dienst Sauls",
+      "start": {
+        "chapter": 16,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Goliath verhöhnt das Heer Israels",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "David kommt zum Heer",
+      "start": {
+        "chapter": 17,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "David besiegt Goliath",
+      "start": {
+        "chapter": 17,
+        "verse": 32
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 58
+      }
+    },
+    {
+      "heading": "Freundschaftsbund zwischen David und Jonathan. Sauls Eifersucht gegen David",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "David wird Sauls Schwiegersohn",
+      "start": {
+        "chapter": 18,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Saul trachtet David nach dem Leben",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "David und Jonathan",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "David bei den Priestern von Nob",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "David flieht zu den Philistern nach Gat",
+      "start": {
+        "chapter": 21,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "David in der Höhle Adullam undbeim König der Moabiter",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Saul ermordet die Priester des Herrn",
+      "start": {
+        "chapter": 22,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "David befreit Kehila von den Philistern",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Saul verfolgt David",
+      "start": {
+        "chapter": 23,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "David flieht in die Wüsten von Siph und Maon",
+      "start": {
+        "chapter": 23,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "David verschont Sauls Leben in der Höhle von En-Gedi",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Samuels Tod. David, Nabal und Abigail",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "In der Wüste Siph. David verschont Saul zum zweiten Mal",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "David im Land der Philister",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Krieg der Philister gegen Israel. Saul bei der Totenbeschwörerin in Endor",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "David darf am Kriegszug der Philisternicht teilnehmen",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "David rettet die Seinen aus der Hand der Amalekiter",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Das Ende Sauls und seiner Söhne",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 13
+      }
+    }
+  ],
+  "selected": false
+}

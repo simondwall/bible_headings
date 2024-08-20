@@ -1,0 +1,53 @@
+{
+  "name": "Philemonbrief",
+  "chapters": [
+    25
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Dank für den Glauben und die Liebe Philemon",
+      "start": {
+        "chapter": 1,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Fürsprache für Onesimus",
+      "start": {
+        "chapter": 1,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Persönliche Mitteilungen und Grüße",
+      "start": {
+        "chapter": 1,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 25
+      }
+    }
+  ],
+  "selected": false
+}

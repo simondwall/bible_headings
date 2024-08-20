@@ -1,0 +1,53 @@
+{
+  "name": "3. Johannes",
+  "chapters": [
+    15
+  ],
+  "headings": [
+    {
+      "heading": "Zuschrift und Gruß",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Treue des Gajus in der Unterstützung von Dienern des Herrn",
+      "start": {
+        "chapter": 1,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Falsche Führer in der Gemeinde",
+      "start": {
+        "chapter": 1,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Schlussworte",
+      "start": {
+        "chapter": 1,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 15
+      }
+    }
+  ],
+  "selected": false
+}

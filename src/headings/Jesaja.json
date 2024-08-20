@@ -1,0 +1,1240 @@
+{
+  "name": "Jesaja",
+  "chapters": [
+    31,
+    22,
+    26,
+    6,
+    30,
+    13,
+    25,
+    23,
+    20,
+    34,
+    16,
+    6,
+    22,
+    32,
+    9,
+    14,
+    14,
+    7,
+    25,
+    6,
+    17,
+    25,
+    18,
+    23,
+    12,
+    21,
+    13,
+    29,
+    24,
+    33,
+    9,
+    20,
+    24,
+    17,
+    10,
+    22,
+    38,
+    22,
+    8,
+    31,
+    29,
+    25,
+    28,
+    28,
+    25,
+    13,
+    15,
+    22,
+    26,
+    11,
+    23,
+    15,
+    12,
+    17,
+    13,
+    12,
+    21,
+    14,
+    21,
+    22,
+    11,
+    12,
+    19,
+    11,
+    25,
+    24
+  ],
+  "headings": [
+    {
+      "heading": "Klage über das abtrünnige Volk",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Der Herr tadelt den falschen Gottesdienst",
+      "start": {
+        "chapter": 1,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Gericht und Läuterung für Jerusalem",
+      "start": {
+        "chapter": 1,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Das zukünftige Königreich in Zion",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Das kommende Gericht Gottes über allen Hochmut und Götzendienst",
+      "start": {
+        "chapter": 2,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Gericht über Jerusalem und Juda",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die stolzen Töchter Zions und das kommende Gericht",
+      "start": {
+        "chapter": 3,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 1
+      }
+    },
+    {
+      "heading": "Der Spross des Herrn wird Zion Rettung und Segen bringen",
+      "start": {
+        "chapter": 4,
+        "verse": 2
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Israel, der unfruchtbare Weinberg des Herrn",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Weherufe und Gerichtssprüche über Israel",
+      "start": {
+        "chapter": 5,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Jesaja schaut den Herrn und wird von ihm berufen",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die Bedrohung Jerusalems und Gottes Aufruf zum Glauben",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das Zeichen des Herrn: der verheißene Immanuel",
+      "start": {
+        "chapter": 7,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Ankündigung einer Invasion durch die Assyrer",
+      "start": {
+        "chapter": 7,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Assyrien, das Werkzeug in Gottes Hand",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Aufruf zur Gottesfurcht und zum geduldigen Warten auf den Herrn",
+      "start": {
+        "chapter": 8,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Verheißung des kommenden Friedefürsten",
+      "start": {
+        "chapter": 8,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Gottes Zorn über das Nordreich von Israel",
+      "start": {
+        "chapter": 9,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Gottes Gericht über den Hochmut von Assyrien",
+      "start": {
+        "chapter": 10,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Ein Überrest von Israel wird gerettet werden",
+      "start": {
+        "chapter": 10,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Der Messias und seine Herrschaft",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Der Dank der erlösten Israeliten",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Weissagung gegen Babylon",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Ruhe für Israel nach der Niederlage Babylons",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Das Spottlied auf den König von Babel",
+      "start": {
+        "chapter": 14,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Weissagung gegen Assyrien",
+      "start": {
+        "chapter": 14,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Weissagung gegen das Land der Philister",
+      "start": {
+        "chapter": 14,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Ankündigung des Gerichts über Moab",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Weissagung gegen Damaskus",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Botschaft an das Land Kusch (Äthiopien)",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Gottes Gericht über Ägypten",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Weissagung gegen Ägypten und Kusch",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Weissagung über den Fall von Babylon",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Weissagungen über Edom und Arabien",
+      "start": {
+        "chapter": 21,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das kommende Gericht über Jerusalem",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gerichtswort über Schebna – Erhöhung des Eljakim",
+      "start": {
+        "chapter": 22,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der Fall von Tyrus",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Das Gericht über das Land Israel und die Könige der Erde",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Lob Gottes angesichts der Segnungen des messianischen Friedensreiches",
+      "start": {
+        "chapter": 25,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 25,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Loblied der Erlösten zur Verherrlichung Gottes",
+      "start": {
+        "chapter": 26,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 26,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Ankündigung der Wiederherstellung Israels",
+      "start": {
+        "chapter": 27,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 27,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Gerichtswort über die sorglosen Führer von Israel und Juda",
+      "start": {
+        "chapter": 28,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Die frevlerischen Herrscher in Jerusalem und der kostbare Eckstein",
+      "start": {
+        "chapter": 28,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 28,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Weheruf über Jerusalem",
+      "start": {
+        "chapter": 29,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Verheißung der künftigen Rettung für Israel",
+      "start": {
+        "chapter": 29,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 29,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Weheruf über das abtrünnige Volk",
+      "start": {
+        "chapter": 30,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Zukunftsverheißungen für Israel",
+      "start": {
+        "chapter": 30,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Ankündigung des Gerichts über Assyrien",
+      "start": {
+        "chapter": 30,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 30,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Das Volk soll auf die Hilfe des Herrn vertrauen, nicht auf Ägypten",
+      "start": {
+        "chapter": 31,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 31,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das kommende Friedensreich des Messias",
+      "start": {
+        "chapter": 32,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 32,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Jerusalems Not und Rettung",
+      "start": {
+        "chapter": 33,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 33,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das künftige Strafgericht über die Heidenvölker, besonders über Edom",
+      "start": {
+        "chapter": 34,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 34,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Freude der Erlösten Israels über die Rettung des Herrn",
+      "start": {
+        "chapter": 35,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 35,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Sanheribs Feldzug gegen Jerusalem",
+      "start": {
+        "chapter": 36,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 36,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Hiskia sucht Jesajas Fürbitte. Der Herr wendet die Belagerung ab",
+      "start": {
+        "chapter": 37,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Hiskias Gebet und die Antwort des Herrn",
+      "start": {
+        "chapter": 37,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 37,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Hiskias Krankheit und Genesung",
+      "start": {
+        "chapter": 38,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 38,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Gesandte aus Babel kommen zu Hiskia",
+      "start": {
+        "chapter": 39,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 39,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Die gute Botschaft von der Erlösung",
+      "start": {
+        "chapter": 40,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Macht und Herrlichkeit Gottes",
+      "start": {
+        "chapter": 40,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 40,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Trost für Israel – Nichtigkeit der Götzendiener",
+      "start": {
+        "chapter": 41,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 41,
+        "verse": 29
+      }
+    },
+    {
+      "heading": "Der Messias, der Knecht des Herrn",
+      "start": {
+        "chapter": 42,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Das machtvolle Eingreifen des Herrn gegen seine Feinde",
+      "start": {
+        "chapter": 42,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Israel ist blind und taub für die Züchtigung und das Reden Gottes",
+      "start": {
+        "chapter": 42,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 42,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der Herr ist der Erlöser Israels",
+      "start": {
+        "chapter": 43,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Herr wird Israel retten trotz dessen Untreue",
+      "start": {
+        "chapter": 43,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 43,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Der Herr wird seinen Geist auf Israel ausgießen",
+      "start": {
+        "chapter": 44,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Der Herr allein ist Gott – die Torheit des Götzendienstes",
+      "start": {
+        "chapter": 44,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Der Herr schenkt Vergebung für Israel — Ankündigung der Rückkehr nach Jerusalem unter Kyrus",
+      "start": {
+        "chapter": 44,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 44,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Gott sendet Kyrus",
+      "start": {
+        "chapter": 45,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Der Herr ist der einzige Gott",
+      "start": {
+        "chapter": 45,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Herr rettet Israel und bietet auch den Heiden sein Heil an",
+      "start": {
+        "chapter": 45,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 45,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Das Ende der Götzen Babylons",
+      "start": {
+        "chapter": 46,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 46,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Babylons Fall",
+      "start": {
+        "chapter": 47,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 47,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Der Herr mahnt Israel, auf sein Reden zu hören",
+      "start": {
+        "chapter": 48,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 48,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Messias offenbart sich als der Knecht des Herrn",
+      "start": {
+        "chapter": 49,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Der Herr redet zu seinem Knecht",
+      "start": {
+        "chapter": 49,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Herr verheißt Zion sein Erbarmen und seine Rettung",
+      "start": {
+        "chapter": 49,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 49,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Vorhaltungen des Herrn an Israel",
+      "start": {
+        "chapter": 50,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Der Knecht des Herrn wird angegriffen, aber Gott steht ihm bei",
+      "start": {
+        "chapter": 50,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 50,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Der Herr tröstet die gottesfürchtigen Israeliten und verheißt ihnen Hilfe",
+      "start": {
+        "chapter": 51,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 51,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Zuspruch für das bedrängte Jerusalem",
+      "start": {
+        "chapter": 51,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 51,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Der Herr verheißt Heil für Jerusalem",
+      "start": {
+        "chapter": 52,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 52,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Erniedrigung und Erhöhung des Messias wird angekündigt",
+      "start": {
+        "chapter": 52,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 52,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das stellvertretende Leiden und Sterben des Messias für die Sünder",
+      "start": {
+        "chapter": 53,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 53,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Das zukünftige Wohlergehen Israels",
+      "start": {
+        "chapter": 54,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 54,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Gnadenangebot Gottes",
+      "start": {
+        "chapter": 55,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 55,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Ermahnung an Israel, die Gebote zu halten. Auch der Fremdling darf Gott nahen",
+      "start": {
+        "chapter": 56,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 56,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Tadel für die nachlässigen Hirten Israels",
+      "start": {
+        "chapter": 56,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 56,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Tadel für die Untreue und den Götzendienst in Israel",
+      "start": {
+        "chapter": 57,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 57,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Verheißungen für den Demütigen – Kein Friede für die Gottlosen",
+      "start": {
+        "chapter": 57,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 57,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Aufruf an das Volk zu echter Buße und wohlgefälligem Fasten",
+      "start": {
+        "chapter": 58,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 58,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Die Sünden des Volkes trennen es von Gott",
+      "start": {
+        "chapter": 59,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 59,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Vergeltung den Widersachern, Erlösung für die Bekehrten",
+      "start": {
+        "chapter": 59,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 59,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die Wiederherstellung Jerusalems wird verheißen",
+      "start": {
+        "chapter": 60,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 60,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Der Messias offenbart seine Sendung",
+      "start": {
+        "chapter": 61,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 61,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Die Wiederherstellung Israels im messianischen Reich",
+      "start": {
+        "chapter": 61,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 61,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Flehen um das Heil für Jerusalem",
+      "start": {
+        "chapter": 62,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 62,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Der Tag der Vergeltung für die Heidenvölker",
+      "start": {
+        "chapter": 63,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 63,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Rückblick des Volkes Israel auf Gottes Gnadenerweise",
+      "start": {
+        "chapter": 63,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 63,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Israels Flehen um Gottes Eingreifen in der Bedrängnis",
+      "start": {
+        "chapter": 63,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 64,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Gottes Antwort: Vergeltung für die Unbußfertigen, Heil für die Gottesfürchtigen in Israel",
+      "start": {
+        "chapter": 65,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 65,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Gott wird einen neuen Himmel und eine neue Erde erschaffen",
+      "start": {
+        "chapter": 65,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 65,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Der Herr wird die Gottesfürchtigen erhöhen, die Gesetzlosen aber im Zorn richten",
+      "start": {
+        "chapter": 66,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 66,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das Heil Jerusalems",
+      "start": {
+        "chapter": 66,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 66,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Gericht und Gnade im kommenden Friedensreich des Messias",
+      "start": {
+        "chapter": 66,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 66,
+        "verse": 24
+      }
+    }
+  ],
+  "selected": false
+}

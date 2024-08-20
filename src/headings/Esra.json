@@ -1,0 +1,183 @@
+{
+  "name": "Esra",
+  "chapters": [
+    11,
+    70,
+    13,
+    24,
+    17,
+    22,
+    28,
+    36,
+    15,
+    44
+  ],
+  "headings": [
+    {
+      "heading": "Der Erlass des persischen Königs Kyrus (Kores)",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Verzeichnis der Rückkehrer aus dem Exil",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 70
+      }
+    },
+    {
+      "heading": "Der Wiederaufbau des Brandopferaltars",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Grundsteinlegung für den zweiten Tempel",
+      "start": {
+        "chapter": 3,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Widersacher schrecken das Volk vom Bau ab",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Die Wiederaufnahme des Tempelbaues",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der Erlass des Königs Darius",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Einweihung des Tempels und das Passah",
+      "start": {
+        "chapter": 6,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Esra kommt nach Jerusalem",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die Vollmacht des Königs Artasasta für Esra",
+      "start": {
+        "chapter": 7,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Verzeichnis der mit Esra Zurückgekehrten",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Esras Reisebericht",
+      "start": {
+        "chapter": 8,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Esras Bußgebet wegen der Mischehen",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Umkehr des Volkes",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Verzeichnis der Männer, die fremde Frauen heimgeführt hatten",
+      "start": {
+        "chapter": 10,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 44
+      }
+    }
+  ],
+  "selected": false
+}

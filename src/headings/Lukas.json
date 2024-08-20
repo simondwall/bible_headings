@@ -1,0 +1,1583 @@
+{
+  "name": "Lukas",
+  "chapters": [
+    80,
+    52,
+    38,
+    44,
+    39,
+    49,
+    50,
+    56,
+    62,
+    42,
+    54,
+    59,
+    35,
+    35,
+    32,
+    31,
+    37,
+    43,
+    48,
+    47,
+    38,
+    71,
+    56,
+    53
+  ],
+  "headings": [
+    {
+      "heading": "Vorrede: Das zuverlässige Zeugnis des Evangeliums",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Die Ankündigung der Geburt Johannes des Täufers",
+      "start": {
+        "chapter": 1,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die Ankündigung der Geburt Jesu Christi",
+      "start": {
+        "chapter": 1,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Der Besuch Marias bei Elisabeth",
+      "start": {
+        "chapter": 1,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 45
+      }
+    },
+    {
+      "heading": "Der Lobpreis Marias",
+      "start": {
+        "chapter": 1,
+        "verse": 46
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 56
+      }
+    },
+    {
+      "heading": "Die Geburt Johannes des Täufers",
+      "start": {
+        "chapter": 1,
+        "verse": 57
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 66
+      }
+    },
+    {
+      "heading": "Der Lobpreis des Zacharias",
+      "start": {
+        "chapter": 1,
+        "verse": 67
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 80
+      }
+    },
+    {
+      "heading": "Die Geburt Jesu Christi in Bethlehem",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Hirten und die Engel",
+      "start": {
+        "chapter": 2,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Darstellung Jesu im Tempel von Jerusalem",
+      "start": {
+        "chapter": 2,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Lobpreis Simeons. Die Prophetin Hanna",
+      "start": {
+        "chapter": 2,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Rückkehr nach Nazareth",
+      "start": {
+        "chapter": 2,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Der zwölfjährige Jesus im Tempel",
+      "start": {
+        "chapter": 2,
+        "verse": 41
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 52
+      }
+    },
+    {
+      "heading": "Die Verkündigung Johannes des Täufers",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Taufe Jesu Christi",
+      "start": {
+        "chapter": 3,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Das Geschlechtsregister Jesu Christi",
+      "start": {
+        "chapter": 3,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Die Versuchung Jesu Christi",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Beginn des Wirkens Jesu in Galiläa",
+      "start": {
+        "chapter": 4,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Verkündigung in der Synagoge von Nazareth",
+      "start": {
+        "chapter": 4,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Jesus treibt einen unreinen Geist aus",
+      "start": {
+        "chapter": 4,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Die Heilung der Schwiegermutter des Petrus und anderer Kranker",
+      "start": {
+        "chapter": 4,
+        "verse": 38
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Der wunderbare Fischzug. Die Berufung der ersten Jünger",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Heilung eines Aussätzigen",
+      "start": {
+        "chapter": 5,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Die Heilung eines Gelähmten",
+      "start": {
+        "chapter": 5,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Berufung des Levi",
+      "start": {
+        "chapter": 5,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Vom Fasten. Gleichnisse vom neuen Flicken und vom neuen Wein",
+      "start": {
+        "chapter": 5,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Jesus ist der Herr über den Sabbat",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Der Mann mit der verdorrten Hand",
+      "start": {
+        "chapter": 6,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Die Wahl der zwölf Apostel",
+      "start": {
+        "chapter": 6,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Jesu Wirken in Galiläa",
+      "start": {
+        "chapter": 6,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Seligpreisungen und Weherufe",
+      "start": {
+        "chapter": 6,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Liebe zu den Feinden",
+      "start": {
+        "chapter": 6,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Warnung vor dem Richten",
+      "start": {
+        "chapter": 6,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Der Baum und die Früchte",
+      "start": {
+        "chapter": 6,
+        "verse": 43
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 45
+      }
+    },
+    {
+      "heading": "Der kluge und der törichte Baumeister",
+      "start": {
+        "chapter": 6,
+        "verse": 46
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Der Hauptmann von Kapernaum",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die Auferweckung des Jünglings von Nain",
+      "start": {
+        "chapter": 7,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Jesus und Johannes der Täufer",
+      "start": {
+        "chapter": 7,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Die Salbung Jesu im Haus des Pharisäers",
+      "start": {
+        "chapter": 7,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 50
+      }
+    },
+    {
+      "heading": "Die dienenden Frauen in der Begleitung Jesu",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom Sämann",
+      "start": {
+        "chapter": 8,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Der Grund für die Gleichnisreden",
+      "start": {
+        "chapter": 8,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die Deutung des Gleichnisses vom Sämann",
+      "start": {
+        "chapter": 8,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das Licht auf dem Leuchter",
+      "start": {
+        "chapter": 8,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die wahren Verwandten Jesu",
+      "start": {
+        "chapter": 8,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Jesus stillt den Sturm",
+      "start": {
+        "chapter": 8,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Heilung eines Besessenen",
+      "start": {
+        "chapter": 8,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 39
+      }
+    },
+    {
+      "heading": "Die Heilung einer blutflüssigen Frau. Die Auferweckung der Tochter des Jairus",
+      "start": {
+        "chapter": 8,
+        "verse": 40
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 56
+      }
+    },
+    {
+      "heading": "Die Aussendung der zwölf Apostel",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Die Frage des Herodes",
+      "start": {
+        "chapter": 9,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Die Speisung der Fünftausend",
+      "start": {
+        "chapter": 9,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Bekenntnis des Petrus. Die erste Ankündigung von Jesu Tod und Auferstehung",
+      "start": {
+        "chapter": 9,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 22
+      }
+    },
+    {
+      "heading": "Über die Nachfolge",
+      "start": {
+        "chapter": 9,
+        "verse": 23
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Die Verklärung Jesu",
+      "start": {
+        "chapter": 9,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Heilung eines besessenen Knaben",
+      "start": {
+        "chapter": 9,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Die zweite Ankündigung von Jesu Leiden",
+      "start": {
+        "chapter": 9,
+        "verse": 43
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 45
+      }
+    },
+    {
+      "heading": "Der Größte im Reich Gottes",
+      "start": {
+        "chapter": 9,
+        "verse": 46
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 50
+      }
+    },
+    {
+      "heading": "Jesus in Samaria",
+      "start": {
+        "chapter": 9,
+        "verse": 51
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 56
+      }
+    },
+    {
+      "heading": "Vom Preis der Nachfolge",
+      "start": {
+        "chapter": 9,
+        "verse": 57
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 62
+      }
+    },
+    {
+      "heading": "Die Aussendung der siebzig Jünger",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Das Wehe über die unbußfertigen Städte",
+      "start": {
+        "chapter": 10,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Das große Vorrecht der Jünger",
+      "start": {
+        "chapter": 10,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom barmherzigen Samariter",
+      "start": {
+        "chapter": 10,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Martha und Maria",
+      "start": {
+        "chapter": 10,
+        "verse": 38
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 42
+      }
+    },
+    {
+      "heading": "Vom Beten",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Ermutigung zum beharrlichen Gebet",
+      "start": {
+        "chapter": 11,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Jesu Macht über die bösen Geister",
+      "start": {
+        "chapter": 11,
+        "verse": 14
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die Rückkehr des unreinen Geistes",
+      "start": {
+        "chapter": 11,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Das Zeichen des Propheten Jona",
+      "start": {
+        "chapter": 11,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die Leuchte des Leibes",
+      "start": {
+        "chapter": 11,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Strafrede gegen die Pharisäer und Schriftgelehrten",
+      "start": {
+        "chapter": 11,
+        "verse": 37
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 54
+      }
+    },
+    {
+      "heading": "Aufruf zum offenen Bekenntnis für Jesus Christus",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom reichen Narren",
+      "start": {
+        "chapter": 12,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Von unnützen Sorgen",
+      "start": {
+        "chapter": 12,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Ermahnung zur Wachsamkeit",
+      "start": {
+        "chapter": 12,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 48
+      }
+    },
+    {
+      "heading": "Das Bekenntnis zu Christus bringt Trennung",
+      "start": {
+        "chapter": 12,
+        "verse": 49
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 53
+      }
+    },
+    {
+      "heading": "Zeichen der Zeit. Ermahnung zu Versöhnlichkeit",
+      "start": {
+        "chapter": 12,
+        "verse": 54
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 59
+      }
+    },
+    {
+      "heading": "Ermahnung zur Buße",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Jesus heilt am Sabbat eine verkrümmte Frau",
+      "start": {
+        "chapter": 13,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Die Gleichnisse vom Senfkorn und vom Sauerteig",
+      "start": {
+        "chapter": 13,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Die enge Pforte",
+      "start": {
+        "chapter": 13,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Feindschaft des Herodes. Klage über Jerusalem",
+      "start": {
+        "chapter": 13,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Jesus heilt einen Wassersüchtigen am Sabbat",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Demut und wahre Wohltätigkeit",
+      "start": {
+        "chapter": 14,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom großen Gastmahl",
+      "start": {
+        "chapter": 14,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Bedingungen der Nachfolge",
+      "start": {
+        "chapter": 14,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom verlorenen Schaf",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Das Gleichnis von der verlorenen Drachme",
+      "start": {
+        "chapter": 15,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom verlorenen Sohn",
+      "start": {
+        "chapter": 15,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom untreuen Haushalter",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Ermahnung zum treuen Dienen",
+      "start": {
+        "chapter": 16,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Das Gesetz und das Reich Gottes",
+      "start": {
+        "chapter": 16,
+        "verse": 16
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Ehebruch und Ehescheidung",
+      "start": {
+        "chapter": 16,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der reiche Mann und der arme Lazarus",
+      "start": {
+        "chapter": 16,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Anstöße zur Sünde. Vergebung. Die Kraft des Glaubens",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Von der Pflichterfüllung im Dienst",
+      "start": {
+        "chapter": 17,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Die Heilung der zehn Aussätzigen",
+      "start": {
+        "chapter": 17,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Das Reich Gottes und die Wiederkunft des Menschensohnes",
+      "start": {
+        "chapter": 17,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 37
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom ungerechten Richter",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Gleichnis vom Pharisäer und vom Zöllner",
+      "start": {
+        "chapter": 18,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Jesus segnet die Kinder",
+      "start": {
+        "chapter": 18,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Der reiche Oberste und das Erbe des ewigen Lebens",
+      "start": {
+        "chapter": 18,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Jesus sagt zum dritten Mal sein Leiden und seine Auferstehung voraus",
+      "start": {
+        "chapter": 18,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 34
+      }
+    },
+    {
+      "heading": "Heilung eines Blinden in Jericho",
+      "start": {
+        "chapter": 18,
+        "verse": 35
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Der Oberzöllner Zachäus",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Das Gleichnis von den anvertrauten Pfunden",
+      "start": {
+        "chapter": 19,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 27
+      }
+    },
+    {
+      "heading": "Der Einzug des Messias Jesus in Jerusalem",
+      "start": {
+        "chapter": 19,
+        "verse": 28
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Jesus weint über Jerusalem",
+      "start": {
+        "chapter": 19,
+        "verse": 41
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 44
+      }
+    },
+    {
+      "heading": "Die zweite Tempelreinigung",
+      "start": {
+        "chapter": 19,
+        "verse": 45
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 48
+      }
+    },
+    {
+      "heading": "Die Frage nach der Vollmacht Jesu",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 8
+      }
+    },
+    {
+      "heading": "Das Gleichnis von den Weingärtnern",
+      "start": {
+        "chapter": 20,
+        "verse": 9
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Frage nach der Steuer",
+      "start": {
+        "chapter": 20,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 26
+      }
+    },
+    {
+      "heading": "Die Sadduzäer und die Frage nach der Auferstehung",
+      "start": {
+        "chapter": 20,
+        "verse": 27
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Wessen Sohn ist der Christus? Warnung vor den Schriftgelehrten",
+      "start": {
+        "chapter": 20,
+        "verse": 41
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 47
+      }
+    },
+    {
+      "heading": "Das Scherflein der Witwe",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Jesus sagt die Zerstörung des Tempels voraus",
+      "start": {
+        "chapter": 21,
+        "verse": 5
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Ankündigung von Verführung und Verfolgung",
+      "start": {
+        "chapter": 21,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Die Ankündigung der Zerstörung Jerusalems",
+      "start": {
+        "chapter": 21,
+        "verse": 20
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das Kommen des Menschensohnes in Kraft und Herrlichkeit",
+      "start": {
+        "chapter": 21,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 33
+      }
+    },
+    {
+      "heading": "Ermahnung zur Wachsamkeit",
+      "start": {
+        "chapter": 21,
+        "verse": 34
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Der Plan der Führer Israels und der Verrat des Judas",
+      "start": {
+        "chapter": 22,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das letzte Passahmahl",
+      "start": {
+        "chapter": 22,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Die Einsetzung des Mahles des Herrn",
+      "start": {
+        "chapter": 22,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Jesus sagt den Verrat voraus",
+      "start": {
+        "chapter": 22,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Vom Herrschen und vom Dienen",
+      "start": {
+        "chapter": 22,
+        "verse": 24
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Jesu Gebet für Petrus. Die Ankündigung der Verleugnung",
+      "start": {
+        "chapter": 22,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 38
+      }
+    },
+    {
+      "heading": "Gethsemane",
+      "start": {
+        "chapter": 22,
+        "verse": 39
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 46
+      }
+    },
+    {
+      "heading": "Die Gefangennahme Jesu",
+      "start": {
+        "chapter": 22,
+        "verse": 47
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 53
+      }
+    },
+    {
+      "heading": "Die Verleugnung durch Petrus",
+      "start": {
+        "chapter": 22,
+        "verse": 54
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 62
+      }
+    },
+    {
+      "heading": "Jesus vor dem Hohen Rat",
+      "start": {
+        "chapter": 22,
+        "verse": 63
+      },
+      "end": {
+        "chapter": 22,
+        "verse": 71
+      }
+    },
+    {
+      "heading": "Jesus vor Pilatus und Herodes",
+      "start": {
+        "chapter": 23,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Verurteilung Jesu durch die Volksmenge",
+      "start": {
+        "chapter": 23,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Jesus auf dem Weg zur Kreuzigung",
+      "start": {
+        "chapter": 23,
+        "verse": 26
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 32
+      }
+    },
+    {
+      "heading": "Die Kreuzigung Jesu",
+      "start": {
+        "chapter": 23,
+        "verse": 33
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Der Tod Jesu",
+      "start": {
+        "chapter": 23,
+        "verse": 44
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Die Grablegung Jesu",
+      "start": {
+        "chapter": 23,
+        "verse": 50
+      },
+      "end": {
+        "chapter": 23,
+        "verse": 56
+      }
+    },
+    {
+      "heading": "Die Auferstehung Jesu Christi",
+      "start": {
+        "chapter": 24,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Die Jünger von Emmaus",
+      "start": {
+        "chapter": 24,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Jesus erscheint den Jüngern",
+      "start": {
+        "chapter": 24,
+        "verse": 36
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 43
+      }
+    },
+    {
+      "heading": "Der Auftrag zur Verkündigung des Evangeliums",
+      "start": {
+        "chapter": 24,
+        "verse": 44
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 49
+      }
+    },
+    {
+      "heading": "Die Himmelfahrt Jesu Christi",
+      "start": {
+        "chapter": 24,
+        "verse": 50
+      },
+      "end": {
+        "chapter": 24,
+        "verse": 53
+      }
+    }
+  ],
+  "selected": false
+}

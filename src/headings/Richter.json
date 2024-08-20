@@ -1,0 +1,469 @@
+{
+  "name": "Richter",
+  "chapters": [
+    36,
+    23,
+    31,
+    24,
+    31,
+    40,
+    25,
+    35,
+    57,
+    18,
+    40,
+    15,
+    25,
+    20,
+    20,
+    31,
+    13,
+    31,
+    30,
+    48,
+    25
+  ],
+  "headings": [
+    {
+      "heading": "Judas Kampf gegen die Kanaaniter",
+      "start": {
+        "chapter": 1,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Die Untreue der anderen Stämme. Verschonung der Kanaaniter",
+      "start": {
+        "chapter": 1,
+        "verse": 21
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 36
+      }
+    },
+    {
+      "heading": "Der Engel des Herrn tadelt Israels Ungehorsam",
+      "start": {
+        "chapter": 2,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Ungehorsam und Niederlagen der neuen Generation. Die Richter",
+      "start": {
+        "chapter": 2,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 23
+      }
+    },
+    {
+      "heading": "Die übrig gebliebenen Kanaaniter im Land Israel",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Otniel besiegt den König von Aram-Naharajim",
+      "start": {
+        "chapter": 3,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ehud besiegt Moab",
+      "start": {
+        "chapter": 3,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Schamgar besiegt die Philister",
+      "start": {
+        "chapter": 3,
+        "verse": 31
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Debora und Barak besiegen Jabin und Sisera",
+      "start": {
+        "chapter": 4,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 16
+      }
+    },
+    {
+      "heading": "Jael tötet Sisera",
+      "start": {
+        "chapter": 4,
+        "verse": 17
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Das Siegeslied Deboras und Baraks",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Israels Ungehorsam. Unterdrückung durch die Midianiter",
+      "start": {
+        "chapter": 6,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Herr beruft Gideon",
+      "start": {
+        "chapter": 6,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 24
+      }
+    },
+    {
+      "heading": "Der Altar Baals wird niedergerissen",
+      "start": {
+        "chapter": 6,
+        "verse": 25
+      },
+      "end": {
+        "chapter": 6,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Gott erwählt sich 300 aus Gideons Streitmacht",
+      "start": {
+        "chapter": 7,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 14
+      }
+    },
+    {
+      "heading": "Der Kampf gegen die Midianiter",
+      "start": {
+        "chapter": 7,
+        "verse": 15
+      },
+      "end": {
+        "chapter": 7,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Die Verfolgung des Rests der Midianiter. Strafgericht über untreue Städte in Israel",
+      "start": {
+        "chapter": 8,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Gideons weiterer Richterdienst",
+      "start": {
+        "chapter": 8,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 8,
+        "verse": 35
+      }
+    },
+    {
+      "heading": "Abimelech ermordet seine Brüderund erhebt sich selbst zum König",
+      "start": {
+        "chapter": 9,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 6
+      }
+    },
+    {
+      "heading": "Das Gleichnis Jotams",
+      "start": {
+        "chapter": 9,
+        "verse": 7
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Gottes Strafgericht über Sichem. Das Ende Abimelechs",
+      "start": {
+        "chapter": 9,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 9,
+        "verse": 57
+      }
+    },
+    {
+      "heading": "Tola und Jair als Richter in Israel",
+      "start": {
+        "chapter": 10,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 5
+      }
+    },
+    {
+      "heading": "Israel wird den Philistern und Ammonitern unterworfen",
+      "start": {
+        "chapter": 10,
+        "verse": 6
+      },
+      "end": {
+        "chapter": 10,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Jephtah wird Richter in Israel",
+      "start": {
+        "chapter": 11,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Jephtahs Botschaft an die Ammoniter",
+      "start": {
+        "chapter": 11,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 28
+      }
+    },
+    {
+      "heading": "Die Niederlage der Ammoniter. Jephtahs Tochter",
+      "start": {
+        "chapter": 11,
+        "verse": 29
+      },
+      "end": {
+        "chapter": 11,
+        "verse": 40
+      }
+    },
+    {
+      "heading": "Jephtahs Strafgericht über Ephraim",
+      "start": {
+        "chapter": 12,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Die Richter Ibzan, Elon und Abdon",
+      "start": {
+        "chapter": 12,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 12,
+        "verse": 15
+      }
+    },
+    {
+      "heading": "Die Geburt Simsons",
+      "start": {
+        "chapter": 13,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 13,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Simsons Heirat mit einer Tochter der Philister",
+      "start": {
+        "chapter": 14,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 14,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Simsons Krafttaten im Streit mit den Philistern",
+      "start": {
+        "chapter": 15,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 15,
+        "verse": 20
+      }
+    },
+    {
+      "heading": "Simson und die Hure in Gaza",
+      "start": {
+        "chapter": 16,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Simson und Delila",
+      "start": {
+        "chapter": 16,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 21
+      }
+    },
+    {
+      "heading": "Simsons Rache und Tod",
+      "start": {
+        "chapter": 16,
+        "verse": 22
+      },
+      "end": {
+        "chapter": 16,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Michas Bilderdienst in Ephraim. Ein Levit wird sein Priester",
+      "start": {
+        "chapter": 17,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 17,
+        "verse": 13
+      }
+    },
+    {
+      "heading": "Der Überfall der Daniter auf Lais. Die Übernahme des falschen Priesters und seiner Bilder",
+      "start": {
+        "chapter": 18,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 18,
+        "verse": 31
+      }
+    },
+    {
+      "heading": "Die Schandtat der Einwohner von Gibea",
+      "start": {
+        "chapter": 19,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 19,
+        "verse": 30
+      }
+    },
+    {
+      "heading": "Die Gemeinde Israels berät über die Strafegegen Gibea und Benjamin",
+      "start": {
+        "chapter": 20,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 18
+      }
+    },
+    {
+      "heading": "Der Kampf der Israeliten gegen Benjamin",
+      "start": {
+        "chapter": 20,
+        "verse": 19
+      },
+      "end": {
+        "chapter": 20,
+        "verse": 48
+      }
+    },
+    {
+      "heading": "Das Friedensangebot für den Überrestdes Stammes Benjamin",
+      "start": {
+        "chapter": 21,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 21,
+        "verse": 25
+      }
+    }
+  ],
+  "selected": false
+}
