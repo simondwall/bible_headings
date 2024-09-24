@@ -176,14 +176,18 @@
 
     function checkOption(clickedHeading, button) {
         if (clickedHeading.heading == current_heading.heading) {
+            let false_buttons = document.getElementsByClassName("false");
+            Array.from(false_buttons).forEach((btn) => btn.classList.remove("false"));
+
             button.disabled = true;
             button.classList.add("correct-" + current_guess);
-            button.classList.remove("false");
+
             const heading_text = document.createTextNode(
                 current_heading.heading,
             );
             const heading_line = document.createElement("div");
             heading_line.appendChild(heading_text);
+
             button.appendChild(heading_line);
             if (current_guess == 0) {
                 correct_guesses += 1;
