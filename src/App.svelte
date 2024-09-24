@@ -67,63 +67,78 @@
     import Zephanja from "./headings/Zephanja.json";
 
     let books = [
-        [Mose_1, Mose_2, Mose_3, Mose_4, Mose_5],
-        [
-            Josua,
-            Richter,
-            Ruth,
-            Samuel_1,
-            Samuel_2,
-            Könige_1,
-            Könige_2,
-            Chronik_1,
-            Chronik_2,
-            Esra,
-            Nehemia,
-            Esther,
-        ],
-        [Hiob, Psalmen, Sprüche, Prediger, Hohelied],
-        [Jesaja, Jeremia, Klagelieder, Hesekiel, Daniel],
-        [
-            Hosea,
-            Joel,
-            Amos,
-            Obadja,
-            Jona,
-            Micha,
-            Nahum,
-            Habakuk,
-            Zephanja,
-            Haggai,
-            Sacharja,
-            Maleachi,
-        ],
-        [Matthäus, Markus, Lukas, Johannes],
-        [Apostelgeschichte],
-        [
-            Römer,
-            Korinther_1,
-            Korinther_2,
-            Galater,
-            Epheser,
-            Philipper,
-            Kolosser,
-            Thessalonicher_1,
-            Thessalonicher_2,
-            Timotheus_1,
-            Timotheus_2,
-            Titus,
-            Philemon,
-            Hebräer,
-            Jakobus,
-            Petrus_1,
-            Petrus_2,
-            Johannes_1,
-            Johannes_2,
-            Johannes_3,
-            Judas,
-        ],
-        [Offenbarung],
+        { title: "Tora", books: [Mose_1, Mose_2, Mose_3, Mose_4, Mose_5] },
+        {
+            title: "Geschichtsbücher",
+            books: [
+                Josua,
+                Richter,
+                Ruth,
+                Samuel_1,
+                Samuel_2,
+                Könige_1,
+                Könige_2,
+                Chronik_1,
+                Chronik_2,
+                Esra,
+                Nehemia,
+                Esther,
+            ],
+        },
+        {
+            title: "Lehr- und Poesiebücher",
+            books: [Hiob, Psalmen, Sprüche, Prediger, Hohelied],
+        },
+        {
+            title: "Große Propheten",
+            books: [Jesaja, Jeremia, Klagelieder, Hesekiel, Daniel],
+        },
+        {
+            title: "Kleine Propheten",
+            books: [
+                Hosea,
+                Joel,
+                Amos,
+                Obadja,
+                Jona,
+                Micha,
+                Nahum,
+                Habakuk,
+                Zephanja,
+                Haggai,
+                Sacharja,
+                Maleachi,
+            ],
+        },
+        { title: "Evangelien", books: [Matthäus, Markus, Lukas, Johannes] },
+        { title: "Geschichtsbuch", books: [Apostelgeschichte] },
+        {
+            title: "Briefe",
+            books: [
+                Römer,
+                Korinther_1,
+                Korinther_2,
+                Galater,
+                Epheser,
+                Philipper,
+                Kolosser,
+                Thessalonicher_1,
+                Thessalonicher_2,
+                Timotheus_1,
+                Timotheus_2,
+                Titus,
+                Philemon,
+                Hebräer,
+                Jakobus,
+                Petrus_1,
+                Petrus_2,
+                Johannes_1,
+                Johannes_2,
+                Johannes_3,
+                Judas,
+            ],
+        },
+        { title: "Apokalyptisches Buch", books: [Offenbarung] },
     ];
 
     // logic
@@ -150,17 +165,11 @@
         return b;
     }
 
-    function selectAll(section) {
-        for (let book of section) {
-            book.selected = true;
-        }
-        return section;
-    }
-
     function start() {
         started = true;
         current_headings = shuffle(
             books
+                .flatMap((section) => section.books)
                 .flat()
                 .filter((book) => book.selected)
                 .flatMap((book) => book.headings),
@@ -177,7 +186,9 @@
     function checkOption(clickedHeading, button) {
         if (clickedHeading.heading == current_heading.heading) {
             let false_buttons = document.getElementsByClassName("false");
-            Array.from(false_buttons).forEach((btn) => btn.classList.remove("false"));
+            Array.from(false_buttons).forEach((btn) =>
+                btn.classList.remove("false"),
+            );
 
             button.disabled = true;
             button.classList.add("correct-" + current_guess);
@@ -198,7 +209,9 @@
             /**
              * @type NodeListOf<HTMLButtonElement>
              */
-            let all_buttons = document.querySelectorAll("button.heading-option");
+            let all_buttons = document.querySelectorAll(
+                "button.heading-option",
+            );
             let correct_button = Array.from(all_buttons).filter(
                 (btn) =>
                     !btn.disabled &&
@@ -222,145 +235,159 @@
 </script>
 
 {#if !started}
-    <h1>Bibelüberschriften Trainer</h1>
-    <div id="book-box">
-        {#each books as section}
-            <div class="book-section">
-                <button
-                    class="select-all"
-                    on:click={() => (section = selectAll(section))}
-                    >Alle auswählen</button
-                >
-                {#each section as book}
-                    <div class="book">
-                        <input type="checkbox" bind:checked={book.selected} />
-                        <span>{book.name}</span>
+    <main>
+        <div class="grid">
+            {#each books as section}
+                <div class="card">
+                    <h1 class="title">{section.title}</h1>
+                    <div class="list">
+                        {#each section.books as book}
+                            <div class="book">
+                                <input
+                                    id="{book.name}-checkbox"
+                                    type="checkbox"
+                                    bind:checked={book.selected}
+                                />
+                                <label for="{book.name}-checkbox"
+                                    >{book.name}</label
+                                >
+                            </div>
+                        {/each}
                     </div>
-                {/each}
-            </div>
-        {/each}
-    </div>
-    <button on:click={start}>Start</button>
+                </div>
+            {/each}
+        </div>
+
+        <div class="bottom-control">
+            <button class="primary" on:click={start} style="min-width: 20rem;"
+                >Start</button
+            >
+        </div>
+    </main>
 {:else}
     {#if current_heading}
-        <div id="current-heading">{current_heading.heading}</div>
-    {/if}
-    <div id="book-box">
-        {#each books.flat().filter((book) => book.selected) as book}
-            <div class="book-section">
-                <h2>{book.name}</h2>
-                {#each book.headings as heading}
-                    <div class="heading-option">
-                        <button
-                            class="heading-option"
-                            data-heading={heading.heading.replaceAll(" ", "_")}
-                            on:click={(e) => checkOption(heading, e.target)}
-                        >
-                            {heading.start.chapter}:{heading.start.verse} - {heading
-                                .end.chapter}:{heading.end.verse}
-                        </button>
-                    </div>
-                {/each}
-            </div>
-        {/each}
-    </div>
-    <button
-        on:click={() => {
-            dialog.showModal();
-        }}>Übung Beenden</button
-    >
-    <dialog bind:this={dialog}>
-        <h2>Übung beendet</h2>
-        <div>
-            <span>{correct_guesses}/{number_of_all_headings}</span>
-            <span>
-                {Math.round((correct_guesses / number_of_all_headings) * 100)}%
-            </span>
+        <div class="sticky-header">
+            <h1 class="title">{current_heading.heading}</h1>
         </div>
-        <button on:click={endTraining}>Zurück zur Auswahl</button>
-    </dialog>
+    {/if}
+
+    <main>
+        <div class="list">
+            {#each books
+                .flatMap((section) => section.books)
+                .flat()
+                .filter((book) => book.selected) as book}
+                <div
+                    class="card"
+                    style="width: 80%; max-width: 25em; margin: auto;"
+                >
+                    <h1 class="title">{book.name}</h1>
+                    <div class="list">
+                        {#each book.headings as heading}
+                            <button
+                                style="width: 100%; text-wrap:wrap;"
+                                class="heading-option"
+                                data-heading={heading.heading.replaceAll(
+                                    " ",
+                                    "_",
+                                )}
+                                on:click={(e) => checkOption(heading, e.target)}
+                            >
+                                {heading.start.chapter}:{heading.start.verse} - {heading
+                                    .end.chapter}:{heading.end.verse}
+                            </button>
+                        {/each}
+                    </div>
+                </div>
+            {/each}
+        </div>
+
+        <div class="bottom-control">
+            <button
+                class="primary"
+                on:click={() => {
+                    dialog.showModal();
+                }}>Übung Beenden</button
+            >
+        </div>
+
+        <dialog bind:this={dialog}>
+            <div class="card">
+                <h1 class="title">Übung beendet</h1>
+                <div style="width: max-content; margin: auto;">
+                    {correct_guesses}/{number_of_all_headings}
+                </div>
+                <div style="width: max-content; margin: auto;">
+                    {Math.round(
+                        (correct_guesses / number_of_all_headings) * 100,
+                    )}%
+                </div>
+                <button class="primary" on:click={endTraining}
+                    >Zurück zur Auswahl</button
+                >
+            </div>
+        </dialog>
+    </main>
 {/if}
 
 <style>
-    #book-box {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-evenly;
-    }
-
-    .book-section {
-        padding: 1em;
-        background: #202020;
-        border-radius: 8px;
-        margin: 1em;
-        width: max-content;
-    }
-
-    .book {
-        width: max-content;
-    }
-
-    .select-all {
-        width: max-content;
-        margin-bottom: 1em;
-    }
-
-    .heading-option {
-        margin: 0.5em;
-    }
-
-    #current-heading {
-        position: sticky;
-        top: 1em;
-        padding: 1em;
-        background: #303030;
-        border-radius: 8px;
-    }
-
     @keyframes blink {
         0% {
-            background: #1a1a1a;
+            background: #85251a00;
         }
         50% {
             background: #85251a;
         }
         100% {
-            background: #1a1a1a;
+            background: #85251a00;
         }
     }
 
-    :global(.false) {
+    :global(
+            .false,
+            .correct-0,
+            .correct-1,
+            .correct-2,
+            .correct-3,
+            .correct-4
+        ) {
+        position: relative;
+    }
+    :global(
+            .false::before,
+            .correct-0::before,
+            .correct-1::before,
+            .correct-2::before,
+            .correct-3::before,
+            .correct-4::before
+        ) {
+        position: absolute;
+        top: -3.5px;
+        left: -3.5px;
+        content: "";
+        width: 15px;
+        height: 15px;
+        border-radius: 7.5px;
+    }
+
+    :global(.false::before) {
         animation-name: blink;
         animation-duration: 0.5s;
         animation-iteration-count: infinite;
     }
-
-    :global(.correct-0) {
+    :global(.correct-0::before) {
         background: #33671a;
     }
-    :global(.correct-1) {
+    :global(.correct-1::before) {
         background: #8d9916;
     }
-    :global(.correct-2) {
+    :global(.correct-2::before) {
         background: #d0a42e;
     }
-    :global(.correct-3) {
+    :global(.correct-3::before) {
         background: #b05623;
     }
-    :global(.correct-4) {
+    :global(.correct-4::before) {
         background: #85251a;
-    }
-
-    dialog {
-        position: relative;
-        border-radius: 8px;
-    }
-
-    dialog > div {
-        margin: 1em;
-        display: flex;
-        justify-content: space-between;
-        gap: 2em;
-        font-size: 2em;
     }
 </style>
