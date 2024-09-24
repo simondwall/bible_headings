@@ -191,9 +191,16 @@
             current_guess = 0;
             current_heading = current_headings.pop();
         } else if (current_guess >= 3) {
-            let correct_button = document.getElementById(
-                `${current_heading.start.chapter}:${current_heading.start.verse}`,
-            );
+            /**
+             * @type NodeListOf<HTMLButtonElement>
+             */
+            let all_buttons = document.querySelectorAll("button.heading-option");
+            let correct_button = Array.from(all_buttons).filter(
+                (btn) =>
+                    !btn.disabled &&
+                    btn.dataset.heading ==
+                        current_heading.heading.replaceAll(" ", "_"),
+            )[0];
             correct_button.classList.add("false");
             current_guess = 4;
         } else {
@@ -241,7 +248,8 @@
                 {#each book.headings as heading}
                     <div class="heading-option">
                         <button
-                            id="{heading.start.chapter}:{heading.start.verse}"
+                            class="heading-option"
+                            data-heading={heading.heading.replaceAll(" ", "_")}
                             on:click={(e) => checkOption(heading, e.target)}
                         >
                             {heading.start.chapter}:{heading.start.verse} - {heading
