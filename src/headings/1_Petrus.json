@@ -15,6 +15,138 @@
         "verse": 1
       },
       "end": {
+        "chapter": 1,
+        "verse": 2
+      }
+    },
+    {
+      "heading": "Die lebendige Hoffnung der Gläubigen",
+      "start": {
+        "chapter": 1,
+        "verse": 3
+      },
+      "end": {
+        "chapter": 1,
+        "verse": 12
+      }
+    },
+    {
+      "heading": "Ermahnung zu einem heiligen Wandel",
+      "start": {
+        "chapter": 1,
+        "verse": 13
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 3
+      }
+    },
+    {
+      "heading": "Jesus Christus als Eckstein des Hauses Gottes. Die Berufung der Gemeinde als heiliges Priestertum",
+      "start": {
+        "chapter": 2,
+        "verse": 4
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 10
+      }
+    },
+    {
+      "heading": "Der Wandel des Gläubigen als Fremdling in dieser Welt",
+      "start": {
+        "chapter": 2,
+        "verse": 11
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Verhältnis der Gläubigen zu Vorgesetzten. Das herrliche Vorbild Jesu Christi",
+      "start": {
+        "chapter": 2,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 2,
+        "verse": 25
+      }
+    },
+    {
+      "heading": "Weisungen für Frauen und Männer",
+      "start": {
+        "chapter": 3,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 7
+      }
+    },
+    {
+      "heading": "Geistliche Haltung inmitten von Bedrängnissen und Verfolgungen",
+      "start": {
+        "chapter": 3,
+        "verse": 8
+      },
+      "end": {
+        "chapter": 3,
+        "verse": 17
+      }
+    },
+    {
+      "heading": "Das Vorbild Jesu Christi als Ansporn für einen heiligen Wandel",
+      "start": {
+        "chapter": 3,
+        "verse": 18
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 9
+      }
+    },
+    {
+      "heading": "Gegenseitiges Dienen in der Gemeinde",
+      "start": {
+        "chapter": 4,
+        "verse": 10
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 11
+      }
+    },
+    {
+      "heading": "Ermutigung zu standhaftem Leiden um des Christus willen",
+      "start": {
+        "chapter": 4,
+        "verse": 12
+      },
+      "end": {
+        "chapter": 4,
+        "verse": 19
+      }
+    },
+    {
+      "heading": "Ermahnung für die Ältesten in den Gemeinden",
+      "start": {
+        "chapter": 5,
+        "verse": 1
+      },
+      "end": {
+        "chapter": 5,
+        "verse": 4
+      }
+    },
+    {
+      "heading": "Ermahnung zu Demut und Wachsamkeit gegenüber dem Widersacher",
+      "start": {
+        "chapter": 5,
+        "verse": 5
+      },
+      "end": {
         "chapter": 5,
         "verse": 11
       }
