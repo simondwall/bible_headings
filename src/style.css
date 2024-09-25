@@ -96,7 +96,7 @@ button.primary {
 }
 
 button:enabled:hover {
-    transform: scale(1.1, 1.1);
+    transform: scale(0.95, 0.95);
 }
 
 button:disabled {

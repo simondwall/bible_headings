@@ -181,7 +181,7 @@
         number_of_all_headings = current_headings.length;
         current_heading = current_headings.pop();
         correct_guesses = 0;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: "smooth" });
     }
 
     function checkOption(clickedHeading, button) {
@@ -232,6 +232,7 @@
     function endTraining() {
         started = false;
         dialog.close();
+        window.scrollTo({ top: 0, behavior: "smooth" });
     }
 </script>
 
@@ -283,18 +284,63 @@
                     <h1 class="title">{book.name}</h1>
                     <div class="list">
                         {#each book.headings as heading}
-                            <button
-                                style="width: 100%; text-wrap:wrap;"
-                                class="heading-option"
-                                data-heading={heading.heading.replaceAll(
-                                    " ",
-                                    "_",
-                                )}
-                                on:click={(e) => checkOption(heading, e.target)}
-                            >
-                                {heading.start.chapter}:{heading.start.verse} - {heading
-                                    .end.chapter}:{heading.end.verse}
-                            </button>
+                            <div>
+                                {#if heading.start.verse == 1 && heading.end.verse != book.chapters[heading.end.chapter - 1] && heading.start.chapter == heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px); transform: translate(0, 0.5rem);"
+                                    />
+                                {:else if heading.start.verse != 1 && heading.end.verse == book.chapters[heading.end.chapter - 1] && heading.start.chapter == heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px); transform: translate(0, -0.5rem);"
+                                    />
+                                {:else if heading.start.verse != 1 && heading.end.verse != book.chapters[heading.end.chapter - 1] && heading.start.chapter == heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px); transform: scale(1, 1.5);"
+                                    />
+                                {:else if heading.start.verse == 1 && heading.end.verse == book.chapters[heading.end.chapter - 1] && heading.start.chapter == heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px - 1rem); transform: translate(0, 0.5rem);"
+                                    />
+                                {:else if heading.start.verse == 1 && heading.end.verse != book.chapters[heading.end.chapter - 1] && heading.start.chapter != heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px); transform-origin: top; transform: translate(0, 0.5rem) scale(1, 1.5);"
+                                    />
+                                {:else if heading.start.verse != 1 && heading.end.verse == book.chapters[heading.end.chapter - 1] && heading.start.chapter != heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px); transform-origin: bottom; transform: translate(0, 0.5rem) scale(1, 1.5);"
+                                    />
+                                {:else if heading.start.verse != 1 && heading.end.verse != book.chapters[heading.end.chapter - 1] && heading.start.chapter != heading.end.chapter}
+                                    <div
+                                        class="chapter-line"
+                                        style="height: calc({heading.height}px + 2px); transform: translate(0, -{heading.height/2+2}px) translate(0, -0.3rem);"
+                                    />
+                                    <div
+                                        class="chapter-line"
+                                        style="position: absolute; height: calc({heading.height}px + 2px); transform: translate(0, {heading.height/2+2}px) translate(0, 0.3rem);"
+                                    />
+                                {/if}
+                                <button
+                                    style="width: calc(100% - 10px); text-wrap:wrap; margin-left: 5px;"
+                                    class="heading-option"
+                                    data-heading={heading.heading.replaceAll(
+                                        " ",
+                                        "_",
+                                    )}
+                                    on:click={(e) =>
+                                        checkOption(heading, e.target)}
+                                    bind:clientHeight={heading.height}
+                                >
+                                    {heading.start.chapter}:{heading.start
+                                        .verse} - {heading.end.chapter}:{heading
+                                        .end.verse}
+                                </button>
+                            </div>
                         {/each}
                     </div>
                 </div>
@@ -388,5 +434,13 @@
     }
     :global(.correct-4::before) {
         background: #85251a;
+    }
+
+    .chapter-line {
+        width: 5px;
+        background: var(--accent);
+        float: left;
+        border-radius: 6px;
+        z-index: -1;
     }
 </style>
