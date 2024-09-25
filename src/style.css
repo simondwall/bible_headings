@@ -68,6 +68,11 @@ body {
     margin: 0;
 }
 
+main {
+    min-height: 100vh;
+    padding: 1rem;
+}
+
 @media (min-width: 81em) {
     main {
         width: 80em;
@@ -164,43 +169,44 @@ div.card>.title {
 div.grid {
     display: grid;
     gap: 1rem;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(min(20em, 100%), 1fr));
 }
 
-@media (max-width: 70em) {
-    div.grid {
-        grid-template-columns: 1fr 1fr;
+@media (min-width: 62em) {
+    div.grid>*:only-child {
+        grid-column: 2;
     }
 }
 
-@media (max-width: 40em) {
-    div.grid {
-        grid-template-columns: 1fr;
+@media (min-width: 41em) and (max-width: 62em) {
+    div.grid>*:only-child {
+        grid-column-start: 1;
+        grid-column-end: 3;
     }
 }
 
-div.bottom-control {
-    position: sticky;
-    bottom: 0;
-    z-index: 1;
-    text-align: center;
-    margin-top: 1rem;
-}
-
-div.sticky-header {
+div.sticky {
     position: sticky;
     text-align: center;
     z-index: 1;
-    top: 0;
     padding: 0.5rem;
     background: var(--background-transparent);
     backdrop-filter: blur(3px);
+}
+
+div.sticky.footer {
+    margin-top: 1rem;
+    border-top: 1px solid var(--secondary);
+    bottom: 0;
+}
+
+div.sticky.header {
     border-bottom: 1px solid var(--secondary);
+    top: 0;
     margin-bottom: 1rem;
 }
 
-div.sticky-header>.title {
-    font-size: 1.2em;
+div.sticky>.title {
     font-weight: lighter;
 }
 

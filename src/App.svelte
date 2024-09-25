@@ -181,6 +181,7 @@
         number_of_all_headings = current_headings.length;
         current_heading = current_headings.pop();
         correct_guesses = 0;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function checkOption(clickedHeading, button) {
@@ -257,22 +258,20 @@
                 </div>
             {/each}
         </div>
-
-        <div class="bottom-control">
-            <button class="primary" on:click={start} style="min-width: 20rem;"
-                >Start</button
-            >
-        </div>
     </main>
+
+    <div class="sticky footer">
+        <button class="primary" on:click={start}>Start</button>
+    </div>
 {:else}
     {#if current_heading}
-        <div class="sticky-header">
+        <div class="sticky header">
             <h1 class="title">{current_heading.heading}</h1>
         </div>
     {/if}
 
     <main>
-        <div class="list">
+        <div class="grid">
             {#each books
                 .flatMap((section) => section.books)
                 .flat()
@@ -302,15 +301,6 @@
             {/each}
         </div>
 
-        <div class="bottom-control">
-            <button
-                class="primary"
-                on:click={() => {
-                    dialog.showModal();
-                }}>Übung Beenden</button
-            >
-        </div>
-
         <dialog bind:this={dialog}>
             <div class="card">
                 <h1 class="title">Übung beendet</h1>
@@ -328,6 +318,15 @@
             </div>
         </dialog>
     </main>
+
+    <div class="sticky footer">
+        <button
+            class="primary"
+            on:click={() => {
+                dialog.showModal();
+            }}>Übung Beenden</button
+        >
+    </div>
 {/if}
 
 <style>
