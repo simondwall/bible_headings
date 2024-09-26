@@ -65,6 +65,7 @@
     import Sprüche from "./headings/Sprüche.json";
     import Titus from "./headings/Titus.json";
     import Zephanja from "./headings/Zephanja.json";
+    import { onMount } from "svelte";
 
     let books = [
         { title: "Tora", books: [Mose_1, Mose_2, Mose_3, Mose_4, Mose_5] },
@@ -145,10 +146,10 @@
     let started = false;
     let current_headings = [];
     let current_heading = null;
-    let current_guess = 0;
+    let current_tries = 0;
 
     // stats
-    let correct_guesses = 0;
+    let score = 0;
     let number_of_all_headings = 0;
 
     let dialog = undefined;
@@ -180,8 +181,8 @@
         }
         number_of_all_headings = current_headings.length;
         current_heading = current_headings.pop();
-        correct_guesses = 0;
-        window.scrollTo({ top: 0, behavior: "smooth" });
+        score = 0;
+        window.scrollTo(0, 0);
     }
 
     function checkOption(clickedHeading, button) {
@@ -192,7 +193,7 @@
             );
 
             button.disabled = true;
-            button.classList.add("correct-" + current_guess);
+            button.classList.add("correct-" + current_tries);
 
             const heading_text = document.createTextNode(
                 current_heading.heading,
@@ -201,12 +202,10 @@
             heading_line.appendChild(heading_text);
 
             button.appendChild(heading_line);
-            if (current_guess == 0) {
-                correct_guesses += 1;
-            }
-            current_guess = 0;
+            score += Math.max(1 - (1 / 4) * current_tries, 0);
+            current_tries = 0;
             current_heading = current_headings.pop();
-        } else if (current_guess >= 3) {
+        } else if (current_tries >= 3) {
             /**
              * @type NodeListOf<HTMLButtonElement>
              */
@@ -220,9 +219,9 @@
                         current_heading.heading.replaceAll(" ", "_"),
             )[0];
             correct_button.classList.add("false");
-            current_guess = 4;
+            current_tries = 4;
         } else {
-            current_guess += 1;
+            current_tries += 1;
         }
         if (!current_heading) {
             dialog.showModal();
@@ -232,7 +231,7 @@
     function endTraining() {
         started = false;
         dialog.close();
-        window.scrollTo({ top: 0, behavior: "smooth" });
+        window.scrollTo(0, 0);
     }
 </script>
 
@@ -290,6 +289,9 @@
                                         class="chapter-line"
                                         style="height: calc({heading.height}px + 2px); transform: translate(0, 0.5rem);"
                                     />
+                                    <div class="chapter-line-number">
+                                        {heading.start.chapter}
+                                    </div>
                                 {:else if heading.start.verse != 1 && heading.end.verse == book.chapters[heading.end.chapter - 1] && heading.start.chapter == heading.end.chapter}
                                     <div
                                         class="chapter-line"
@@ -305,11 +307,17 @@
                                         class="chapter-line"
                                         style="height: calc({heading.height}px + 2px - 1rem); transform: translate(0, 0.5rem);"
                                     />
+                                    <div class="chapter-line-number">
+                                        {heading.start.chapter}
+                                    </div>
                                 {:else if heading.start.verse == 1 && heading.end.verse != book.chapters[heading.end.chapter - 1] && heading.start.chapter != heading.end.chapter}
                                     <div
                                         class="chapter-line"
                                         style="height: calc({heading.height}px + 2px); transform-origin: top; transform: translate(0, 0.5rem) scale(1, 1.5);"
                                     />
+                                    <div class="chapter-line-number">
+                                        {heading.start.chapter}
+                                    </div>
                                 {:else if heading.start.verse != 1 && heading.end.verse == book.chapters[heading.end.chapter - 1] && heading.start.chapter != heading.end.chapter}
                                     <div
                                         class="chapter-line"
@@ -318,15 +326,21 @@
                                 {:else if heading.start.verse != 1 && heading.end.verse != book.chapters[heading.end.chapter - 1] && heading.start.chapter != heading.end.chapter}
                                     <div
                                         class="chapter-line"
-                                        style="height: calc({heading.height}px + 2px); transform: translate(0, -{heading.height/2+2}px) translate(0, -0.3rem);"
+                                        style="height: calc({heading.height}px + 2px); transform: translate(0, -{heading.height /
+                                            2 +
+                                            2}px) translate(0, -0.3rem);"
                                     />
                                     <div
                                         class="chapter-line"
-                                        style="position: absolute; height: calc({heading.height}px + 2px); transform: translate(0, {heading.height/2+2}px) translate(0, 0.3rem);"
+                                        style="position: absolute; height: calc({heading.height}px + 2px); transform: translate(0, {heading.height / 2 + 2}px) translate(0, 0.3rem);"
                                     />
+                                    <div class="chapter-line-number" style="transform: translate(0, {heading.height / 2}px);">
+                                        {heading.end.chapter}
+                                    </div>
                                 {/if}
+
                                 <button
-                                    style="width: calc(100% - 10px); text-wrap:wrap; margin-left: 5px;"
+                                    style="width: calc(100% - 7px - 1rem); text-wrap:wrap; margin-left: calc(5px);"
                                     class="heading-option"
                                     data-heading={heading.heading.replaceAll(
                                         " ",
@@ -347,20 +361,21 @@
             {/each}
         </div>
 
-        <dialog bind:this={dialog}>
+        <dialog bind:this={dialog} style="width: min(30em, 100%);">
             <div class="card">
-                <h1 class="title">Übung beendet</h1>
+                <h1 class="title">Ergebnis</h1>
                 <div style="width: max-content; margin: auto;">
-                    {correct_guesses}/{number_of_all_headings}
+                    {score}/{number_of_all_headings}
                 </div>
                 <div style="width: max-content; margin: auto;">
-                    {Math.round(
-                        (correct_guesses / number_of_all_headings) * 100,
-                    )}%
+                    {Math.round((score / number_of_all_headings) * 100)}%
                 </div>
                 <button class="primary" on:click={endTraining}
                     >Zurück zur Auswahl</button
                 >
+                <button on:click={() => {
+                    dialog.close();
+                }}>Abbrechen</button>
             </div>
         </dialog>
     </main>
@@ -437,10 +452,21 @@
     }
 
     .chapter-line {
-        width: 5px;
+        width: 2px;
         background: var(--accent);
         float: left;
         border-radius: 6px;
         z-index: -1;
+        margin-left: 1rem;
+    }
+
+    .chapter-line-number {
+        position: absolute;
+        color: var(--accent);
+        font-weight: bold;
+        font-size: 0.75em;
+        z-index: 0;
+        width: calc(1rem - 2px);
+        text-align: right;
     }
 </style>

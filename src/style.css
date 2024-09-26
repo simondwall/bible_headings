@@ -20,6 +20,8 @@
 
 @media (prefers-color-scheme: light) {
     :root {
+        --primary-shade: #2f2f2f;
+        --background-shade: #e7e7e7;
         --background-transparent: #f7f7f7b0;
         /* color is stored in the url */
         --tick-svg-url: url('data:image/svg+xml,<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style=";stroke-linecap:square;stroke-miterlimit:1.5;"><g transform="matrix(1,0,0,1.3,-0.72,-0.69)"><path d="M2.076,5.312L4.068,6.813L9.355,2.018" style="fill:none;stroke:%23ffffff;stroke-width:1px;"/></g></svg>');
@@ -28,6 +30,8 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
+        --primary-shade: #d0d0d0;
+        --background-shade: #181818;
         --background-transparent: #080808b0;
         /* color is stored in the url */
         --tick-svg-url: url('data:image/svg+xml,<svg viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style=";stroke-linecap:square;stroke-miterlimit:1.5;"><g transform="matrix(1,0,0,1.3,-0.72,-0.69)"><path d="M2.076,5.312L4.068,6.813L9.355,2.018" style="fill:none;stroke:%23000000;stroke-width:1px;"/></g></svg>');
@@ -84,7 +88,7 @@ main {
 button {
     border-radius: var(--radius);
     padding: 10px;
-    border: 1px solid var(--accent);
+    border: 1px solid var(--secondary);
     background: var(--background);
     color: var(--text);
 }
@@ -96,7 +100,11 @@ button.primary {
 }
 
 button:enabled:hover {
-    transform: scale(0.95, 0.95);
+    background: var(--background-shade);
+}
+
+button.primary:enabled:hover {
+    background: var(--primary-shade);
 }
 
 button:disabled {
@@ -223,4 +231,12 @@ dialog>* {
 dialog::backdrop {
     background: var(--background-transparent);
     backdrop-filter: blur(3px);
+}
+
+dialog button.primary, dialog button {
+    outline: none;
+}
+
+h1 {
+    line-height: 1.2em;
 }
