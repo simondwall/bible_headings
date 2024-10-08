@@ -278,7 +278,7 @@
                 .filter((book) => book.selected) as book}
                 <div
                     class="card"
-                    style="width: 80%; max-width: 25em; margin: auto;"
+                    style="width: 80%; max-width: 25em;"
                 >
                     <h1 class="title">{book.name}</h1>
                     <div class="list">
@@ -391,6 +391,10 @@
 {/if}
 
 <style>
+    :root {
+        touch-action: manipulation;
+    }
+
     @keyframes blink {
         0% {
             background: #85251a00;
