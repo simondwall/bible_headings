@@ -211,7 +211,7 @@ div.sticky.footer {
 @media (display-mode: standalone) {
     div.sticky.footer {
         padding-top: 0.5rem;
-        padding-bottom: 2.5rem;
+        padding-bottom: 4.5rem;
     }
 }
 
