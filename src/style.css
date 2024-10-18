@@ -206,8 +206,13 @@ div.sticky.footer {
     margin-top: 1rem;
     border-top: 1px solid var(--secondary);
     bottom: 0;
-    padding-top: 0.5rem;
-    padding-bottom: 1.3rem;
+}
+
+@media (display-mode: standalone) {
+    div.sticky.footer {
+        padding-top: 0.5rem;
+        padding-bottom: 2.5rem;
+    }
 }
 
 div.sticky.header {
