@@ -206,12 +206,14 @@ div.sticky.footer {
     margin-top: 1rem;
     border-top: 1px solid var(--secondary);
     bottom: 0;
+    padding-top: 0.5rem;
+    padding-bottom: 1.3rem;
 }
 
 div.sticky.header {
+    margin-bottom: 1rem;
     border-bottom: 1px solid var(--secondary);
     top: 0;
-    margin-bottom: 1rem;
 }
 
 div.sticky>.title {
